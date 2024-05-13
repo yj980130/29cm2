@@ -1,3 +1,7 @@
+/* 상품 소분류 */
+
+
+
 create sequence seq_SMALL_CTGR;
 /*여성의류*/ 
 --상의
@@ -850,7 +854,13 @@ INSERT INTO SMALL_CTGR(SMALL_CTGR_ID, SMALL_CTGR_NAME, MEDIUM_CTGR_ID) VALUES (s
 INSERT INTO SMALL_CTGR(SMALL_CTGR_ID, SMALL_CTGR_NAME, MEDIUM_CTGR_ID) VALUES (seq_SMALL_CTGR.nextval , '클래스,멤버십,이용권', 1101 );
 
 
-ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+/* 상품 중분류 */
+SELECT * FROM MEDIUM_CTGR;
+
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+/* 주요 카테고리 */
+SELECT * FROM main_ctgr;
 
 INSERT INTO MAIN_CTGR(main_ctgr_id, main_ctgr_name) VALUES (1, 'WOMEN' );
 INSERT INTO MAIN_CTGR(main_ctgr_id, main_ctgr_name) VALUES (2, 'MEN' );
@@ -864,8 +874,12 @@ INSERT INTO MAIN_CTGR(main_ctgr_id, main_ctgr_name) VALUES (9, 'LEISURE' );
 INSERT INTO MAIN_CTGR(main_ctgr_id, main_ctgr_name) VALUES (10, 'KIDS' );
 INSERT INTO MAIN_CTGR(main_ctgr_id, main_ctgr_name) VALUES (11, 'CULTURE' );
 
-ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+/* 상품 대분류 */
+SELECT * FROM LARGE_CTGR;
 
+
+
+--WOMEN
 INSERT INTO LARGE_CTGR(LARGE_CTGR_ID, MAIN_CTGR_NAME, MAIN_CTGR_ID) VALUES (1, '여성의류', 1 );
 INSERT INTO LARGE_CTGR(LARGE_CTGR_ID, MAIN_CTGR_NAME, MAIN_CTGR_ID) VALUES (2, '여성가방', 1 );
 INSERT INTO LARGE_CTGR(LARGE_CTGR_ID, MAIN_CTGR_NAME, MAIN_CTGR_ID) VALUES (3, '여성신발', 1 );
@@ -894,8 +908,11 @@ INSERT INTO LARGE_CTGR(LARGE_CTGR_ID, MAIN_CTGR_NAME, MAIN_CTGR_ID) VALUES (16, 
 --CULTURE
 INSERT INTO LARGE_CTGR(LARGE_CTGR_ID, MAIN_CTGR_NAME, MAIN_CTGR_ID) VALUES (17, '컬처', 11 );
 
-ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+/* 상품 중분류 */
+SELECT * FROM MEDIUM_CTGR;
 
+--WOMEN
+--여성의류
 INSERT INTO MEDIUM_CTGR(MEDIUM_CTGR_ID, MEDIUM_CTGR_NAME,LARGE_CTGR_ID) VALUES (11 , '상의', 1 );
 INSERT INTO MEDIUM_CTGR(MEDIUM_CTGR_ID, MEDIUM_CTGR_NAME,LARGE_CTGR_ID) VALUES (12 , '바지', 1 );
 INSERT INTO MEDIUM_CTGR(MEDIUM_CTGR_ID, MEDIUM_CTGR_NAME,LARGE_CTGR_ID) VALUES (13 , '원피스', 1 );
@@ -1067,3 +1084,83 @@ INSERT INTO MEDIUM_CTGR(MEDIUM_CTGR_ID, MEDIUM_CTGR_NAME,LARGE_CTGR_ID) VALUES (
 --CULTURE  /* 여성의류 홈웨어랑 번호가 반복되서 1101로 설정 */
 INSERT INTO MEDIUM_CTGR(MEDIUM_CTGR_ID, MEDIUM_CTGR_NAME,LARGE_CTGR_ID) VALUES (1101, '티켓', 17);
 
+
+/* 상품 소분류 */
+SELECT * FROM SMALL_CTGR;
+ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ
+
+create sequence seq_product_Id;
+
+INSERT INTO PRODUCT(PD_ID
+,PD_NAME
+,PD_PRICE
+,PD_INFO
+,PD_STOCK
+,STATE_ID
+,PD_FAVORITE
+,PD_SALES_QUANTITY
+,PD_DISCOUNT_RATE
+,PD_ORDER_QUANTITY
+,BRAND_ID
+,MAIN_CTGR_ID
+,LARGE_CTGR_ID
+,MEDIUM_CTGR_ID
+,SMALL_CTGR_ID)
+VALUES 
+(seq_product_Id.nextval
+,'(M)메종마르지엘라 라운드넥 티셔츠-블랙(S50GC0681S22816 900)'
+,1
+,'상품번호2137343'
+,1
+,1
+,1
+,1
+,1
+,1
+,1
+,2
+,5
+,21
+,866
+);
+
+
+insert into product_state values(1,'good');
+insert into brand values(1,'메종마르지엘라',1);
+
+insert into member values(1,'aa', 'aa', 'aa', 'aa',1,1,1);
+insert into coupon values(1,1,1);
+insert into grade values(1,'a',1);
+insert into product_grade values(1,1,2,1);
+insert into pd_like values(1,1,2);
+
+
+commit;
+insert into product_image values(1,'https://img.29cm.co.kr/item/202404/11ef02ddc815e25cbb6acd7db6ab5317.jpg?width=600', 'a',2);
+
+
+select brand_name, pd_name, pd_price, pd_grade,pd_image_url
+from product p
+join pd_like l on p.pd_Id=l.pd_id
+join product_grade g on l.pd_id=g.pd_id
+join brand b on p.brand_Id=b.brand_Id
+join product_image i on p.pd_id=i.pd_id
+where p.small_ctgr_id = 866;
+
+commit;
+
+
+Select MEDIUM_CTGR_NAME from MEDIUM_CTGR
+where LARGE_CTGR_ID ='1';
+
+
+select brand_name, pd_name, pd_price, pd_grade,pd_image_url, pd_discount_rate, c.main_ctgr_name
+from product p
+join pd_like l on p.pd_Id=l.pd_id
+join product_grade g on l.pd_id=g.pd_id
+join brand b on p.brand_Id=b.brand_Id
+join product_image i on p.pd_id=i.pd_id
+join LARGE_CTGR c on p.large_ctgr_id = c.large_ctgr_id
+where p.large_ctgr_id = '5';
+
+commit;
