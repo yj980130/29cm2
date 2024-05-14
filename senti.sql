@@ -1164,3 +1164,44 @@ join LARGE_CTGR c on p.large_ctgr_id = c.large_ctgr_id
 where p.large_ctgr_id = '5';
 
 commit;
+
+
+
+INSERT INTO PRODUCT(PD_ID
+,PD_NAME
+,PD_PRICE
+,PD_INFO
+,PD_STOCK
+,STATE_ID
+,PD_FAVORITE
+,PD_SALES_QUANTITY
+,PD_DISCOUNT_RATE
+,PD_ORDER_QUANTITY
+,BRAND_ID
+,MAIN_CTGR_ID
+,LARGE_CTGR_ID
+,MEDIUM_CTGR_ID
+,SMALL_CTGR_ID)
+VALUES 
+(seq_product_Id.nextval
+,'(M)메종마르지엘라 라운드넥 티셔츠-블랙(S50GC0681S22816 900)'
+,1
+,'상품번호2137343'
+,1
+,1
+,1
+,1
+,1
+,1
+,1
+,2
+,5
+,22
+,866
+);
+
+commit;
+
+
+
+
