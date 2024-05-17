@@ -10,5 +10,5 @@ url에 pd_id 는 붙혔음
 상품제목, 상품사진, 상품가격, 할인율, 배송비, 옵션, 내 , 상품설명 이미지, 리뷰, qna, 
 
 
-PRODUCT, PRODUCT_IMAGE,DELIVERY_PAY
+PRODUCT, PRODUCT_IMAGE,DELIVERY, Pay
 ,PRODUCT_QNA_CTGR,PRODUCT_REVIEW,PRODUCT_QNA
