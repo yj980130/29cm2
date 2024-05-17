@@ -1,0 +1,368 @@
+
+/* leisure */
+/*캠핑*/
+--아이스박스
+INSERT INTO PRODUCT
+(PD_ID, PD_NAME, PD_PRICE,PD_INFO,PD_SALES_QUANTITY,PD_DISCOUNT_RATE,BRAND_ID, MAIN_CTGR_ID,LARGE_CTGR_ID,MEDIUM_CTGR_ID,SMALL_CTGR_ID) VALUES
+(seq_pd_id.nextval,	'드롭드롭_도시락', 83472, '상품번호5240369', 374, 20, 10, 9,	15,	91,	656	); 
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'드롭드롭_보냉백', 59621, '상품번호5240369', 487, 11, 9, 9,	15,	91,	656	); 
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'드롭드롭_3단도시락', 10836, '상품번호2085743', 573, 78, 20, 9,	15,	91,	656	); 
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'위글위글_투웨이보냉백_미듐', 75924, '상품번호6952078', 408, 89, 16, 9,	15,	91,	656	); 
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'위글위글_투웨이보냉백_라지', 42317, '상품번호5609872', 573, 63, 28, 9,	15,	91,	656	); 
+
+-- 랜턴
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'루메나_LED_캠핑랜턴', 36589, '상품번호3074852', 628, 20, 37, 9,	15,	91,	657	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'무아스_LED_캠핑랜턴', 61320, '상품번호8794612', 703, 54, 41, 9,	15,	91,	657	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'발뮤다_LED_캠핑랜턴', 53982, '상품번호5093746', 265, 60, 29, 9,	15,	91,	657	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'와일드웨스트_LED_캠핑랜턴', 72036, '상품번호3527089', 721, 81, 22, 9,	15,	91,	657	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'크레모아_LED_캠핑랜턴', 69318, '상품번호3075948', 247, 53, 15, 9,	15,	91,	657	);
+
+--조명
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'루메나_테이블램프패키지', 50283, '상품번호8309762', 148, 44, 22, 9,	15,	91,	658	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'아임라이트_감성캠핑무드등', 26734, '상품번호1896435', 739, 51, 39, 9,	15,	91,	658	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'깃샵_건전지전구조명', 58912, '상품번호5309724', 148, 93, 16, 9,	15,	91,	658	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'크레모아_라이트스탠드', 69318, '상품번호6703958', 408, 81, 20, 9,	15,	91,	658	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'크레모아_라이트리플렉터', 53982, '상품번호4927368', 529, 29, 39, 9,	15,	91,	658	);
+
+--쿨러
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'드롭드롭_딜리백', 69318, '상품번호5827049', 814, 64, 12, 9,	15,	91,	659	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'핀카_패턴보냉백', 81072, '상품번호6925734', 915, 22, 44, 9,	15,	91,	659	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'드롭드롭_하트보냉백', 53982, '상품번호6405927', 432, 53, 11, 9,	15,	91,	659	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'키티버니_이지밀러보냉백', 24987, '상품번호2087364', 283, 10, 5, 9,	15,	91,	659	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'큐어스_야미2보냉방수드링크백', 58736, '상품번호8961427', 728, 84, 33, 9,	15,	91,	659	);
+
+-- 텀블러
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'쿼시_올인원미니텀블러', 87624, '상품번호6304951', 635, 37, 13, 9,	15,	91,	660	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'날진_와일드마우스텀블러', 37026, '상품번호4729803', 509, 60, 26, 9,	15,	91,	660	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'아소부_보온보냉캠핑워터저그', 92107, '상품번호3947650', 432, 72, 31, 9,	15,	91,	660	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'아소부_마이티워터저그', 30578, '상품번호4927368', 867, 44, 11, 9,	15,	91,	660	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'날진_서스테인마젠타', 43986, '상품번호5309724', 478, 65, 17, 9,	15,	91,	660	);
+
+--텐트,타프,쉘터
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'브루클린원스_쉐이드원터치', 41625, '상품번호2750483', 739, 15, 4, 9,	15,	91,	661	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'디얼스_컴팩트타프', 43986, '상품번호7250834', 867, 81, 31, 9,	15,	91,	661	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'플러스터프_투맨텐트', 38204, '상품번호1964730', 583, 48, 27, 9,	15,	91,	661	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'디얼스_미니터프', 20495, '상품번호8746320', 509, 64, 23, 9,	15,	91,	661	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'플러스터프_투맨터프', 62198, '상품번호3075948', 936, 22, 42, 9,	15,	91,	661	);
+
+--퍼니처
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'하이브로우_밀크박스', 93617, '상품번호5093746', 620, 53, 42, 9,	15,	91,	662	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'하이브로우_캐리어박스', 69147, '상품번호3075948', 315, 10, 42, 9,	15,	91,	662	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'브루클린웍스_1초폴딩테이블', 38204, '상품번호1896435', 867, 12, 7, 9,	15,	91,	662	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'브루클린웍스_Z폴딩박스', 12795, '상품번호6703958', 397, 33, 7, 9,	15,	91,	662	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'맥벤_2인용벤치쿠션', 43620, '상품번호4927368', 721, 70, 1, 9,	15,	91,	662	);
+
+--침낭,매트,해먹
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'핀카_패턴피크닉매트', 62198, '상품번호6405927', 397, 84, 1, 9,	15,	91,	663	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'스튜디홈_피크닉매트', 12795, '상품번호7250834', 739, 29, 34, 9,	15,	91,	663	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'엘리건트레이블_캠핑용돗자리', 58960, '상품번호3947650', 529, 81, 44, 9,	15,	91,	663	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'엘리건트레이블_방수피크닉매트', 34286, '상품번호2087364', 152, 15, 23, 9,	15,	91,	663	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'모르하우스_매트비치타월', 26973, '상품번호8961427', 583, 65, 45, 9,	15,	91,	663	);
+
+--스토브,화로대
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'레토_감성캠핑화로대', 69721, '상품번호4729803', 509, 51, 19, 9,	15,	91,	664	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'스노우피크_그릴버너', 43620, '상품번호2187043', 915, 48, 42, 9,	15,	91,	664	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'800도씨_무쇠가스오덕', 62198, '상품번호7501269', 509, 37, 5, 9,	15,	91,	664	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'와일드_W스토브엘보', 54072, '상품번호3649802', 583, 58, 11, 9,	15,	91,	664	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'브루클린웍스_스테인리스화로대', 69721, '상품번호5270934', 863, 97, 22, 9,	15,	91,	664	);
+
+--키친
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'스탠리_클래식캠프머그', 38475, '상품번호2085743', 726, 77, 34, 9,	15,	91,	665	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'800도씨_캠핑식기세트', 58960, '상품번호7421693', 814, 22, 22, 9,	15,	91,	665	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'앨리건트테이블_다이어트캠핑피크닉', 38475, '상품번호6852409', 814, 53, 33, 9,	15,	91,	665	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'바겐슈타이거_스텐아웃백스퀘어팟', 58960, '상품번호5609872', 814, 84, 22, 9,	15,	91,	665	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'스탠리_어드벤처크록2L', 26973, '상품번호6852409', 635, 10, 6, 9,	15,	91,	665	);
+
+--기타용품
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'위글위글_보냉백라지', 38475, '상품번호2087364', 374, 12, 14, 9,	15,	91,	666	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'위글위글_보냉백스몰', 97051, '상품번호8160523', 703, 33, 42, 9,	15,	91,	666	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'쿼시_올인원캠핑물티슈', 43620, '상품번호5309724', 819, 70, 40, 9,	15,	91,	666	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'쿼시_올인원물티슈그린', 69721, '상품번호4573208', 846, 98, 14, 9,	15,	91,	666	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'캠핑덕_모기향거치대', 86137, '상품번호8309762', 265, 58, 27, 9,	15,	91,	666	);
+
+/*등산,하이킹*/
+--아우터
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'스노우피크_방수자켓', 10836, '상품번호6952078', 639, 82, 28, 9,	15,	92,	667	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'코오롱_여성중기장자켓', 48291, '상품번호5609872', 509, 39, 12, 9,	15,	92,	667	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'아이더_라이트레인코트', 24796, '상품번호6852409', 942, 14, 29, 9,	15,	92,	667	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'코오롱_여성V컷바람막이', 72036, '상품번호8746320', 703, 35, 22, 9,	15,	92,	667	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'디스커버리_우븐플튼반팔', 84529, '상품번호5093746', 487, 89, 2, 9,	15,	92,	667	);
+
+--상의
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'스노우피크_루트냉감반팔', 81072, '상품번호2409183', 819, 32, 15, 9,	15,	92,	668	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'고요웨어_아스킨롱스리브', 37895, '상품번호6405927', 573, 54, 38, 9,	15,	92,	668	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'스노우피크_레터링반팔', 72036, '상품번호3947650', 846, 63, 35, 9,	15,	92,	668	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'스노우피크_루트반팔그레이', 18245, '상품번호2087364', 721, 87, 3, 9,	15,	92,	668	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'볼디스트_에센셜폴로', 36589, '상품번호5416873', 408, 46, 6, 9,	15,	92,	668	);
+
+--하의
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'그라미치_G쇼츠_치노', 95783, '상품번호4729803', 265, 28, 20, 9,	15,	92,	669	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'그라미치_G쇼츠_터프', 50283, '상품번호6372104', 628, 60, 39, 9,	15,	92,	669	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'그라미치_루즈쇼츠_카키', 30178, '상품번호9803274', 942, 72, 32, 9,	15,	92,	669	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'그라미치_G쇼츠_차콜', 43790, '상품번호4758102', 156, 38, 12, 9,	15,	92,	669	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'그라미치_루즈테이퍼드_올리브', 37895, '상품번호2038657', 487, 95, 18, 9,	15,	92,	669	);
+
+-- 신발
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'킨_재스퍼_베이지', 75924, '상품번호5691083', 582, 19, 2, 9,	15,	92,	670	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'킨_재스퍼_사파리블루', 24796, '상품번호3789054', 471, 44, 29, 9,	15,	92,	670	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'코오롱_하이킹화모션', 18245, '상품번호3649802', 814, 76, 44, 9,	15,	92,	670	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'노스페이스_스톱브레이크', 48291, '상품번호2187043', 726, 51, 22, 9,	15,	92,	670	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'웨더몬스터_남녀공용레인부츠', 95783, '상품번호9034761', 297, 65, 15, 9,	15,	92,	670	);
+
+--가방
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'노스페이스_트레킹힙색', 81072, '상품번호4729803', 814, 93, 38, 9,	15,	92,	671	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'마운틴로버_데이백미니', 50329, '상품번호6304951', 297, 15, 35, 9,	15,	92,	671	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'포몬스터_폴딩초경량백팩', 24987, '상품번호8961427', 471, 81, 3, 9,	15,	92,	671	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'노패키지_백팩방수커버', 46203, '상품번호3649802', 739, 29, 6, 9,	15,	92,	671	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'블랙야크_플래시백', 46203, '상품번호4758102', 529, 48, 7, 9,	15,	92,	671	);
+
+--장비,용품
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'노스페이스_로고카라비너_블랙', 71826, '상품번호5691083', 478, 64, 8, 9,	15,	92,	672	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'코오롱_남녀공용쉐도우메쉬', 58736, '상품번호8415962', 529, 10, 9, 9,	15,	92,	672	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'코오롱_캠핑돔햇', 46203, '상품번호5270934', 739, 22, 10, 9,	15,	92,	672	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'코오롱_드라이쿨니삭스', 37649, '상품번호6372104', 315, 53, 23, 9,	15,	92,	672	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'노스페이스_로고카라비너_옐로우', 15847, '상품번호2087364', 867, 10, 26, 9,	15,	92,	672	);
+
+/*골프*/
+--클럽
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'테일러메이드_하이드로블라스트', 36589, '상품번호8794612', 148, 25, 37, 9,	15,	93,	673	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'테일러메이드_여성아이언7', 24796, '상품번호5240369', 620, 4, 9, 9,	15,	93,	673	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'테일러메이드_여성유틸리티', 53982, '상품번호3074852', 739, 56, 20, 9,	15,	93,	673	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'테일러메이드_여성페이어웨이우드', 84529, '상품번호9361025', 315, 7, 8, 9,	15,	93,	673	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'테일러메이드_여성드라이버', 42651, '상품번호2085743', 867, 11, 11, 9,	15,	93,	673	);
+
+--아우터
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'갓샵_레인코트4종', 81072, '상품번호6952078', 529, 33, 23, 9,	15,	93,	674	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'마르디_바람막이_베이지', 37895, '상품번호3819567', 471, 32, 22, 9,	15,	93,	674	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'마일즈앤마일_밀리레인코트', 50283, '상품번호7421693', 478, 7, 11, 9,	15,	93,	674	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'씬러브_트랙조커_네이비', 94610, '상품번호5609872', 471, 11, 12, 9,	15,	93,	674	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'마일즈앤마일_밀리레인코트_아이스그레이', 26734, '상품번호8136942', 478, 33, 13, 9,	15,	93,	674	);
+
+--상의
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'마르디_티셔츠_블랙레드', 30178, '상품번호4290836', 315, 33, 14, 9,	15,	93,	675	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'마르디_블루마르디티셔츠_핑크', 85439, '상품번호6852409', 867, 11, 15, 9,	15,	93,	675	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'마르디_티셔츠_화이트네이비', 43790, '상품번호1964730', 529, 50, 16, 9,	15,	93,	675	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'마르디_플라워_아이보리', 62571, '상품번호3527089', 471, 78, 17, 9,	15,	93,	675	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'플레이부_풀집업바람막이', 98315, '상품번호8746320', 863, 50, 18, 9,	15,	93,	675	);
+  
+-- 하의
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'씬러브_나일론스커트_차콜', 37026, '상품번호5093746', 478, 39, 19, 9,	15,	93,	676	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'마르디메크르디_로고스커트', 54109, '상품번호2409183', 726, 96, 20, 9,	15,	93,	676	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'마틴골프_플리츠스커트', 79834, '상품번호7630245', 583, 35, 22, 9,	15,	93,	676	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'마틴골프_골프플리츠스커트_네이비', 29468, '상품번호5827049', 297, 20, 21, 9,	15,	93,	676	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'마틴골프_패치쇼츠', 62037, '상품번호3075948', 635, 89, 22, 9,	15,	93,	676	);
+
+--신발
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'마틴골프_타셀슬립온_화이트', 13587, '상품번호6925734', 814, 50, 23, 9,	15,	93,	677	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'마틴골프_타셀슬립온_블랙', 87624, '상품번호7630245', 509, 67, 25, 9,	15,	93,	677	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'마틴골프_세미스니커즈_블랙', 24987, '상품번호6852409', 728, 89, 35, 9,	15,	93,	677	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'마틴골프_클래식옥스포드', 71826, '상품번호3527089', 509, 39, 37, 9,	15,	93,	677	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'마틴골프_스파이크리스스니커즈', 46203, '상품번호5093746', 759, 14, 37, 9,	15,	93,	677	);
+
+--가방
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'클로브_캔버스토트백', 58736, '상품번호4290836', 571, 35, 38, 9,	15,	93,	678	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'드롭드롭_마이볼파우치', 46203, '상품번호7421693', 694, 82, 19, 9,	15,	93,	678	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'마르디_숄더백_그린', 37649, '상품번호3819567', 132, 68, 20, 9,	15,	93,	678	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'드롭드롭_플레이볼파우치', 15847, '상품번호5609872', 694, 41, 29, 9,	15,	93,	678	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'마르다_액티브볼파우치', 30578, '상품번호4573208', 283, 73, 44, 9,	15,	93,	678	);
+  
+--잡화
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'클로브_볼캡', 86432, '상품번호1896435', 915, 35, 15, 9,	15,	93,	679	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'클로브_삭스_네이비', 49217, '상품번호5309724', 814, 67, 38, 9,	15,	93,	679	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'씬러브_캡다크브라운', 72308, '상품번호6703958', 728, 20, 35, 9,	15,	93,	679	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'클로브_삭스_그린', 60124, '상품번호4927368', 297, 82, 3, 9,	15,	93,	679	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'씬러브_캡차콜', 17859, '상품번호8160523', 726, 68, 6, 9,	15,	93,	679	);
+
+--장비,용품
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'스토리너스_산리오골프티세트', 68374, '상품번호5309724', 961, 41, 12, 9,	15,	93,	680	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'베리시_uv차단스타킹', 94761, '상품번호8309762', 814, 25, 13, 9,	15,	93,	680	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'산리오_골프볼파우치', 32894, '상품번호4573208', 961, 73, 14, 9,	15,	93,	680	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'베리시_uv차단팔토시', 56102, '상품번호6925734', 283, 35, 15, 9,	15,	93,	680	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'드롭드롭_플레이골프우산', 43986, '상품번호5827049', 132, 20, 16, 9,	15,	93,	680	);
+
+/*수영*/
+--여성 수영복
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'라메레이_스윗수트', 42317, '상품번호3074852', 487, 41, 24, 9,	15,	94,	681	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'플로리다티켓_컷아웃원피스', 24796, '상품번호2085743', 942, 82, 37, 9,	15,	94,	681	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'코랄_백스트링비키니', 53982, '상품번호6952078', 703, 14, 10, 9,	15,	94,	681	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'코랄리크_모노키니퍼플', 69318, '상품번호3819567', 819, 35, 16, 9,	15,	94,	681	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'비키니밴더_홀터넥', 81072, '상품번호7421693', 582, 7, 39, 9,	15,	94,	681	);
+ 
+--여성 비키니
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'림드_페스티벌세트', 37895, '상품번호5609872', 247, 35, 21, 9,	15,	94,	682	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'림드_투피스비치', 50283, '상품번호8136942', 509, 4, 11, 9,	15,	94,	682	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'비키니_심플밴도우', 26734, '상품번호4290836', 628, 23, 24, 9,	15,	94,	682	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'핀카_그라데이션스트라이프', 58912, '상품번호6852409', 156, 15, 7, 9,	15,	94,	682	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'바이누', 30178, '상품번호1964730', 703, 0, 17, 9,	15,	94,	682	);
+
+-- 남성 수영복
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'디스커버리_폴밴드형', 42317, '상품번호3074852', 487, 41, 24, 9,	15,	94,	683	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'노티카_83플래그', 24796, '상품번호2085743', 942, 82, 37, 9,	15,	94,	683	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'더에이본_맨레인보우', 53982, '상품번호6952078', 703, 14, 10, 9,	15,	94,	683	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'내셔널_숏반바지', 69318, '상품번호3819567', 819, 35, 16, 9,	15,	94,	683	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'퀵실버_카이마나보드숏', 81072, '상품번호7421693', 582, 7, 39, 9,	15,	94,	683	);
+
+--래쉬가드
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'파이시슨_솔리드메쉬', 37895, '상품번호5609872', 247, 35, 21, 9,	15,	94,	684	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'파이시스_메쉬가디건', 50283, '상품번호8136942', 509, 4, 11, 9,	15,	94,	684	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'비키니_샬롯래쉬가드', 26734, '상품번호4290836', 628, 23, 24, 9,	15,	94,	684	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'라메레이_오픈집업', 58912, '상품번호6852409', 156, 15, 7, 9,	15,	94,	684	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'안다르_폴앤비치', 30178, '상품번호1964730', 703, 0, 17, 9,	15,	94,	684	);
+
+--스윔웨어 액세서리
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'아레나_스마일위러브수모', 86432, '상품번호1896435', 915, 35, 15, 9,	15,	94,	685	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'메종드알로_비치타월', 49217, '상품번호5309724', 814, 67, 38, 9,	15,	94,	685	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'아레나_돌핑수경', 72308, '상품번호6703958', 728, 20, 35, 9,	15,	94,	685	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'아레나_테디베어수모', 60124, '상품번호4927368', 297, 82, 3, 9,	15,	94,	685	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'움파_비숑스윔캡', 17859, '상품번호8160523', 726, 68, 6, 9,	15,	94,	685	);
+
+--용품
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'아레나_위글숄더백', 13587, '상품번호6925734', 814, 50, 23, 9,	15,	94,	686	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'비키니_레터링체크', 87624, '상품번호7630245', 509, 67, 25, 9,	15,	94,	686	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'키티버니_스윔백', 24987, '상품번호6852409', 728, 89, 35, 9,	15,	94,	686	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'메종드알로_데이지해먹', 71826, '상품번호3527089', 509, 39, 37, 9,	15,	94,	686	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'움파_돈워리워시캡슐', 46203, '상품번호5093746', 759, 14, 37, 9,	15,	94,	686	);
+
+--서핑
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'록시_애프터서핑', 36589, '상품번호8794612', 148, 25, 37, 9,	15,	94,	687	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'퀴실버_보드숏', 24796, '상품번호5240369', 620, 4, 9, 9,	15,	94,	687	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'퀵실버_빌리보드숏', 53982, '상품번호3074852', 739, 56, 20, 9,	15,	94,	687	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'보헤미안블루_크루넥메쉬', 84529, '상품번호9361025', 315, 7, 8, 9,	15,	94,	687	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'보헤미안_스티치메쉬', 42651, '상품번호2085743', 867, 11, 11, 9,	15,	94,	687	);
+
+/*러닝*/
+--상의 
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'코오롱_방수자켓',	25600,	'상품번호8273641'	,66,	20,	12,	9,	15,	95,	688	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'코오롱_경량방수',	23400,	'상품번호4762819'	,66,	20,	12,	9,	15,	95,	688	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'코오롱_방수자켓',	22300,	'상품번호6294851'	,66,	20,	12,	9,	15,	95,	688	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'에이알씨_브리즈쇼츠',	34500,	'상품번호5741392'	,66,	20,	12,	9,	15,	95,	688	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'누벨바그코리아',	57690,	'상품번호4519286'	,66,	20,	12,	9,	15,	95,	688	);
+--하의
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'케이튼_코듀로이',	25600,	'상품번호374892'	,66,	20,	12,	9,	15,	95,	689	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'템플_조거팬츠',	23400,	'상품번호4762819'	,66,	20,	12,	9,	15,	95,	689	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'케이튼_코듀반바지',	22300,	'상품번호6294851'	,66,	20,	12,	9,	15,	95,	689	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'골스튜_시그치저팬츠',	34500,	'상품번호5741392'	,66,	20,	12,	9,	15,	95,	689	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'골스튜_베이직팬츠',	57690,	'상품번호4519286'	,66,	20,	12,	9,	15,	95,	689	);
+--신발
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'아키클래식_플라이바운스',	25600,	'상품번호374892'	,66,	20,	12,	9,	15,	95,	690	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,   '아키_워크크레이',	23400,	'상품번호4762819'	,66,	20,	12,	9,	15,	95,	690	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'라코스테_러닝스니커즈',	22300,	'상품번호6294851'	,66,	20,	12,	9,	15,	95,	690	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'험멜_클라우드핑크',	34500,	'상품번호5741392'	,66,	20,	12,	9,	15,	95,	690	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'로드_프라임_오프',	57690,	'상품번호4519286'	,66,	20,	12,	9,	15,	95,	690	);
+
+--장비,용품
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'빔블-반다나',	25600,	'상품번호374892'	,66,	20,	12,	9,	15,	95,	691	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'평소_uv차단쿨링',	23400,	'상품번호4762819'	,66,	20,	12,	9,	15,	95,	691	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'에이알씨_힙색',	22300,	'상품번호6294851'	,66,	20,	12,	9,	15,	95,	691	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'스노우_팔토시냉감',	34500,	'상품번호5741392'	,66,	20,	12,	9,	15,	95,	691	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'머렐_트레일러백',	57690,	'상품번호4519286'	,66,	20,	12,	9,	15,	95,	691	);
+
+/*실내운동*/
+--상의 
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'부디무드라_탱크탑',	25600,	'상품번호374892'	,66,	20,	12,	9,	15,	96,	692	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'무브윌_캄탱크탑',	23400,	'상품번호4762819'	,66,	20,	12,	9,	15,	96,	692	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'무브월_루즈탑',	22300,	'상품번호6294851'	,66,	20,	12,	9,	15,	96,	692	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'무브월_블랙브라',	34500,	'상품번호5741392'	,66,	20,	12,	9,	15,	96,	692	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'무브월_유넥탑',	57690,	'상품번호4519286'	,66,	20,	12,9,	15,	96,	692	);
+--하의
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'부디무드라_행운팬츠', 42317, '상품번호3074852', 487, 41, 24, 9,	15,	96,	693	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'부디무드라_멤보기팬츠', 24796, '상품번호2085743', 942, 82, 37,9,	15,	96,	693	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'부브월_스웨트팬츠', 53982, '상품번호6952078', 703, 14, 10, 9,	15,	96,	693	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'무브월_하프팬츠', 69318, '상품번호3819567', 819, 35, 16,9,	15,	96,	693	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'무브월_캐잉브팬츠', 81072, '상품번호7421693', 582, 7, 39, 9,	15,	96,	693	);
+--장비,용품
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'무브월_삭스', 86432, '상품번호1896435', 915, 35, 15, 9,	15,	96,	694	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'오침_요가매트', 49217, '상품번호5309724', 814, 67, 38, 9,	15,	96,	694	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'가네사_요가매트', 72308, '상품번호6703958', 728, 20, 35, 9,	15,	96,	694	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'가네사_비기너요가', 60124, '상품번호4927368', 297, 82, 3, 9,	15,	96,	694	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'오침_필라테스양말', 17859, '상품번호8160523', 726, 68, 6, 9,	15,	96,	694	);
+--가구
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'템플_레스트핏', 37895, '상품번호5609872', 247, 35, 21, 9,	15,	96,	695	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'마이롤러_요가매트', 50283, '상품번호8136942', 509, 4, 11, 9,	15,	96,	695	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'오침_홈트블랙', 26734, '상품번호4290836', 628, 23, 24, 9,	15,	96,	695	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'마이롤러_림프마사지세트', 58912, '상품번호6852409', 156, 15, 7, 9,	15,	96,	695	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'마이롤러_마사지스틱', 30178, '상품번호1964730', 703, 0, 17, 9,	15,	96,	695	);
+--커버업
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'데비웨어_슬릿커버업',	25600,	'상품번호374892'	,66,	20,	12,	9,	15,	96,	696	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'벨로디_데이지스윔',	23400,	'상품번호4762819'	,66,	20,	12,	9,	15,	96,	696	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'데비웽_여성요가복',	22300,	'상품번호6294851'	,66,	20,	12,	9,	15,	96,	696	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'데비_요가복그린',	34500,	'상품번호5741392'	,66,	20,	12,	9,	15,	96,	696	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'데비웨어_페일민트반팔',	57690,	'상품번호4519286'	,66,	20,	12,	9,	15,	96,	696	);
+
+/*여행*/
+--캐리어 
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'브라이튼캐리어', 37895, '상품번호5609872', 247, 35, 21, 9,	15,	97,	697	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'아이레수화물', 50283, '상품번호8136942', 509, 4, 11, 9,	15,	97,	697	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'스위스밀리터리_여행용', 26734, '상품번호4290836', 628, 23, 24, 9,	15,	97,	697	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'로우로우_트렁크', 58912, '상품번호6852409', 156, 15, 7, 9,	15,	97,	697	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'스위스_러기지벨트캐리어', 30178, '상품번호1964730', 703, 0, 17, 9,	15,	97,	697	);
+--여행가방
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'브랜든_폴더블캐리올', 86432, '상품번호1896435', 915, 35, 15, 9,	15,	97,	698	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'로우로우_알루미늄', 49217, '상품번호5309724', 814, 67, 38, 9,	15,	97,	698	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'로우로우_24인치', 72308, '상품번호6703958', 728, 20, 35, 9,	15,	97,	698	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'로우로우_20인치', 60124, '상품번호4927368', 297, 82, 3, 9,	15,	97,	698	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'로우로우_숄더백', 17859, '상품번호8160523', 726, 68, 6, 9,	15,	97,	698	);
+--여행소품
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'브랜든_압축파우치', 13587, '상품번호6925734', 814, 50, 23, 9,	15,	97,	699	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'로우로우_미니', 87624, '상품번호7630245', 509, 67, 25, 9,	15,	97,	699	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'페더다운_스퀘어', 24987, '상품번호6852409', 728, 89, 35, 9,	15,	97,	699	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'브랜든_압축파우치', 71826, '상품번호3527089', 509, 39, 37, 9,	15,	97,	699	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'브랜든_압축세트', 46203, '상품번호5093746', 759, 14, 37, 9,	15,	97,	699	);
+
+/*테니스*/
+--상의
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'디아도라_테니스폴로', 30178, '상품번호4290836', 315, 33, 14, 9,	15,	98,	700	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'디아도라_크롭반팔', 85439, '상품번호6852409', 867, 11, 15, 9,	15,	98,	700	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'요넥스_배드민턴셔츠', 43790, '상품번호1964730', 529, 50, 16, 9,	15,	98,	700	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'디아도라_그랜드슬램', 62571, '상품번호3527089', 471, 78, 17, 9,	15,	98,	700	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'요넥스_캐주얼', 98315, '상품번호8746320', 863, 50, 18, 9,	15,	98,	700	);
+  
+-- 하의
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'콘치웨어_스커트', 37026, '상품번호5093746', 478, 39, 19, 9,	15,	98,	701	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'콘치웨어_미니멀', 54109, '상품번호2409183', 726, 96, 20, 9,	15,	98,	701	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'콘치웨어_플리츠스커트', 79834, '상품번호7630245', 583, 35, 22, 9,	15,	98,	701	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'콘치_액티비티올인원', 29468, '상품번호5827049', 297, 20, 21, 9,	15,	98,	701	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'디아도라_그랜드슬램', 62037, '상품번호3075948', 635, 89, 22, 9,	15, 98,	701	);
+
+--신발
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'윌슨_카오스', 13587, '상품번호6925734', 814, 50, 23, 9,	15,	98,	702	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'윌슨_스위프트', 87624, '상품번호7630245', 509, 67, 25, 9,	15,98,	702	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'아키_테니스클럽', 24987, '상품번호6852409', 728, 89, 35, 9,	15,	98,	702	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'윌슨_프로4.0', 71826, '상품번호3527089', 509, 39, 37, 9,	15,	98,	702	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'윌슨_프로우먼4.0', 46203, '상품번호5093746', 759, 14, 37, 9,	15,	98,	702	);
+
+--가방
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'러브포티_포켓', 58736, '상품번호4290836', 571, 35, 38, 9,	15,	98,	703	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'러브포티_에코백', 46203, '상품번호7421693', 694, 82, 19, 9,	15,	98,	703	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'마일즈_보온보냉팩', 37649, '상품번호3819567', 132, 68, 20, 9,	15,	98,	703	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'러브포티_쿼팅라켓백', 15847, '상품번호5609872', 694, 41, 29, 9,	15,	98,	703	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'러브_라켓백', 30578, '상품번호4573208', 283, 73, 44, 9,	15,	98,	703	);
+  
+--잡화
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'클로브_볼캡', 86432, '상품번호1896435', 915, 35, 15, 9,	15,	98,	704 );
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'클로브_삭스_그린', 49217, '상품번호5309724', 814, 67, 38, 9,	15,	98,	704 );
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'클로브_니삭스', 72308, '상품번호6703958', 728, 20, 35, 9,	15,	98,	704 );
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'윌슨_손목아대', 60124, '상품번호4927368', 297, 82, 3, 9,	15,	98,	704 );
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'러브포티_썬캡', 17859, '상품번호8160523', 726, 68, 6, 9,	15,	98,	704 );
+
+--장비,용품
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'테니스댐프너', 68374, '상품번호5309724', 961, 41, 12, 9,	15,	98,	705 );
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'송월_테니슨수건', 94761, '상품번호8309762', 814, 25, 13, 9,	15,	98,	705 );
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'윌슨_클래식롤링', 32894, '상품번호4573208', 961, 73, 14, 9,	15,	98,	705 );
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'송월_클럽스포츠수건', 56102, '상품번호6925734', 283, 35, 15, 9,	15,	98,	705 );
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'세러데이_레저수건그린', 43986, '상품번호5827049', 132, 20, 16, 9,	15,	98,	705 );
+
+/*자전거*/
+--자전거
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'클렘트_자전거거치대', 37895, '상품번호5609872', 247, 35, 21, 9,	15,	99,	706 );
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'세그웨어_전동킥보드', 50283, '상품번호8136942', 509, 4, 11, 9,	15,	99,	706 );
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'세그웨이_나인봇미니', 26734, '상품번호4290836', 628, 23, 24, 9,	15,	99,	706 );
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'세그웨이_어린이자전거', 58912, '상품번호6852409', 156, 15, 7, 9,	15,	99,	706 );
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'라이프프루프_바이크마운트', 30178, '상품번호1964730', 703, 0, 17, 9,	15,	99,	706 );
+--장비,용품
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'아크로_어반헬멧',	25600,	'상품번호374892'	,66,	20,	12,	9,	15,	99,	706 );
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'갓샴_다용도보냉팩',	23400,	'상품번호4762819'	,66,	20,	12,	9,	15,	99,	706 );
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'아크로_스템백',	22300,	'상품번호6294851'	,66,	20,	12,	9,	15,	99,	706 );
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'브리스크_지문인식자물쇠',	34500,	'상품번호5741392'	,66,	20,	12,	9,	15,	99,	706 );
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'아크로_사이클링헬멧',	57690,	'상품번호4519286'	,66,	20,	12,	9,	15,	99,	706 );
+

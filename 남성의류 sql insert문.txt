@@ -1,0 +1,916 @@
+
+--남성 의류
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '메종마르지엘라 M 아우터 블랙', 120000, '상품번호2137365', 500, 15, 1, 2, 5, 21, 138);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '나이키 S 아우터 화이트', 150000, '상품번호2137390', 450, 10, 2, 2, 5, 21, 138);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '르917 L 아우터 그레이', 200000, '상품번호2137441', 300, 20, 3, 2, 5, 21, 138);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '마뗑킴 M 아우터 네이비', 250000, '상품번호2137482', 600, 25, 4, 2, 5, 21, 138);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '잔스포츠 S 아우터 레드', 100000, '상품번호2137536', 700, 30, 5, 2, 5, 21, 138);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '드래곤 디퓨전 L 상의 블루', 130000, '상품번호2137589', 400, 12, 6, 2, 5, 21, 139);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '라퍼지포우먼 M 상의 블랙', 170000, '상품번호2137645', 550, 18, 7, 2, 5, 21, 139);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '이스트로그 퍼머넌트 S 상의 화이트', 190000, '상품번호2137693', 650, 22, 8, 2, 5, 21, 139);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '토마스모어 L 상의 그린', 220000, '상품번호2137741', 350, 17, 9, 2, 5, 21, 139);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '곤니치와봉쥬르 M 상의 옐로우', 210000, '상품번호2137784', 720, 14, 10, 2, 5, 21, 139);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '메종마르지엘라 M 하의 블랙', 120000, '상품번호2137812', 500, 15, 11, 2, 5, 21, 140);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '나이키 S 하의 화이트', 150000, '상품번호2137856', 450, 10, 12, 2, 5, 21, 140);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '르917 L 하의 그레이', 200000, '상품번호2137891', 300, 20, 13, 2, 5, 21, 140);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '마뗑킴 M 하의 네이비', 250000, '상품번호2137924', 600, 25, 14, 2, 5, 21, 140);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '잔스포츠 S 하의 레드', 100000, '상품번호2137957', 700, 30, 15, 2, 5, 21, 140);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '드래곤 디퓨전 L 무스탕 블루', 130000, '상품번호2137989', 400, 12, 16, 2, 5, 22, 141);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '라퍼지포우먼 M 무스탕 블랙', 170000, '상품번호2138045', 550, 18, 17, 2, 5, 22, 141);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '이스트로그 퍼머넌트 S 무스탕 화이트', 190000, '상품번호2138093', 650, 22, 18, 2, 5, 22, 141);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '토마스모어 L 무스탕 그린', 220000, '상품번호2138141', 350, 17, 19, 2, 5, 22, 141);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '곤니치와봉쥬르 M 무스탕 옐로우', 210000, '상품번호2138184', 720, 14, 20, 2, 5, 22, 141);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '메종마르지엘라 M 플리스 블랙', 120000, '상품번호2138212', 500, 15, 21, 2, 5, 22, 142);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '나이키 S 플리스 화이트', 150000, '상품번호2138256', 450, 10, 22, 2, 5, 22, 142);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '르917 L 플리스 그레이', 200000, '상품번호2138291', 300, 20, 23, 2, 5, 22, 142);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '마뗑킴 M 플리스 네이비', 250000, '상품번호2138324', 600, 25, 24, 2, 5, 22, 142);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '잔스포츠 S 플리스 레드', 100000, '상품번호2138357', 700, 30, 25, 2, 5, 22, 142);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '드래곤 디퓨전 L 야상 블루', 130000, '상품번호2138389', 400, 12, 26, 2, 5, 22, 143);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '라퍼지포우먼 M 야상 블랙', 170000, '상품번호2138445', 550, 18, 27, 2, 5, 22, 143);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '이스트로그 퍼머넌트 S 야상 화이트', 190000, '상품번호2138493', 650, 22, 28, 2, 5, 22, 143);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '토마스모어 L 야상 그린', 220000, '상품번호2138541', 350, 17, 29, 2, 5, 22, 143);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '곤니치와봉쥬르 M 야상 옐로우', 210000, '상품번호2138584', 720, 14, 30, 2, 5, 22, 143);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '메종마르지엘라 M 블루종 블랙', 120000, '상품번호2138612', 500, 15, 31, 2, 5, 22, 144);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '나이키 S 블루종 화이트', 150000, '상품번호2138656', 450, 10, 32, 2, 5, 22, 144);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '르917 L 블루종 그레이', 200000, '상품번호2138691', 300, 20, 33, 2, 5, 22, 144);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '마뗑킴 M 블루종 네이비', 250000, '상품번호2138724', 600, 25, 34, 2, 5, 22, 144);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '잔스포츠 S 블루종 레드', 100000, '상품번호2138757', 700, 30, 35, 2, 5, 22, 144);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '드래곤 디퓨전 L 바시티 블루', 130000, '상품번호2138789', 400, 12, 36, 2, 5, 22, 145);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '라퍼지포우먼 M 바시티 블랙', 170000, '상품번호2138845', 550, 18, 37, 2, 5, 22, 145);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '이스트로그 퍼머넌트 S 바시티 화이트', 190000, '상품번호2138893', 650, 22, 38, 2, 5, 22, 145);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '토마스모어 L 바시티 그린', 220000, '상품번호2138941', 350, 17, 39, 2, 5, 22, 145);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '곤니치와봉쥬르 M 바시티 옐로우', 210000, '상품번호2138984', 720, 14, 40, 2, 5, 22, 145);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '메종마르지엘라 M 데님 재킷 블랙', 120000, '상품번호2139012', 500, 15, 41, 2, 5, 22, 146);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '나이키 S 데님 재킷 화이트', 150000, '상품번호2139056', 450, 10, 42, 2, 5, 22, 146);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '르917 L 데님 재킷 그레이', 200000, '상품번호2139091', 300, 20, 43, 2, 5, 22, 146);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '마뗑킴 M 데님 재킷 네이비', 250000, '상품번호2139124', 600, 25, 44, 2, 5, 22, 146);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '잔스포츠 S 데님 재킷 레드', 100000, '상품번호2139157', 700, 30, 45, 2, 5, 22, 146);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '드래곤 디퓨전 L 퍼 재킷 블루', 130000, '상품번호2139189', 400, 12, 1, 2, 5, 22, 147);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '라퍼지포우먼 M 퍼 재킷 블랙', 170000, '상품번호2139245', 550, 18, 2, 2, 5, 22, 147);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '이스트로그 퍼머넌트 S 퍼 재킷 화이트', 190000, '상품번호2139293', 650, 22, 3, 2, 5, 22, 147);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '토마스모어 L 퍼 재킷 그린', 220000, '상품번호2139341', 350, 17, 4, 2, 5, 22, 147);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '곤니치와봉쥬르 M 퍼 재킷 옐로우', 210000, '상품번호2139384', 720, 14, 5, 2, 5, 22, 147);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '메종마르지엘라 M 트레이닝 재킷 블랙', 120000, '상품번호2139412', 500, 15, 6, 2, 5, 22, 148);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '나이키 S 트레이닝 재킷 화이트', 150000, '상품번호2139456', 450, 10, 7, 2, 5, 22, 148);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '르917 L 트레이닝 재킷 그레이', 200000, '상품번호2139491', 300, 20, 8, 2, 5, 22, 148);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '마뗑킴 M 트레이닝 재킷 네이비', 250000, '상품번호2139524', 600, 25, 9, 2, 5, 22, 148);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '잔스포츠 S 트레이닝 재킷 레드', 100000, '상품번호2139557', 700, 30, 10, 2, 5, 22, 148);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '드래곤 디퓨전 L 점퍼 블루', 130000, '상품번호2139589', 400, 12, 11, 2, 5, 22, 149);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '라퍼지포우먼 M 점퍼 블랙', 170000, '상품번호2139645', 550, 18, 12, 2, 5, 22, 149);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '이스트로그 퍼머넌트 S 점퍼 화이트', 190000, '상품번호2139693', 650, 22, 13, 2, 5, 22, 149);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '토마스모어 L 점퍼 그린', 220000, '상품번호2139741', 350, 17, 14, 2, 5, 22, 149);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '곤니치와봉쥬르 M 점퍼 옐로우', 210000, '상품번호2139784', 720, 14, 15, 2, 5, 22, 149);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '메종마르지엘라 M 바람막이 블랙', 120000, '상품번호2139812', 500, 15, 16, 2, 5, 22, 150);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '나이키 S 바람막이 화이트', 150000, '상품번호2139856', 450, 10, 17, 2, 5, 22, 150);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '르917 L 바람막이 그레이', 200000, '상품번호2139891', 300, 20, 18, 2, 5, 22, 150);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '마뗑킴 M 바람막이 네이비', 250000, '상품번호2139924', 600, 25, 19, 2, 5, 22, 150);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '잔스포츠 S 바람막이 레드', 100000, '상품번호2139957', 700, 30, 20, 2, 5, 22, 150);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '메종마르지엘라 M 아노락 블랙', 120000, '상품번호2139989', 500, 15, 21, 2, 5, 22, 151);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '나이키 S 아노락 화이트', 150000, '상품번호2140045', 450, 10, 22, 2, 5, 22, 151);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '르917 L 아노락 그레이', 200000, '상품번호2140093', 300, 20, 23, 2, 5, 22, 151);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '마뗑킴 M 아노락 네이비', 250000, '상품번호2140141', 600, 25, 24, 2, 5, 22, 151);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '잔스포츠 S 아노락 레드', 100000, '상품번호2140184', 700, 30, 25, 2, 5, 22, 151);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '드래곤 디퓨전 L 트렌치, 맥코트 블루', 130000, '상품번호2140212', 400, 12, 26, 2, 5, 22, 152);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '라퍼지포우먼 M 트렌치, 맥코트 블랙', 170000, '상품번호2140256', 550, 18, 27, 2, 5, 22, 152);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '이스트로그 퍼머넌트 S 트렌치, 맥코트 화이트', 190000, '상품번호2140293', 650, 22, 28, 2, 5, 22, 152);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '토마스모어 L 트렌치, 맥코트 그린', 220000, '상품번호2140341', 350, 17, 29, 2, 5, 22, 152);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '곤니치와봉쥬르 M 트렌치, 맥코트 옐로우', 210000, '상품번호2140384', 720, 14, 30, 2, 5, 22, 152);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '메종마르지엘라 M 나일론, 코치 재킷 블랙', 120000, '상품번호2140412', 500, 15, 31, 2, 5, 22, 153);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '나이키 S 나일론, 코치 재킷 화이트', 150000, '상품번호2140456', 450, 10, 32, 2, 5, 22, 153);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '르917 L 나일론, 코치 재킷 그레이', 200000, '상품번호2140491', 300, 20, 33, 2, 5, 22, 153);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '마뗑킴 M 나일론, 코치 재킷 네이비', 250000, '상품번호2140524', 600, 25, 34, 2, 5, 22, 153);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '잔스포츠 S 나일론, 코치 재킷 레드', 100000, '상품번호2140557', 700, 30, 35, 2, 5, 22, 153);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '드래곤 디퓨전 L 후드 집업 블루', 130000, '상품번호2140589', 400, 12, 36, 2, 5, 22, 154);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '라퍼지포우먼 M 후드 집업 블랙', 170000, '상품번호2140645', 550, 18, 37, 2, 5, 22, 154);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '이스트로그 퍼머넌트 S 후드 집업 화이트', 190000, '상품번호2140693', 650, 22, 38, 2, 5, 22, 154);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '토마스모어 L 후드 집업 그린', 220000, '상품번호2140741', 350, 17, 39, 2, 5, 22, 154);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '곤니치와봉쥬르 M 후드 집업 옐로우', 210000, '상품번호2140784', 720, 14, 40, 2, 5, 22, 154);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '메종마르지엘라 M 베스트 블랙', 120000, '상품번호2140812', 500, 15, 41, 2, 5, 22, 155);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '나이키 S 베스트 화이트', 150000, '상품번호2140856', 450, 10, 42, 2, 5, 22, 155);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '르917 L 베스트 그레이', 200000, '상품번호2140891', 300, 20, 43, 2, 5, 22, 155);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '마뗑킴 M 베스트 네이비', 250000, '상품번호2140924', 600, 25, 44, 2, 5, 22, 155);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '잔스포츠 S 베스트 레드', 100000, '상품번호2140957', 700, 30, 45, 2, 5, 22, 155);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '드래곤 디퓨전 L 레더 재킷 블루', 130000, '상품번호2140989', 400, 12, 1, 2, 5, 22, 156);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '라퍼지포우먼 M 레더 재킷 블랙', 170000, '상품번호2141045', 550, 18, 2, 2, 5, 22, 156);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '이스트로그 퍼머넌트 S 레더 재킷 화이트', 190000, '상품번호2141093', 650, 22, 3, 2, 5, 22, 156);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '토마스모어 L 레더 재킷 그린', 220000, '상품번호2141141', 350, 17, 4, 2, 5, 22, 156);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '곤니치와봉쥬르 M 레더 재킷 옐로우', 210000, '상품번호2141184', 720, 14, 5, 2, 5, 22, 156);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '메종마르지엘라 M 블레이저 블랙', 120000, '상품번호2141212', 500, 15, 6, 2, 5, 22, 157);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '나이키 S 블레이저 화이트', 150000, '상품번호2141256', 450, 10, 7, 2, 5, 22, 157);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '르917 L 블레이저 그레이', 200000, '상품번호2141291', 300, 20, 8, 2, 5, 22, 157);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '마뗑킴 M 블레이저 네이비', 250000, '상품번호2141324', 600, 25, 9, 2, 5, 22, 157);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '잔스포츠 S 블레이저 레드', 100000, '상품번호2141357', 700, 30, 10, 2, 5, 22, 157);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '드래곤 디퓨전 L 롱코트 블루', 130000, '상품번호2141389', 400, 12, 11, 2, 5, 22, 158);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '라퍼지포우먼 M 롱코트 블랙', 170000, '상품번호2141445', 550, 18, 12, 2, 5, 22, 158);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '이스트로그 퍼머넌트 S 롱코트 화이트', 190000, '상품번호2141493', 650, 22, 13, 2, 5, 22, 158);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '토마스모어 L 롱코트 그린', 220000, '상품번호2141541', 350, 17, 14, 2, 5, 22, 158);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '곤니치와봉쥬르 M 롱코트 옐로우', 210000, '상품번호2141584', 720, 14, 15, 2, 5, 22, 158);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '메종마르지엘라 M 숏코트 블랙', 120000, '상품번호2141612', 500, 15, 16, 2, 5, 22, 159);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '나이키 S 숏코트 화이트', 150000, '상품번호2141656', 450, 10, 17, 2, 5, 22, 159);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '르917 L 숏코트 그레이', 200000, '상품번호2141691', 300, 20, 18, 2, 5, 22, 159);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '마뗑킴 M 숏코트 네이비', 250000, '상품번호2141724', 600, 25, 19, 2, 5, 22, 159);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '잔스포츠 S 숏코트 레드', 100000, '상품번호2141757', 700, 30, 20, 2, 5, 22, 159);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '드래곤 디퓨전 L 하프코트 블루', 130000, '상품번호2141789', 400, 12, 21, 2, 5, 22, 160);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '라퍼지포우먼 M 하프코트 블랙', 170000, '상품번호2141845', 550, 18, 22, 2, 5, 22, 160);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '이스트로그 퍼머넌트 S 하프코트 화이트', 190000, '상품번호2141893', 650, 22, 23, 2, 5, 22, 160);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '토마스모어 L 하프코트 그린', 220000, '상품번호2141941', 350, 17, 24, 2, 5, 22, 160);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '곤니치와봉쥬르 M 하프코트 옐로우', 210000, '상품번호2141984', 720, 14, 25, 2, 5, 22, 160);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '메종마르지엘라 M 경량패딩 블랙', 120000, '상품번호2142012', 500, 15, 26, 2, 5, 22, 161);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '나이키 S 경량패딩 화이트', 150000, '상품번호2142056', 450, 10, 27, 2, 5, 22, 161);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '르917 L 경량패딩 그레이', 200000, '상품번호2142091', 300, 20, 28, 2, 5, 22, 161);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '마뗑킴 M 경량패딩 네이비', 250000, '상품번호2142124', 600, 25, 29, 2, 5, 22, 161);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '잔스포츠 S 경량패딩 레드', 100000, '상품번호2142157', 700, 30, 30, 2, 5, 22, 161);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '드래곤 디퓨전 L 숏패딩 블루', 130000, '상품번호2142189', 400, 12, 31, 2, 5, 22, 162);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '라퍼지포우먼 M 숏패딩 블랙', 170000, '상품번호2142245', 550, 18, 32, 2, 5, 22, 162);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '이스트로그 퍼머넌트 S 숏패딩 화이트', 190000, '상품번호2142293', 650, 22, 33, 2, 5, 22, 162);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '토마스모어 L 숏패딩 그린', 220000, '상품번호2142341', 350, 17, 34, 2, 5, 22, 162);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '곤니치와봉쥬르 M 숏패딩 옐로우', 210000, '상품번호2142384', 720, 14, 35, 2, 5, 22, 162);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '메종마르지엘라 M 롱패딩 블랙', 120000, '상품번호2142412', 500, 15, 36, 2, 5, 22, 163);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '나이키 S 롱패딩 화이트', 150000, '상품번호2142456', 450, 10, 37, 2, 5, 22, 163);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '르917 L 롱패딩 그레이', 200000, '상품번호2142491', 300, 20, 38, 2, 5, 22, 163);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '마뗑킴 M 롱패딩 네이비', 250000, '상품번호2142524', 600, 25, 39, 2, 5, 22, 163);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '잔스포츠 S 롱패딩 레드', 100000, '상품번호2142557', 700, 30, 40, 2, 5, 22, 163);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '드래곤 디퓨전 L 기타 아우터 블루', 130000, '상품번호2142589', 400, 12, 41, 2, 5, 22, 164);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '라퍼지포우먼 M 기타 아우터 블랙', 170000, '상품번호2142645', 550, 18, 42, 2, 5, 22, 164);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '이스트로그 퍼머넌트 S 기타 아우터 화이트', 190000, '상품번호2142693', 650, 22, 43, 2, 5, 22, 164);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '토마스모어 L 기타 아우터 그린', 220000, '상품번호2142741', 350, 17, 44, 2, 5, 22, 164);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '곤니치와봉쥬르 M 기타 아우터 옐로우', 210000, '상품번호2142784', 720, 14, 45, 2, 5, 22, 164);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '메종마르지엘라 M 반소매 셔츠 블랙', 120000, '상품번호2142812', 500, 15, 1, 2, 5, 23, 165);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '나이키 S 반소매 셔츠 화이트', 150000, '상품번호2142856', 450, 10, 2, 2, 5, 23, 165);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '르917 L 반소매 셔츠 그레이', 200000, '상품번호2142891', 300, 20, 3, 2, 5, 23, 165);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '마뗑킴 M 반소매 셔츠 네이비', 250000, '상품번호2142924', 600, 25, 4, 2, 5, 23, 165);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '잔스포츠 S 반소매 셔츠 레드', 100000, '상품번호2142957', 700, 30, 5, 2, 5, 23, 165);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '드래곤 디퓨전 L 반소매 티셔츠 블루', 130000, '상품번호2142989', 400, 12, 6, 2, 5, 23, 166);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '라퍼지포우먼 M 반소매 티셔츠 블랙', 170000, '상품번호2143045', 550, 18, 7, 2, 5, 23, 166);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '이스트로그 퍼머넌트 S 반소매 티셔츠 화이트', 190000, '상품번호2143093', 650, 22, 8, 2, 5, 23, 166);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '토마스모어 L 반소매 티셔츠 그린', 220000, '상품번호2143141', 350, 17, 9, 2, 5, 23, 166);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '곤니치와봉쥬르 M 반소매 티셔츠 옐로우', 210000, '상품번호2143184', 720, 14, 10, 2, 5, 23, 166);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '메종마르지엘라 M 피케,카라 티셔츠 블랙', 120000, '상품번호2143212', 500, 15, 11, 2, 5, 23, 167);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '나이키 S 피케,카라 티셔츠 화이트', 150000, '상품번호2143256', 450, 10, 12, 2, 5, 23, 167);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '르917 L 피케,카라 티셔츠 그레이', 200000, '상품번호2143291', 300, 20, 13, 2, 5, 23, 167);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '마뗑킴 M 피케,카라 티셔츠 네이비', 250000, '상품번호2143324', 600, 25, 14, 2, 5, 23, 167);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '잔스포츠 S 피케,카라 티셔츠 레드', 100000, '상품번호2143357', 700, 30, 15, 2, 5, 23, 167);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '드래곤 디퓨전 L 슬리브리스 블루', 130000, '상품번호2143389', 400, 12, 16, 2, 5, 23, 168);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '라퍼지포우먼 M 슬리브리스 블랙', 170000, '상품번호2143445', 550, 18, 17, 2, 5, 23, 168);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '이스트로그 퍼머넌트 S 슬리브리스 화이트', 190000, '상품번호2143493', 650, 22, 18, 2, 5, 23, 168);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '토마스모어 L 슬리브리스 그린', 220000, '상품번호2143541', 350, 17, 19, 2, 5, 23, 168);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '곤니치와봉쥬르 M 슬리브리스 옐로우', 210000, '상품번호2143584', 720, 14, 20, 2, 5, 23, 168);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '메종마르지엘라 M 스웨트셔츠 블랙', 120000, '상품번호2143612', 500, 15, 21, 2, 5, 23, 169);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '나이키 S 스웨트셔츠 화이트', 150000, '상품번호2143656', 450, 10, 22, 2, 5, 23, 169);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '르917 L 스웨트셔츠 그레이', 200000, '상품번호2143691', 300, 20, 23, 2, 5, 23, 169);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '마뗑킴 M 스웨트셔츠 네이비', 250000, '상품번호2143724', 600, 25, 24, 2, 5, 23, 169);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '잔스포츠 S 스웨트셔츠 레드', 100000, '상품번호2143757', 700, 30, 25, 2, 5, 23, 169);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '드래곤 디퓨전 L 후디 블루', 130000, '상품번호2143789', 400, 12, 26, 2, 5, 23, 170);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '라퍼지포우먼 M 후디 블랙', 170000, '상품번호2143845', 550, 18, 27, 2, 5, 23, 170);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '이스트로그 퍼머넌트 S 후디 화이트', 190000, '상품번호2143893', 650, 22, 28, 2, 5, 23, 170);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '토마스모어 L 후디 그린', 220000, '상품번호2143941', 350, 17, 29, 2, 5, 23, 170);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '곤니치와봉쥬르 M 후디 옐로우', 210000, '상품번호2143984', 720, 14, 30, 2, 5, 23, 170);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '메종마르지엘라 M 집업 블랙', 120000, '상품번호2144012', 500, 15, 31, 2, 5, 23, 171);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '나이키 S 집업 화이트', 150000, '상품번호2144056', 450, 10, 32, 2, 5, 23, 171);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '르917 L 집업 그레이', 200000, '상품번호2144091', 300, 20, 33, 2, 5, 23, 171);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '마뗑킴 M 집업 네이비', 250000, '상품번호2144124', 600, 25, 34, 2, 5, 23, 171);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '잔스포츠 S 집업 레드', 100000, '상품번호2144157', 700, 30, 35, 2, 5, 23, 171);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '드래곤 디퓨전 L 긴소매 티셔츠 블루', 130000, '상품번호2144189', 400, 12, 36, 2, 5, 23, 172);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '라퍼지포우먼 M 긴소매 티셔츠 블랙', 170000, '상품번호2144245', 550, 18, 37, 2, 5, 23, 172);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '이스트로그 퍼머넌트 S 긴소매 티셔츠 화이트', 190000, '상품번호2144293', 650, 22, 38, 2, 5, 23, 172);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '토마스모어 L 긴소매 티셔츠 그린', 220000, '상품번호2144341', 350, 17, 39, 2, 5, 23, 172);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '곤니치와봉쥬르 M 긴소매 티셔츠 옐로우', 210000, '상품번호2144384', 720, 14, 40, 2, 5, 23, 172);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '메종마르지엘라 M 긴소매 셔츠 블랙', 120000, '상품번호2144412', 500, 15, 41, 2, 5, 23, 173);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '나이키 S 긴소매 셔츠 화이트', 150000, '상품번호2144456', 450, 10, 42, 2, 5, 23, 173);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '르917 L 긴소매 셔츠 그레이', 200000, '상품번호2144491', 300, 20, 43, 2, 5, 23, 173);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '마뗑킴 M 긴소매 셔츠 네이비', 250000, '상품번호2144524', 600, 25, 44, 2, 5, 23, 173);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '잔스포츠 S 긴소매 셔츠 레드', 100000, '상품번호2144557', 700, 30, 45, 2, 5, 23, 173);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '드래곤 디퓨전 L 레깅스 블루', 130000, '상품번호2144589', 400, 12, 1, 2, 5, 24, 174);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '라퍼지포우먼 M 레깅스 블랙', 170000, '상품번호2144645', 550, 18, 2, 2, 5, 24, 174);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '이스트로그 퍼머넌트 S 레깅스 화이트', 190000, '상품번호2144693', 650, 22, 3, 2, 5, 24, 174);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '토마스모어 L 레깅스 그린', 220000, '상품번호2144741', 350, 17, 4, 2, 5, 24, 174);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '곤니치와봉쥬르 M 레깅스 옐로우', 210000, '상품번호2144784', 720, 14, 5, 2, 5, 24, 174);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '메종마르지엘라 M 쇼트 블랙', 120000, '상품번호2144812', 500, 15, 6, 2, 5, 24, 175);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '나이키 S 쇼트 화이트', 150000, '상품번호2144856', 450, 10, 7, 2, 5, 24, 175);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '르917 L 쇼트 그레이', 200000, '상품번호2144891', 300, 20, 8, 2, 5, 24, 175);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '마뗑킴 M 쇼트 네이비', 250000, '상품번호2144924', 600, 25, 9, 2, 5, 24, 175);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '잔스포츠 S 쇼트 레드', 100000, '상품번호2144957', 700, 30, 10, 2, 5, 24, 175);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '드래곤 디퓨전 L 부츠컷 블루', 130000, '상품번호2144989', 400, 12, 11, 2, 5, 24, 176);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '라퍼지포우먼 M 부츠컷 블랙', 170000, '상품번호2145045', 550, 18, 12, 2, 5, 24, 176);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '이스트로그 퍼머넌트 S 부츠컷 화이트', 190000, '상품번호2145093', 650, 22, 13, 2, 5, 24, 176);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '토마스모어 L 부츠컷 그린', 220000, '상품번호2145141', 350, 17, 14, 2, 5, 24, 176);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '곤니치와봉쥬르 M 부츠컷 옐로우', 210000, '상품번호2145184', 720, 14, 15, 2, 5, 24, 176);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '메종마르지엘라 M 슬림 팬츠 블랙', 120000, '상품번호2145212', 500, 15, 16, 2, 5, 24, 177);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '나이키 S 슬림 팬츠 화이트', 150000, '상품번호2145256', 450, 10, 17, 2, 5, 24, 177);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '르917 L 슬림 팬츠 그레이', 200000, '상품번호2145291', 300, 20, 18, 2, 5, 24, 177);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '마뗑킴 M 슬림 팬츠 네이비', 250000, '상품번호2145324', 600, 25, 19, 2, 5, 24, 177);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '잔스포츠 S 슬림 팬츠 레드', 100000, '상품번호2145357', 700, 30, 20, 2, 5, 24, 177);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '드래곤 디퓨전 L 스트레이트 팬츠 블루', 130000, '상품번호2145389', 400, 12, 21, 2, 5, 24, 178);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '라퍼지포우먼 M 스트레이트 팬츠 블랙', 170000, '상품번호2145445', 550, 18, 22, 2, 5, 24, 178);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '이스트로그 퍼머넌트 S 스트레이트 팬츠 화이트', 190000, '상품번호2145493', 650, 22, 23, 2, 5, 24, 178);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '토마스모어 L 스트레이트 팬츠 그린', 220000, '상품번호2145541', 350, 17, 24, 2, 5, 24, 178);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '곤니치와봉쥬르 M 스트레이트 팬츠 옐로우', 210000, '상품번호2145584', 720, 14, 25, 2, 5, 24, 178);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '메종마르지엘라 M 와이드 팬츠 블랙', 120000, '상품번호2145612', 500, 15, 26, 2, 5, 24, 179);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '나이키 S 와이드 팬츠 화이트', 150000, '상품번호2145656', 450, 10, 27, 2, 5, 24, 179);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '르917 L 와이드 팬츠 그레이', 200000, '상품번호2145691', 300, 20, 28, 2, 5, 24, 179);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '마뗑킴 M 와이드 팬츠 네이비', 250000, '상품번호2145724', 600, 25, 29, 2, 5, 24, 179);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '잔스포츠 S 와이드 팬츠 레드', 100000, '상품번호2145757', 700, 30, 30, 2, 5, 24, 179);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '드래곤 디퓨전 L 데님 팬츠 블루', 130000, '상품번호2145789', 400, 12, 31, 2, 5, 24, 180);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '라퍼지포우먼 M 데님 팬츠 블랙', 170000, '상품번호2145845', 550, 18, 32, 2, 5, 24, 180);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '이스트로그 퍼머넌트 S 데님 팬츠 화이트', 190000, '상품번호2145893', 650, 22, 33, 2, 5, 24, 180);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '토마스모어 L 데님 팬츠 그린', 220000, '상품번호2145941', 350, 17, 34, 2, 5, 24, 180);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '곤니치와봉쥬르 M 데님 팬츠 옐로우', 210000, '상품번호2145984', 720, 14, 35, 2, 5, 24, 180);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '메종마르지엘라 M 트레이닝 팬츠 블랙', 120000, '상품번호2146012', 500, 15, 36, 2, 5, 24, 181);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '나이키 S 트레이닝 팬츠 화이트', 150000, '상품번호2146056', 450, 10, 37, 2, 5, 24, 181);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '르917 L 트레이닝 팬츠 그레이', 200000, '상품번호2146091', 300, 20, 38, 2, 5, 24, 181);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '마뗑킴 M 트레이닝 팬츠 네이비', 250000, '상품번호2146124', 600, 25, 39, 2, 5, 24, 181);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '잔스포츠 S 트레이닝 팬츠 레드', 100000, '상품번호2146157', 700, 30, 40, 2, 5, 24, 181);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '드래곤 디퓨전 L 슬랙스 블루', 130000, '상품번호2146189', 400, 12, 41, 2, 5, 24, 182);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '라퍼지포우먼 M 슬랙스 블랙', 170000, '상품번호2146245', 550, 18, 42, 2, 5, 24, 182);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '이스트로그 퍼머넌트 S 슬랙스 화이트', 190000, '상품번호2146293', 650, 22, 43, 2, 5, 24, 182);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '토마스모어 L 슬랙스 그린', 220000, '상품번호2146341', 350, 17, 44, 2, 5, 24, 182);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '곤니치와봉쥬르 M 슬랙스 옐로우', 210000, '상품번호2146384', 720, 14, 45, 2, 5, 24, 182);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '메종마르지엘라 M 상의 블랙', 120000, '상품번호2146412', 500, 15, 1, 2, 5, 25, 183);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '나이키 S 상의 화이트', 150000, '상품번호2146456', 450, 10, 2, 2, 5, 25, 183);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '르917 L 상의 그레이', 200000, '상품번호2146491', 300, 20, 3, 2, 5, 25, 183);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '마뗑킴 M 상의 네이비', 250000, '상품번호2146524', 600, 25, 4, 2, 5, 25, 183);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '잔스포츠 S 상의 레드', 100000, '상품번호2146557', 700, 30, 5, 2, 5, 25, 183);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '드래곤 디퓨전 L 하의 블루', 130000, '상품번호2146589', 400, 12, 6, 2, 5, 25, 184);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '라퍼지포우먼 M 하의 블랙', 170000, '상품번호2146645', 550, 18, 7, 2, 5, 25, 184);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '이스트로그 퍼머넌트 S 하의 화이트', 190000, '상품번호2146693', 650, 22, 8, 2, 5, 25, 184);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '토마스모어 L 하의 그린', 220000, '상품번호2146741', 350, 17, 9, 2, 5, 25, 184);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '곤니치와봉쥬르 M 하의 옐로우', 210000, '상품번호2146784', 720, 14, 10, 2, 5, 25, 184);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '메종마르지엘라 M 세트 블랙', 120000, '상품번호2146812', 500, 15, 11, 2, 5, 25, 185);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '나이키 S 세트 화이트', 150000, '상품번호2146856', 450, 10, 12, 2, 5, 25, 185);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '르917 L 세트 그레이', 200000, '상품번호2146891', 300, 20, 13, 2, 5, 25, 185);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '마뗑킴 M 세트 네이비', 250000, '상품번호2146924', 600, 25, 14, 2, 5, 25, 185);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '잔스포츠 S 세트 레드', 100000, '상품번호2146957', 700, 30, 15, 2, 5, 25, 185);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '드래곤 디퓨전 L 로브 블루', 130000, '상품번호2146989', 400, 12, 16, 2, 5, 25, 186);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '라퍼지포우먼 M 로브 블랙', 170000, '상품번호2147045', 550, 18, 17, 2, 5, 25, 186);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '이스트로그 퍼머넌트 S 로브 화이트', 190000, '상품번호2147093', 650, 22, 18, 2, 5, 25, 186);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '토마스모어 L 로브 그린', 220000, '상품번호2147141', 350, 17, 19, 2, 5, 25, 186);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '곤니치와봉쥬르 M 로브 옐로우', 210000, '상품번호2147184', 720, 14, 20, 2, 5, 25, 186);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '메종마르지엘라 M 수트 블랙', 120000, '상품번호2147212', 500, 15, 21, 2, 5, 26, 187);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '나이키 S 수트 화이트', 150000, '상품번호2147256', 450, 10, 22, 2, 5, 26, 187);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '르917 L 수트 그레이', 200000, '상품번호2147291', 300, 20, 23, 2, 5, 26, 187);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '마뗑킴 M 수트 네이비', 250000, '상품번호2147324', 600, 25, 24, 2, 5, 26, 187);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '잔스포츠 S 수트 레드', 100000, '상품번호2147357', 700, 30, 25, 2, 5, 26, 187);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '드래곤 디퓨전 L 스웻 블루', 130000, '상품번호2147389', 400, 12, 26, 2, 5, 26, 188);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '라퍼지포우먼 M 스웻 블랙', 170000, '상품번호2147445', 550, 18, 27, 2, 5, 26, 188);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '이스트로그 퍼머넌트 S 스웻 화이트', 190000, '상품번호2147493', 650, 22, 28, 2, 5, 26, 188);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '토마스모어 L 스웻 그린', 220000, '상품번호2147541', 350, 17, 29, 2, 5, 26, 188);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '곤니치와봉쥬르 M 스웻 옐로우', 210000, '상품번호2147584', 720, 14, 30, 2, 5, 26, 188);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '메종마르지엘라 M 트레이닝 블랙', 120000, '상품번호2147612', 500, 15, 31, 2, 5, 26, 189);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '나이키 S 트레이닝 화이트', 150000, '상품번호2147656', 450, 10, 32, 2, 5, 26, 189);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '르917 L 트레이닝 그레이', 200000, '상품번호2147691', 300, 20, 33, 2, 5, 26, 189);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '마뗑킴 M 트레이닝 네이비', 250000, '상품번호2147724', 600, 25, 34, 2, 5, 26, 189);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '잔스포츠 S 트레이닝 레드', 100000, '상품번호2147757', 700, 30, 35, 2, 5, 26, 189);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '드래곤 디퓨전 L 팬티 블루', 130000, '상품번호2147789', 400, 12, 36, 2, 5, 27, 190);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '라퍼지포우먼 M 팬티 블랙', 170000, '상품번호2147845', 550, 18, 37, 2, 5, 27, 190);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '이스트로그 퍼머넌트 S 팬티 화이트', 190000, '상품번호2147893', 650, 22, 38, 2, 5, 27, 190);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '토마스모어 L 팬티 그린', 220000, '상품번호2147941', 350, 17, 39, 2, 5, 27, 190);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '곤니치와봉쥬르 M 팬티 옐로우', 210000, '상품번호2147984', 720, 14, 40, 2, 5, 27, 190);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '메종마르지엘라 M 언더셔츠 블랙', 120000, '상품번호2148012', 500, 15, 41, 2, 5, 27, 191);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '나이키 S 언더셔츠 화이트', 150000, '상품번호2148056', 450, 10, 42, 2, 5, 27, 191);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '르917 L 언더셔츠 그레이', 200000, '상품번호2148091', 300, 20, 43, 2, 5, 27, 191);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '마뗑킴 M 언더셔츠 네이비', 250000, '상품번호2148124', 600, 25, 44, 2, 5, 27, 191);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '잔스포츠 S 언더셔츠 레드', 100000, '상품번호2148157', 700, 30, 45, 2, 5, 27, 191);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '드래곤 디퓨전 L 터틀넥 블루', 130000, '상품번호2148189', 400, 12, 1, 2, 5, 28, 192);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '라퍼지포우먼 M 터틀넥 블랙', 170000, '상품번호2148245', 550, 18, 2, 2, 5, 28, 192);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '이스트로그 퍼머넌트 S 터틀넥 화이트', 190000, '상품번호2148293', 650, 22, 3, 2, 5, 28, 192);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '토마스모어 L 터틀넥 그린', 220000, '상품번호2148341', 350, 17, 4, 2, 5, 28, 192);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '곤니치와봉쥬르 M 터틀넥 옐로우', 210000, '상품번호2148384', 720, 14, 5, 2, 5, 28, 192);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '메종마르지엘라 M 브이넥 블랙', 120000, '상품번호2148412', 500, 15, 6, 2, 5, 28, 193);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '나이키 S 브이넥 화이트', 150000, '상품번호2148456', 450, 10, 7, 2, 5, 28, 193);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '르917 L 브이넥 그레이', 200000, '상품번호2148491', 300, 20, 8, 2, 5, 28, 193);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '마뗑킴 M 브이넥 네이비', 250000, '상품번호2148524', 600, 25, 9, 2, 5, 28, 193);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '잔스포츠 S 브이넥 레드', 100000, '상품번호2148557', 700, 30, 10, 2, 5, 28, 193);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '드래곤 디퓨전 L 크루넥 블루', 130000, '상품번호2148589', 400, 12, 11, 2, 5, 28, 194);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '라퍼지포우먼 M 크루넥 블랙', 170000, '상품번호2148645', 550, 18, 12, 2, 5, 28, 194);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '이스트로그 퍼머넌트 S 크루넥 화이트', 190000, '상품번호2148693', 650, 22, 13, 2, 5, 28, 194);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '토마스모어 L 크루넥 그린', 220000, '상품번호2148741', 350, 17, 14, 2, 5, 28, 194);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '곤니치와봉쥬르 M 크루넥 옐로우', 210000, '상품번호2148784', 720, 14, 15, 2, 5, 28, 194);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '메종마르지엘라 M 폴로 셔츠 블랙', 120000, '상품번호2148812', 500, 15, 16, 2, 5, 28, 195);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '나이키 S 폴로 셔츠 화이트', 150000, '상품번호2148856', 450, 10, 17, 2, 5, 28, 195);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '르917 L 폴로 셔츠 그레이', 200000, '상품번호2148891', 300, 20, 18, 2, 5, 28, 195);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '마뗑킴 M 폴로 셔츠 네이비', 250000, '상품번호2148924', 600, 25, 19, 2, 5, 28, 195);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '잔스포츠 S 폴로 셔츠 레드', 100000, '상품번호2148957', 700, 30, 20, 2, 5, 28, 195);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '드래곤 디퓨전 L 카디건 블루', 130000, '상품번호2148989', 400, 12, 21, 2, 5, 28, 196);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '라퍼지포우먼 M 카디건 블랙', 170000, '상품번호2149045', 550, 18, 22, 2, 5, 28, 196);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '이스트로그 퍼머넌트 S 카디건 화이트', 190000, '상품번호2149093', 650, 22, 23, 2, 5, 28, 196);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '토마스모어 L 카디건 그린', 220000, '상품번호2149141', 350, 17, 24, 2, 5, 28, 196);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '곤니치와봉쥬르 M 카디건 옐로우', 210000, '상품번호2149184', 720, 14, 25, 2, 5, 28, 196);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '메종마르지엘라 M 베스트 블랙', 120000, '상품번호2149212', 500, 15, 26, 2, 5, 28, 197);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '나이키 S 베스트 화이트', 150000, '상품번호2149256', 450, 10, 27, 2, 5, 28, 197);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '르917 L 베스트 그레이', 200000, '상품번호2149291', 300, 20, 28, 2, 5, 28, 197);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '마뗑킴 M 베스트 네이비', 250000, '상품번호2149324', 600, 25, 29, 2, 5, 28, 197);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '잔스포츠 S 베스트 레드', 100000, '상품번호2149357', 700, 30, 30, 2, 5, 28, 197);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '드래곤 디퓨전 L 집업 블루', 130000, '상품번호2149389', 400, 12, 31, 2, 5, 28, 198);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '라퍼지포우먼 M 집업 블랙', 170000, '상품번호2149445', 550, 18, 32, 2, 5, 28, 198);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '이스트로그 퍼머넌트 S 집업 화이트', 190000, '상품번호2149493', 650, 22, 33, 2, 5, 28, 198);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '토마스모어 L 집업 그린', 220000, '상품번호2149541', 350, 17, 34, 2, 5, 28, 198);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '곤니치와봉쥬르 M 집업 옐로우', 210000, '상품번호2149584', 720, 14, 35, 2, 5, 28, 198);

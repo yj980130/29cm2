@@ -1,0 +1,1361 @@
+/* 디지털 INSERT */
+-- SMALL_CTGR_ID : 505
+-- 컴퓨터, 디지털 > 음향기기 > 이어폰
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, 'Apple 에어팟 프로 2세대 블루투스 이어폰 (USB-C) MTJV3KH/A', 359000, '상품번호2558714', 1500, 11, 23, 6, 12, 61, 505);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202403/11eeecc63b46f5fcbb6a7b931505a69b.jpg?width=600', 'https://gi.esmplus.com/bestvshop/2023_img/Audio/AirPodsPro2_usbc/AirPods_Pro_2_USBC.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, 'Apple 에어팟 2세대 블루투스 이어폰 (Lightning 유선충전) MV7N2KH/A', 199000, '상품번호2558059', 900, 10, 23, 6, 12, 61, 505);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202403/11eeecaba5f20b54bb6a0b1c897dd9f7.jpg?width=600', 'http://gi.esmplus.com/bestvshop/%EC%9D%B4%EB%B2%A0%EC%9D%B4%EC%A0%84%EC%9A%A9%EC%9D%B4%EB%AF%B8%EC%A7%80_2020/acc/airpod%202/AirPods%202.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, 'Apple 에어팟 3세대 블루투스 이어폰 (Lightning 유선 충전) MPNY3KH/A', 259000, '상품번호2558689', 600, 10, 23, 6, 12, 61, 505);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202403/11eeecc5c3012b4abb6a6f68f07f2d2e.jpg?width=600', 'https://gi.esmplus.com/bestvshop/2021_img/Audio/AirPods3/AirPods_3_Lightning.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, 'Apple 에어팟 3세대 블루투스 이어폰 (Magsafe 무선 충전) MME73KH/A', 269000, '상품번호2574549', 650, 10, 23, 6, 12, 61, 505);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202404/11eef315cce2c33cbb6aab80c3edb638.jpg?width=600', 'http://gi.esmplus.com/bestvshop/2021_img/Audio/AirPods3/AirPods_3.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, 'Apple 이어팟 유선이어폰 (USB-C) MTJY3ZP/A', 28000, '상품번호2566376', 2000, 0, 23, 6, 12, 61, 505);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202404/11eef0aacf3d468493672d0b0580a051.jpg?width=600', 'https://gi.esmplus.com/bestvshop/2023_img/Acc/etc/MTJY3ZPA.jpg', seq_pd_id.currval);
+
+
+-- SMALL_CTGR_ID : 506
+-- 컴퓨터, 디지털 > 음향기기 > 헤드폰
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, 'Apple 에어팟 맥스 - 실버MGYJ3KH/A', 769000, '상품번호2558792', 1700, 9, 23, 6, 12, 61, 506);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202403/11eeecc8306eb514bb6afbccfe911cfc.jpg?width=600', 'http://gi.esmplus.com/bestvshop/%EC%9D%B4%EB%B2%A0%EC%9D%B4%EC%A0%84%EC%9A%A9%EC%9D%B4%EB%AF%B8%EC%A7%80_2020/acc/AirPods%20Max/AirPods%20Max.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '[소니] 가볍고 편한 데일리 헤드폰 WH-CH520', 89000, '상품번호1941513', 560, 24, 23, 6, 12, 61, 506);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2023/02/27/befadef57deb4fe19b7aeac3024ed065_20230227111706.png?width=600', 'https://img.29cm.co.kr/next-product/2023/02/27/a29bda5f6d224255bd509a7742251672_20230227105802.png', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '소니 노이즈 캔슬링 헤드폰 WH-1000XM4', 459000, '상품번호779526', 450, 26, 24, 6, 12, 61, 506);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2022/10/26/3fee08bf17cc47fc85f8ea47181ef565_20221026140711.jpg?width=600', 'https://img.29cm.co.kr/next-product/2021/03/18/b1e09166ff3d46699e147d80efc1e96c_20210318125433.jpg?width=1000', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '소니 노이즈캔슬링 헤드폰 (WH-1000XM5)', 499000, '상품번호1525626', 340, 9, 24, 6, 12, 61, 506);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2023/04/21/e4e748894673427d9da04832d36c54d4_20230421093812.jpg?width=600', 'https://img.29cm.co.kr/item/202405/11ef1321e9e14defb9bb2ded38f4d835.png', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '[소니] 가벼운 노이즈캔슬링 헤드폰 WH-CH720N', 199000, '상품번호1941526', 680, 9, 24, 6, 12, 61, 506);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2023/02/27/67cb30a931bb4fd59c83a998448414ef_20230227111744.png?width=600', 'https://img.29cm.co.kr/next-product/2023/02/27/a166f728f6204f549bba3fe198770516_20230227110415.png', seq_pd_id.currval);
+
+
+-- SMALL_CTGR_ID : 507
+-- 컴퓨터, 디지털 > 음향기기 > 스피커
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, 'LEXON 렉슨 MINO 플러스 미니 블루투스 스피커 - LA125', 50000, '상품번호1669418', 210, 20, 25, 6, 12, 61, 507);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202310/11ee7781435e8af78a7faf66ac33642a.jpg?width=600', 'https://img.29cm.co.kr/next-product/2023/05/15/49e9a1d1526a4fe4a2cc498020c9430a_20230515105630.jpg?width=1000', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '정품 뱅앤올룹슨 베오사운드 A1 2세대 Grey 블루투스 방수 무선 스피커', 419000, '상품번호234020', 133, 0, 25, 6, 12, 61, 507);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2023/11/22/a70175d1d8c44b9ca0c8019735b3b563_20231122161438.png?width=600', 'https://img.29cm.co.kr/next-product/2024/05/01/31e2ee916c2a4495889ccb12770794dd_20240501170632.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '삼성공식파트너 JBL GO3(고3) 블루투스 스피커 포터블 캠핑 IPX7 방수', 459000, '상품번호779526', 2450, 15, 25, 6, 12, 61, 507);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2022/08/08/3682fa33c9244941ba1aa3d1951df648_20220808140216.jpg?width=600', 'https://ai.esmplus.com/koneav1/samsung_jbl/GO3/GO3_TOP_01.png', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '정품 뱅앤올룹슨 베오사운드 A1 ADER ERROR Edition 블루투스 방수 무선 스피커', 700000, '상품번호2605753', 162, 0, 25, 6, 12, 61, 507);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2024/04/22/ccfd38e5b11d4a37ac2ac25144a98230_20240422214443.jpg?width=600', 'http://kolonglobal.speedgabia.com/special_color/2024_adererror_edition/beosoundA1_ADERERROR_900_04.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '[공식수입사] 마샬 윌렌 Willen', 169000, '상품번호1726825', 504, 0, 25, 6, 12, 61, 507);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2022/09/19/a192f60567b44a4b86064c188d35690c_20220919113924.png?width=600', 'https://gi.esmplus.com/sovicoav/web/marshall/willen.png', seq_pd_id.currval);
+
+
+-- SMALL_CTGR_ID : 508
+-- 컴퓨터, 디지털 > 음향기기 > 마이크
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '잔망루피 무선 마이크 스피커 가정용 차량용 휴대용 미니 노래방 블루투스 마이크', 49900, '상품번호2582352', 10, 22, 23, 6, 12, 61, 508);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202404/11eef7a0c87a4b8d88b19f6424b602eb.jpg?width=600', 'https://gi.esmplus.com/3gomobile1/ROYCHE/LOOPY_MIC/01.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '카카오프렌즈 춘식이 블루투스 마이크 스피커 (미러볼 포함)', 69000, '상품번호1825299', 50, 0, 23, 6, 12, 61, 508);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2022/11/16/55fbfc13e26445619ae8c90c66c88b41_20221116122507.jpg?width=600', 'https://gi.esmplus.com/widmobile2/kakaofriends/speaker/%EB%A7%88%EC%9D%B4%ED%81%AC%20%ED%95%A9%EB%B3%B8/01_01.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '[스페셜에디션_무직타이거] 로지텍코리아 정품 블루 BLUE YETI 예티(블랙)_무직타이거 에디션', 179000, '상품번호1395098', 200, 0, 26, 6, 12, 61, 508);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2023/09/25/31f36624f4bf46c89808325420a6ffbf_20230925180740.jpg?width=600', 'https://img.29cm.co.kr/next-product/2022/06/28/ef4d9a8595d54437855e3ff33f3eecda_20220628162531.JPG', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '디붐 페어리-OK 블루투스 마이크 스피커', 158000, '상품번호1581532', 200, 25, 28, 6, 12, 61, 508);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2022/05/30/f5745a66f67b4288a3169b7378eb1c7e_20220530151845.jpg?width=600', 'https://img.29cm.co.kr/next-product/2022/05/30/4677878431ad4fe5a82a77849e183471_20220530151943.jpg?width=1000', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '삼성전자 JBL QUANTUM STREAM USB 방송용 콘덴서 유튜브 마이크 게이밍 개인방송', 119000, '상품번호1625669', 504, 17, 24, 6, 12, 61, 508);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2022/07/04/00aeee49967a4bf7bb2252bb02f192f4_20220704153906.jpg?width=600', 'https://gi.esmplus.com/mpseller/Quantum/Stream.jpg', seq_pd_id.currval);
+
+
+-- SMALL_CTGR_ID : 509
+-- 컴퓨터, 디지털 > 음향기기 > 턴테이블
+(seq_pd_id.nextval, '올 화이트 에디션 AT-LP60XBT WW 자동벨트 블루투스턴테이블', 299000, '상품번호977519', 9530, 7, 23, 6, 12, 61, 509);
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2021/02/09/e43044acf0ba42468cbb32e6ef58f999_20210209103825.jpg?width=600', 'https://audio-technica.co.kr/data//audio-technica/product/AT-LP60XBT%20WW/AT-LP60XBT%20WW_detail.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '[청구2%] 공식수입원 AT-LP60XHP 완전 자동 벨트 드라이브 턴테이블+헤드폰', 419000, '상품번호510642', 133, 0, 23, 6, 12, 61, 509);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2019/11/12/69cb782a301a4964a1a56e46cd1a9e9f_20191112122903.jpg?width=600', 'https://audio-technica.co.kr/data//audio-technica/new_detail/Turntable/AT-LP60XHP/AT-LP60XHP_detail.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, 'HBD Party (LP - turntable cover) 액자, 턴테이블 커버', 52800, '상품번호1571542', 162, 0, 20, 6, 12, 61, 509);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202310/11ee6f08f393432383bc67a2fa838dc3.png?width=600', 'https://img.29cm.co.kr/next-product/2022/05/23/7fcf25000e8346d88cb4d80b0cf13c99_20220523223458.jpg?width=1000', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '[CROSLEY] 크로슬리 스위치2 블루투스 턴테이블 CR6034A', 199000, '상품번호1160621', 2450, 12, 26, 6, 12, 61, 509);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2022/05/23/d36382048252486c8492179cbbc78908_20220523223020.jpg?width=600', 'https://img.29cm.co.kr/next-product/2021/07/13/49cb93e0df2e430bb6bed6db607331b3_20210713171207.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '크로슬리 보이저 블루투스 턴테이블 CR8017', 99900, '상품번호893994', 504, 0, 24, 6, 12, 61, 509);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2023/01/30/f405ac2f1355401bb55e8ee8ec6bdc61_20230130140027.jpg?width=600', 'http://edocom.whoisimg.com/Crosley/page/voyager_01.jpg', seq_pd_id.currval);
+
+
+-- SMALL_CTGR_ID : 510
+-- 컴퓨터, 디지털 > 음향기기 > 사운드바
+(seq_pd_id.nextval, '홈시네마패키지 리뷰이벤트 신세계 17만원+서라운드 스탠드 증_삼성공식파트너 하만카돈 사이테이션 홈시어터 멀티빔 사운드바 1100', 980000, '상품번호1510935', 300, 15, 27, 6, 12, 61, 510);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2022/07/06/943e8085172a411ab51b0e9c1cce5a84_20220706092202.jpg?width=600', 'https://ai.esmplus.com/digitalsell/%ED%95%98%EB%A7%8C%EC%B9%B4%EB%8F%88/CITATION/HKCITAB1100-SUB-SR/HKCITAB1100-SUB-SR_fb_08.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '삼성공식파트너 하만카돈 사이테이션 홈시어터 멀티빔700 사운드바', 399000, '상품번호970740', 1000, 19, 23, 6, 12, 61, 510);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2022/07/06/ed22579163514b8d86f9fd1655380bff_20220706165325.jpg?width=600', 'https://ai.esmplus.com/digitalsell/%ED%95%98%EB%A7%8C%EC%B9%B4%EB%8F%88/CITATION/HKCITAMB700GRYAS/HKCITAMB700GRYAS_fb_04.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '[LG전자 공식인증점] LG 사운드바 SC9S', 957800, '상품번호2468021', 331, 15, 26, 6, 12, 61, 510);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2024/02/14/4d8bfe34a066438fb049cd0a8d55920e_20240214111212.jpeg?width=600', 'https://open.lge.co.kr/link/2023/usp/06_AUDIO/SC9S/SC9S_03.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '정품 뱅앤올룹슨 베오사운드 스테이지 Black Anthracite 프리미엄 사운드바', 3299000, '상품번호2345574', 203, 0, 20, 6, 12, 61, 510);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2023/11/22/40dfa2e89db549ed8af29bf6a33295af_20231122191443.png?width=600', 'https://img.29cm.co.kr/next-product/2024/05/01/5354b99db51445e1a8f2b43913645d43_20240501182351.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '정품 뱅앤올룹슨 베오사운드 스테이지 Gold Tone 프리미엄 사운드바', 3299000, '상품번호2345577', 651, 0, 20, 6, 12, 61, 510);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2023/11/22/0581c702553d4db8af9d151d4fa4170f_20231122191604.png?width=600', 'https://img.29cm.co.kr/next-product/2024/05/01/c4e1c1e0c15644e6a56e6b425cb48885_20240501182338.jpg', seq_pd_id.currval);
+
+
+-- SMALL_CTGR_ID : 511
+-- 컴퓨터, 디지털 > 음향기기 > 오디오 액세서리
+(seq_pd_id.nextval, '아치형 헤드폰 거치대 소니 WH-1000XM4 에어팟맥스 WH-1000XM5 헤드셋 거치대', 24900, '상품번호1730014', 888, 20, 25, 6, 12, 61, 511);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2022/09/20/0f732cffd87646baae18172527a02b26_20220920142205.jpg?width=600', 'https://img.29cm.co.kr/next-product/2022/09/20/070ccc39844a467f98598a96153a0393_20220920141935.jpg?width=1000', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '블루투스 와이어리스 CD플레이어 EN-CD1BT', 154000, '상품번호1414865', 133, 0, 23, 6, 12, 61, 511);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2022/02/18/4661152ed29b4c1aa2819a6226c7510a_20220218082328.jpg?width=600', 'https://img.29cm.co.kr/next-product/2022/03/15/934676b6f5e147258d082048302d2054_20220315150132.jpg?width=1000', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '아이폰 맥세이프 통화 녹음기 2세대 매그모 프로 Magmo Pro (스타라이트)', 249000, '상품번호2422097', 2450, 15, 26, 6, 12, 61, 511);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202401/11eeb6882eae33e391eb7fae6ddbaff3.png?width=600', 'https://img.29cm.co.kr/item/202401/11eeb686f9c6016a837743af22859589.png', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '(백색소음) 해피이어스 이어플러그 귀마개 EARPLUG (3PACK)', 49800, '상품번호1726825', 167, 30, 28, 6, 12, 61, 511);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2021/11/19/3bc3201d7f6446d688e7a15d166f267d_20211119095502.jpg?width=600', 'https://img.29cm.co.kr/next-product/2022/09/20/52b4018a54f54737938b647a8c6d66ab_20220920120733.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '레트로 미니 라디오 WM-011', 15000, '상품번호2130957', 504, 0, 30 6, 12, 61, 511);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202306/11ee171609cad0b0982b95267bc47eec.jpg?width=600' 'https://img.29cm.co.kr/item/202306/11ee1716bf0921a0982b87896d7a4c0f.jpg', seq_pd_id.currval);
+
+
+-- SMALL_CTGR_ID : 512
+-- 컴퓨터, 디지털 > 음향기기 > 이어폰,헤드폰 케이스
+(seq_pd_id.nextval, '샤틴 에어팟 케이스', 11000, '상품번호2062568', 210, 22, 23, 6, 12, 61, 512);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2023/05/09/2c2fc4e82b4b46099b754aa5146e88c9_20230509204716.jpg?width=600', 'https://contents.sixshop.com/uploadedFiles/57446/product/image_1681639185599.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '[29CM단독]_ootd airpods pro case (glossy, matte)', 171000, '상품번호2337457', 1834, 0, 23, 6, 12, 61, 512);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202311/11ee839fe331e25d83bc9d886e58cbf8.jpg?width=600', 'https://img.29cm.co.kr/item/202404/11eef33bd163747388b10d82f06ac89d.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '[에어팟 케이스] 고양이의 꿈나라', 18000, '상품번호2332883', 2450, 15, 26, 6, 12, 61, 512);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202311/11ee81c94eb02487a5b3391106847004.jpg?width=600', 'https://img.29cm.co.kr/item/202311/11ee81c97bf61b7583bca9cbaed2884d.jpg?width=1000', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, 'petit patissier airpods case (에어팟케이스)', 20000, '상품번호2498520', 456, 5, 20, 6, 12, 61, 512);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202403/11eed7bc7857af7e91a5a95a9aaf4d51.jpg?width=600', 'https://img.29cm.co.kr/item/202403/11eed7bc7b94b2be82f21922e1debc5f.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '[에어팟 케이스] Afternoon Leaf', 19000, '상품번호1843820', 504, 0, 24, 6, 12, 61, 512);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2023/05/29/6ca59d642ff5409db868cbae27edca2a_20230529165727.jpg?width=600', 'https://img.29cm.co.kr/next-product/2023/05/29/87ed300d5d434649b3dabec5f4d4f91f_20230529165759.jpg?width=1000', seq_pd_id.currval);
+
+-- SMALL_CTGR_ID : 513
+-- 컴퓨터, 디지털 > 음향기기 > 이어폰,헤드폰 액세서리
+(seq_pd_id.nextval, '퀼팅 리틀 블랙 버니즈 이어폰 파우치', 22000, '상품번호1669418', 210, 0, 23, 6, 12, 61, 513);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202310/11ee6d7b953ad59383bc9745a85ce5f7.png?width=600', 'https://img.29cm.co.kr/item/202310/11ee6d7bae72d40183bc25df71a22989.jpg?width=1000', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '드림썸머 디자인 [clear 에어팟케이스]', 11000, '상품번호234020', 133, 0, 23, 6, 12, 61, 513);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2021/06/28/066cf08a386a40898c2903d89c343f2f_20210628165614.jpg?width=600', 'https://img.29cm.co.kr/next-product/2021/06/28/5dc7dd87da4049a9b5ce3a16c9ecb503_20210628165620.jpg?width=1000', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, 'Ours AirPods Pouch 4Color', 15000, '상품번호779526', 655, 20, 26, 6, 12, 61, 513);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202309/11ee55fd600aee6583bc75dff6218da7.jpg?width=600', 'https://gi.esmplus.com/oursshop/%EC%97%90%EC%96%B4%ED%8C%9F%EC%BC%80%EC%9D%B4%EC%8A%A4/230915_airpods_pouch.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '스틸 블루 에어팟 케이스', 15000, '상품번호2605753', 162, 0, 20, 6, 12, 61, 513);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2022/11/24/5bb5ccb505e74505974a19583cd5382b_20221124140251.jpg?width=600', 'https://img.29cm.co.kr/next-product/2022/11/24/467be00efb7a46b5aeb4b70d7477e69a_20221124140304.jpg?width=1000', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '에어팟 케이스', 29900, '상품번호938222', 504, 0, 24, 6, 12, 61, 513);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2023/04/28/4f4d6f2735004d279604bb1355edcbd8_20230428155055.jpg?width=600', 'https://img.29cm.co.kr/next-product/2020/12/30/7065113d9a434bedbbaa0d29513eef8f_20201230142208.jpg?width=1000', seq_pd_id.currval);
+
+
+-- SMALL_CTGR_ID : 514
+-- 컴퓨터, 디지털 > 모바일,웨어러블 > 핸드폰,스마트폰
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '아이폰 14 자급제 128GB 퍼플 MPV03KH/A', 1090000, '상품번호2585941', 81, 17, 28, 6, 12, 62, 514);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202404/11eef88ffa920806936713fefb57d3aa.jpg?width=600', 'https://gi.esmplus.com/bestvshop/2022_img/iPhone/iPhone%2014/iPhone%2014.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '[상품권5만 추가증정][Galaxy x depound] 삼성 갤럭시 S24/S24 플러스 자급제', 1365000, '상품번호2489846', 644, 24, 28, 6, 12, 62, 514);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202403/11eed9ce76ac2f0a91a5bb39fe23213a.jpg?width=600', 'https://gi.esmplus.com/coit46332/samsung/smt/S24/29cm/depound.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '아이폰 14 자급제 128GB 미드나이트 MPUF3KH/A', 1090000, '상품번호2585940', 77, 17, 28, 6, 12, 62, 514);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202404/11eef891701c8e7cbb6af92be96e718a.jpg?width=600', 'https://gi.esmplus.com/bestvshop/2022_img/iPhone/iPhone%2014/iPhone%2014.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '아이폰 14 프로 자급제 128GB 실버 MQ023KH/A', 1550000, '상품번호2585964', 162, 0, 28, 6, 12, 62, 514);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202404/11eef88aaee8ed5d88b15170c57cb3da.jpg?width=600', 'https://gi.esmplus.com/bestvshop/2022_img/iPhone/iPhone%2014/iPhone%2014%20Pro.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '아이폰 14 자급제 128GB 블루 MPVN3KH/A', 1090000, '상품번호2585939', 14, 17, 28, 6, 12, 62, 514);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202404/11eef89208248a3f88b1996e1fa2ee1f.jpg?width=600', 'https://gi.esmplus.com/bestvshop/2022_img/iPhone/iPhone%2014/iPhone%2014.jpg', seq_pd_id.currval);
+
+
+-- SMALL_CTGR_ID : 515
+-- 컴퓨터, 디지털 > 모바일,웨어러블 > 태블릿
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '[5/17출고]_BOOX Page 페이지 7인치 이북리더기 블랙', 359000, '상품번호2129388', 1939, 11, 28, 6, 12, 62, 515);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202306/11ee1644b19d7e9e982b9de92c3fb83a.jpg?width=600', 'https://ai.esmplus.com/img1012/innospaceone/product/page/01.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '아이패드 9세대 WI-FI 256GB 스페이스그레이 MK2N3KH/A', 739000, '상품번호234020', 227, 26, 26, 6, 12, 62, 515);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202404/11eef2431b6c58729367377448d37453.jpg?width=600', 'http://gi.esmplus.com/bestvshop/2021_img/iPad/iPad/iPad_9_Product_Page.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '아이패드 10세대 Wi-Fi 64GB 실버 MPQ03KH/A', 529000, '상품번호2569874', 91, 3, 26, 6, 12, 62, 515);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202404/11eef24187e71b3c9367955e558a68aa.jpg?width=600', 'https://gi.esmplus.com/bestvshop/2022_img/iPad/iPad_10/iPad%2010.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '아이패드 에어 5세대 WiFi 64GB 스페이스그레이 MM9C3KH/A', 929000, '상품번호2569903', 162, 10, 20, 6, 12, 62, 515);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202404/11eef25247a5eafc9367ff02e0d5c307.jpg?width=600', 'https://gi.esmplus.com/bestvshop/2022_img/iPad/iPad_Air_5/iPad_Air_5.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '오닉스 북스 포크5 6인치 이북리더기 전자책 SD카드 슬롯장착', 259000, '상품번호2120621', 366, 0, 24, 6, 12, 62, 515);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2023/06/20/0476b1a177d24a8d9d6ae18db9c87d9c_20230620101808.jpg?width=600', 'https://ai.esmplus.com/img1012/innospaceone/product/poke5/01.jpg', seq_pd_id.currval);
+
+
+-- SMALL_CTGR_ID : 516
+-- 컴퓨터, 디지털 > 모바일,웨어러블 > 스마트워치
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '애플워치 SE 2 GPS 40mm 스타라이트 알루미늄 케이스 스타라이트 스포츠밴드(S/M) MR9U3KH/A', 50000, '상품번호2570021', 18, 6, 23, 6, 12, 62, 516);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202404/11eef2448e6dc3d69367a51eaa60f8f1.JPG?width=600', 'https://gi.esmplus.com/bestvshop/2023_img/Watch_SE_2/Apple_Watch_SE.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '애플워치 SE 2 GPS 44mm 미드나이트 알루미늄 케이스 미드나이트 스포츠밴드(M/L) MRE93KH/A', 419000, '상품번호2570023', 133, 6, 23, 6, 12, 62, 516);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202404/11eef2444251828d88b1a7ffdd7fec03.JPG?width=600', 'https://gi.esmplus.com/bestvshop/2023_img/Watch_SE_2/Apple_Watch_SE.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '애플워치 SE 2 GPS 40mm 실버 알루미늄 케이스 스톰블루 스포츠밴드 (S/M) MRE13KH/A', 329000, '상품번호2570018', 2450, 6, 23, 6, 12, 62, 516);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202404/11eef2457c3ea752bb6acbf83b61f710.JPG?width=600', 'https://gi.esmplus.com/bestvshop/2023_img/Watch_SE_2/Apple_Watch_SE.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '애플워치 SE 2 GPS 44mm 실버 알루미늄 케이스 윈터블루 스포츠루프 MREF3KH/A', 369000, '상품번호2570029', 162, 11, 23, 6, 12, 62, 516);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202404/11eef242c692b2a188b13bfe25f60ad7.JPG?width=600', 'https://gi.esmplus.com/bestvshop/2023_img/Watch_SE_2/Apple_Watch_SE.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '애플워치 SE 2 GPS 40mm 미드나이트 알루미늄 케이스 미드나이트 스포츠밴드(S/M) MR9X3KH/A', 329000, '상품번호2570015', 504, 6, 23, 6, 12, 62, 516);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202404/11eef245f9d5af2c9367f7f6bbd30f40.JPG?width=600', 'https://gi.esmplus.com/bestvshop/2023_img/Watch_SE_2/Apple_Watch_SE.jpg', seq_pd_id.currval);
+
+
+-- 컴퓨터, 디지털 > 모바일,웨어러블 > 보조배터리 ( 517 )
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '라이프썸 미니 마그네틱 무선충전 보조배터리(LFS-HA48) 8000mAh 3종 택1', 69000, '상품번호1836284', 210, 29, 23, 6, 12, 62, 517);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2022/11/25/c35791c9efa54a1a9d47fba9a48c649b_20221125110422.jpg?width=600', 'https://img.29cm.co.kr/next-product/2022/11/25/9793b03e13794a6a9b59f55338dd8143_20221125105211.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '엔보우 맥세이프 고속 무선충전 대용량 보조배터리 10000mAh M10+맥세이프링 증정', 35900, '상품번호2148854', 38, 25, 23, 6, 12, 62, 517);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202307/11ee2b4c51ffc7cfbdfa5920cad22605.jpg?width=600', 'https://ai.esmplus.com/dveshop/nbow/etc/M10/m10_1.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '알로코리아 20W 고속 도킹형 보조배터리 C타입 8핀 일체형 5000mAh 502DPD', 39900, '상품번호779526', 920, 25, 26, 6, 12, 62, 517);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202402/11eecaf8851dd944b23897b502f851b7.jpg?width=600', 'https://sibum59.speedgabia.com/product/allo/battery/502DPD/502DPD_DB_860_01.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '알로코리아 20W 고속 도킹형 보조배터리 C타입 8핀 일체형 5000mAh 502DPD', 31000, '상품번호2605753', 162, 10, 20, 6, 12, 62, 517);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2023/12/01/812ab9c231a64dd7ac171c1c65383f26_20231201151759.jpg?width=600', 'https://mademoment.cafe24.com/MD/%EA%B8%B0%ED%83%80/20231130_best-%EB%94%94%EC%9E%90%EC%9D%B8-%EB%A7%A5%EC%84%B8%EC%9D%B4%ED%94%84-%EB%B3%B4%EC%A1%B0%EB%B0%B0%ED%84%B0%EB%A6%AC-%EB%AA%A8%EC%9D%8C%EC%A0%84-2-01.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '초경량 휴대용 포켓 대용량 5000mAh 2IN1 동시 충전 미니 보조배터리 C타입&8핀', 32900, '상품번호2178162', 504, 61, 24, 6, 12, 62, 517);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202312/11ee98cbe46bd83cb2381d7ca351d68a.jpg?width=600', 'https://img.29cm.co.kr/item/202308/11ee3d98eddab210acc575193642f5f9.jpg?width=1000', seq_pd_id.currval);
+
+
+-- 컴퓨터, 디지털 > 모바일,웨어러블 > 케이블,젠더 ( 518 )
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '실리콘 레고 블록 다용도 조립형 케이블 홀더 C타입·8·5·핀·데스크·충전·선정리·코드·콘센트·멀티탭', 8900, '상품번호1836284', 210, 22, 23, 6, 12, 62, 518);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2023/01/16/4be8244338704d19950c68221e71eee8_20230116100728.jpg?width=500', 'https://sinjimoru.diskn.com/상세페이지/04_거치대_링_홀더/일반용/조립형블록케이블홀더/01.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '[samuel smalls] SUPER SOFT CABLE', 19000, '상품번호2432806', 545, 0, 23, 6, 12, 62, 518);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202401/11eebb5ffb60db928377a5e62798a212.jpg?width=500', 'https://img.29cm.co.kr/item/202403/11eed9e010d7e4f891a52fd6e64a1d23.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '마그네틱 케이블 매니지먼트', 15000, '상품번호1005643', 971, 30, 23, 6, 12, 62, 518);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202309/11ee584285bbb12b83bcdb1fc8aa57df.jpg?width=500', 'https://img.29cm.co.kr/next-product/2021/03/04/a873921dbcea44d29b5ba34aaa4b364b_20210304134242.jpg?width=1000', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '5p+5p 실리콘 이어폰 전선 정리 재사용 케이블 타이', 2800, '상품번호1204316', 168, 21, 23, 6, 12, 62, 518);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2021/08/26/274ac4afd771429aa4e772c6d72374d3_20210826154222.jpg?width=500', 'https://img.29cm.co.kr/next-product/2021/08/26/a9dc6b6ce5304c40ae1ce1456e0d379a_20210826154303.jpg?width=1000', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '키크론 스탠다드 항공 케이블 코일 USB C타입', 26950, '상품번호2299273', 679, 9, 23, 6, 12, 62, 518);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2023/10/20/345f9f54c9fb484580234374eadcf282_20231020152122.jpg?width=500', 'https://img.29cm.co.kr/next-product/2023/10/20/5817798f34324009945c9d30cf417dae_20231020152132.png', seq_pd_id.currval);
+
+
+-- 컴퓨터, 디지털 > 모바일 액세서리 > 스마트폰 케이스 ( 519 )
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, 'Logo Alphabet Phonecase (Transparent White)', 21000, '상품번호2373188', 210, 19, 23, 6, 12, 63, 519);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202312/11eea3ce60939898b238d7f706fdd54f.jpg?width=600', 'https://img.29cm.co.kr/item/202403/11eeec05b200269388b13b16e1415b08.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '[29CM 단독]_soft love bunny (epoxy) 아이폰케이스', 20000, '상품번호2329176', 210, 16, 25, 6, 12, 63, 519);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202311/11ee81d3d3ca0aa183bcb97eddbd9901.jpg?width=600', 'https://img.29cm.co.kr/item/202311/11ee81efc9c128a1a5b315082a2eb348.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '[29CM 단독]_Tattoo Color Ivory black 에폭시범퍼케이스', 21000, '상품번호2260610', 210, 22, 23, 6, 12, 63, 519);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202309/11ee5a92af01f4678a7fe9a36deea7dd.jpg?width=600', 'https://img.29cm.co.kr/item/202309/11ee5a92b6fb1f798a7fa90d777f505e.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '[29CM단독]_아이 원트 고 홈 화이트 투명 케이스', 18000, '상품번호2313666', 210, 22, 28, 6, 12, 63, 519);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202310/11ee76fc29fdaa07a5b3ade6c782e419.png?width=600', 'https://img.29cm.co.kr/item/202310/11ee76fc371e1b318a7fbd63237a7beb.png', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, 'Vintage Green Phone case (에폭시 범퍼)', 22000, '상품번호2504149', 210, 0, 27, 6, 12, 63, 519);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202402/11eed6366ea0e4728377efb03af6638f.jpg?width=600', 'https://img.29cm.co.kr/item/202402/11eed6368b3f8db8b2386d18ea01c82c.jpg', seq_pd_id.currval);
+
+
+
+-- 컴퓨터, 디지털 > 모바일 액세서리 > 그립톡 520
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '[스페셜오더]_[단독]_[아현 콜라보] 1064 STUDIO TOK', 36000, '상품번호2608581', 64, 21, 23, 6, 12, 63, 520);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202405/11ef10ee2fc846a1b9bb319cc2ae165c.jpg?width=500', 'https://img.29cm.co.kr/item/202405/11ef08425147ac85b9bbb18d637c8835.gif?width=1000', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '천연석 Stone Tok Ring (4 color)', 18000, '상품번호2603483', 10, 15, 23, 6, 12, 63, 520);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202405/11ef09684883ca68892b8d76e26c5ec2.jpg?width=500', 'https://img.29cm.co.kr/item/202404/11ef06fd10d43648892bd7ef6623cf9e.jpeg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '[29CM단독]_blushing smart ring.', 16000, '상품번호2416390', 164, 5, 23, 6, 12, 63, 520);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202401/11eeb43b70d60c0791eb3593e0711099.jpg?width=500', 'https://img.29cm.co.kr/item/202402/11eec5ae3bfc84af91eb2f745cd0f55f.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, 'applepink griptok', 12000, '상품번호2276602', 80, 0, 23, 6, 12, 63, 520);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202310/11ee6d69723da403a5b325c1cf2e0f45.jpg?width=500', 'https://img.29cm.co.kr/item/202310/11ee6414bd133463a5b35185cbefe1a5.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, 'Eartok', 28000, '상품번호1569831', 298, 22, 23, 6, 12, 63, 520);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202308/11ee461e989a5bffa3d897e45202e1a1.png?width=500', 'https://img.29cm.co.kr/item/202308/11ee461e93c4431f8a699d3d8a74e11d.jpg', seq_pd_id.currval);
+
+
+-- 컴퓨터, 디지털 > 모바일 액세서리 > 태블릿 액세서리 521
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '깜찍한 태블릿 케이스', 45000, '상품번호5893714', 1105, 6, 23, 6, 12, 63, 521);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2022/09/14/fe6c4b17b8fc488e91a62434e2a278ef_20220914050105.jpg?width=500', 'https://img.29cm.co.kr/item/202308/11ee461e93c4431f8a699d3d8a74e11d.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '근엄한 태블릿 케이스', 36000, '상품번호2365984', 950, 12, 23, 6, 12, 63, 521);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202401/11eebc1b844b72aab23817bfc006de6b.jpg?width=500', 'https://img.29cm.co.kr/item/202308/11ee461e93c4431f8a699d3d8a74e11d.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '오래된 태블릿 케이스', 55000, '상품번호7149256', 264, 20, 23, 6, 12, 63, 521);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202402/11eecc77c0590d1283771d24b4042d63.jpg?width=500', 'https://img.29cm.co.kr/item/202308/11ee461e93c4431f8a699d3d8a74e11d.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, 'lemon iPad case', 64000, '상품번호8621305', 764, 8, 23, 6, 12, 63, 521);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202404/11eef8daaf6450ba936719f9d1ea2ec1.jpg?width=500', 'https://img.29cm.co.kr/item/202308/11ee461e93c4431f8a699d3d8a74e11d.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '빈티지 태블릿 케이스', 50000, '상품번호4971832', 1405, 11, 23, 6, 12, 63, 521);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2022/12/08/0f8c589ac0bb4f59ba8e0f46439069a1_20221208153857.jpg?width=500', 'https://img.29cm.co.kr/item/202308/11ee461e93c4431f8a699d3d8a74e11d.jpg', seq_pd_id.currval);
+
+
+-- 컴퓨터, 디지털 > 모바일 액세서리 > 스마트워치 액세서리 522
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '애플워치 스트랩 메탈 클래식 슬림 라이트 밴드 9 8 7 6 SE 2 3 40-49 호환', 20000, '상품번호3258419', 1577, 13, 23, 6, 12, 63, 522);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202312/11ee9f2de878ce7cb23889452c5995be.jpg?width=500', 'https://img.29cm.co.kr/item/202312/11ee9e1553b310d2b238037228ae0fbb.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '캉골 타임플릭 콜라보레이션 애플워치 갤럭시 워치 스트랩 전기종 호환 밴드 - 라인 베이지', 59000, '상품번호6819702', 1491,52, 23, 6, 12, 63, 522);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2022/04/22/5595450cb9984d458f9427b87389fe70_20220422143542.jpg?width=500', 'https://img.29cm.co.kr/item/202312/11ee9e1553b310d2b238037228ae0fbb.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '애플워치 슬림 가죽 스트랩 줄 밴드', 39900, '상품번호1502398', 2181, 50, 23, 6, 12, 63, 522);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2021/08/30/b08be5de58194740a497d4f2b388345d_20210830174050.jpg?width=500', 'https://img.29cm.co.kr/item/202312/11ee9e1553b310d2b238037228ae0fbb.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, 'Couch Potato Watch Stand', 29000, '상품번호8240763', 719, 22, 23, 6, 12, 63, 522);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202310/11ee6d63d3653861a5b3451f0b1642ec.png?width=500', 'https://img.29cm.co.kr/item/202312/11ee9e1553b310d2b238037228ae0fbb.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '[11COLOR] 애플워치 호환 미니 싱글 투어 가죽 스트랩', 27900, '상품번호4026178', 96, 22, 23, 6, 12, 63, 522);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202401/11eec0099555a246b2388b7bbf0a3efa.jpg?width=500', 'https://img.29cm.co.kr/item/202312/11ee9e1553b310d2b238037228ae0fbb.jpg', seq_pd_id.currval);
+
+
+-- 컴퓨터, 디지털 > 모바일 액세서리 > 이어폰,헤드폰 액세서리 523
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '샤틴 에어팟 케이스', 11000, '상품번호9304815', 6409, 0, 23, 6, 12, 63, 523);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2023/05/09/2c2fc4e82b4b46099b754aa5146e88c9_20230509204716.jpg?width=500', 'https://contents.sixshop.com/uploadedFiles/57446/product/image_1681639185599.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '골드 팟 에어팟 케이스', 18000, '상품번호5732986', 1091, 5, 23, 6, 12, 63, 523);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2023/05/09/2c2fc4e82b4b46099b754aa5146e88c9_20230509204716.jpg?width=500', 'https://contents.sixshop.com/uploadedFiles/57446/product/image_1681639185599.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '시럽 에어팟 케이스', 229000, '상품번호3186942', 500, 0, 23, 6, 12, 63, 523);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2023/05/09/2c2fc4e82b4b46099b754aa5146e88c9_20230509204716.jpg?width=500', 'https://contents.sixshop.com/uploadedFiles/57446/product/image_1681639185599.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '아팡 에어팟 케이스', 19000, '상품번호6958341', 460, 22, 23, 6, 12, 63, 523);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2023/05/09/2c2fc4e82b4b46099b754aa5146e88c9_20230509204716.jpg?width=500', 'https://contents.sixshop.com/uploadedFiles/57446/product/image_1681639185599.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '두루두두 에어팟 케이스', 13000, '상품번호8574126', 540, 22, 23, 6, 12, 63, 523);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2023/05/09/2c2fc4e82b4b46099b754aa5146e88c9_20230509204716.jpg?width=500', 'https://contents.sixshop.com/uploadedFiles/57446/product/image_1681639185599.jpg', seq_pd_id.currval);
+
+
+-- 컴퓨터, 디지털 > 모바일 액세서리 > 충전기,거치대 524
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '[BEST]_[무아스] 23W 플랫스퀘어 3 in 1 고속 무선충전기 무드등 각도조절', 34900, '상품번호2569037', 210, 25, 23, 6, 12, 63, 524);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202310/11ee77cc7e0b7deb83bc876197299e47.jpg?width=500', 'https://mooas09.hgodo.com/mooas/flatsquare_charging_01.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '휴대용 보조배터리', 69900, '상품번호6481253, 1057, 22, 23, 6, 12, 63, 524);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202401/11eeb342bf1d5cd4b2388b4965590887.jpg?width=500', 'https://mooas09.hgodo.com/mooas/flatsquare_charging_01.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, 'W6 애플워치 전 모델 공용 충전거치대', 63000, '상품번호4709856', 5046, 22, 23, 6, 12, 63, 524);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2022/01/10/aae45312c0d14a9da5fa469c420bb934_20220110112657.jpg?width=500', 'https://mooas09.hgodo.com/mooas/flatsquare_charging_01.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, 'Butter Docking Battery (3 colors)', 89000, '상품번호9250476', 109, 0, 23, 6, 12, 63, 524);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202404/11eef616e152b00988b1817107601cab.jpg?width=500', 'https://mooas09.hgodo.com/mooas/flatsquare_charging_01.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '무아스 선라이즈 15W 무선충전 스피커 무드등 어버이날 부모님선물', 12000, '상품번호5874203', 336, 2, 23, 6, 12, 63, 524);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202404/11ef036817f3cb9e892b6558f61cb7ec.png?width=500', 'https://mooas09.hgodo.com/mooas/flatsquare_charging_01.jpg', seq_pd_id.currval);
+
+
+-- 컴퓨터, 디지털 > 모바일 액세서리 > 보호필름 525
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '아이폰 15 보호필름', 50000, '상품번호1669418', 305, 10, 23, 6, 12, 63, 525);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202309/11ee57536e528d6983bc3b8249cc6d21.jpg?width=600', 'https://sinjimoru.diskn.com/t7MSLtMDr4', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '아이폰 14 보호필름', 50000, '상품번호1669418', 250, 10, 23, 6, 12, 63, 525);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202309/11ee5752ba91407d83bcb70c3cbf1a21.jpg?width=600', 'https://sinjimoru.diskn.com/t7MSLtMDr4', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '아이폰 맥스 보호필름', 50000, '상품번호1669418', 299, 10, 23, 6, 12, 63, 525);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202309/11ee538ec1e473c98a7f9f06e77c4a5e.jpg?width=600', 'https://sinjimoru.diskn.com/t7MSLtMDr4', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '아이폰 미니 보호필름', 50000, '상품번호1669418', 788, 10, 23, 6, 12, 63, 525);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202310/11ee6272ecf44869a5b3396231eb5a4d.jpg?width=600', 'https://sinjimoru.diskn.com/t7MSLtMDr4', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '아이폰 프로 보호필름', 50000, '상품번호1669418', 160, 10, 23, 6, 12, 63, 525);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202309/11ee5780c107fb098a7f25eb4ebbc49f.jpg?width=6000', 'https://sinjimoru.diskn.com/t7MSLtMDr4', seq_pd_id.currval);
+
+
+-- 컴퓨터, 디지털 > 모바일 액세서리 > 기타 액세서리 526
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '몽낭이 인형 키링', 50000, '상품번호1669418', 210, 0, 23, 6, 12, 63, 526);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202311/11ee7980585da1efa5b3d1faf4a87982.jpg?width=600', 'https://img.29cm.co.kr/item/202405/11ef12bda24033cbb9bb4bf04194b4dd.jpg?width=1000', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '토꺵이 인형 키링', 50000, '상품번호1669418', 210, 0, 23, 6, 12, 63, 526);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202401/11eebea6c53de3deb2389de04b65af3c.jpg?width=600', 'https://img.29cm.co.kr/item/202405/11ef12bda24033cbb9bb4bf04194b4dd.jpg?width=1000', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '알루미늄 리본 케이스', 50000, '상품번호1669418', 210, 22, 23, 6, 12, 63, 526);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202404/11eef3c2e62a4a0693670f4a726a395a.jpg?width=600', 'https://img.29cm.co.kr/item/202405/11ef12bda24033cbb9bb4bf04194b4dd.jpg?width=1000', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '맥세이프 카드케이스', 50000, '상품번호1669418', 210, 2, 23, 6, 12, 63, 526);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202403/11eee1ec66bda5749a76bd72f3c3a34b.jpg?width=600', 'https://img.29cm.co.kr/item/202405/11ef12bda24033cbb9bb4bf04194b4dd.jpg?width=1000', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, 'Quokka in School Cablecap', 50000, '상품번호1669418', 210, 0, 23, 6, 12, 63, 526);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202403/11eee2a43634122e91a54b624aace096.png?width=600', 'https://img.29cm.co.kr/item/202405/11ef12bda24033cbb9bb4bf04194b4dd.jpg?width=1000', seq_pd_id.currval);
+
+-- 컴퓨터, 디지털 > PC,노트북 > 데스크탑 527
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '삼성전자 노트북', 593000, '상품번호9264387', 210, 22, 23, 6, 12, 64, 527);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2022/12/26/86c14cb3b90343309899e5df7e367066_20221226170212.jpg?width=600', 'https://ai.esmplus.com/noteseller/SAMSUNG/DT/DM530ADA/L25A_TJ.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, 'Apple 아이맥 24 M3 실버', 1990000, '상품번호4819762', 63, 11, 23, 6, 12, 64, 527);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202404/11eef547969da20b88b11f3931baaa35.jpg?width=600', 'https://ai.esmplus.com/noteseller/SAMSUNG/DT/DM530ADA/L25A_TJ.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '삼성전자 일체 PC', 1187120, '상품번호	8740652', 10, 22, 23, 6, 12, 64, 527);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2023/05/30/8865f8f03f1d42a0900d5fefd52f4974_20230530124136.jpg?width=600', 'https://ai.esmplus.com/noteseller/SAMSUNG/DT/DM530ADA/L25A_TJ.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '삼성전자 올인원 프로', 1509000, '상품번호2945871', 90, 0, 23, 6, 12, 64, 527);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202404/11eefd260458d8849367432cb17a87d0.jpg?width=600', 'https://ai.esmplus.com/noteseller/SAMSUNG/DT/DM530ADA/L25A_TJ.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '메이우드 듀얼 데스크선반 반침대', 1031000, '상품번호8731965', 66, 12, 23, 6, 12, 64, 527);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202403/11eee1b7eb45f83482f233c4acd2a5d1.jpg?width=600', 'https://ai.esmplus.com/noteseller/SAMSUNG/DT/DM530ADA/L25A_TJ.jpg', seq_pd_id.currval);
+
+
+-- 컴퓨터, 디지털 > PC,노트북 > 노트북 528
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '삼성 갤럭시북', 695000, '상품번호6902475', 940, 0, 23, 6, 12, 64, 528);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202404/11eef22628f779149367078bb1a37add.jpg?width=600', 'https://gi.esmplus.com/hanloveg/EVENT/giftevent/Purchase/NT750XGR-A58A_gift.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '맥북에어 13', 1330000, '상품번호7485032', 660, 0, 23, 6, 12, 64, 528);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202404/11eef5461b50f3f6bb6a47075231cf2b.jpg?width=600', 'https://gi.esmplus.com/hanloveg/EVENT/giftevent/Purchase/NT750XGR-A58A_gift.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, ' 삼성 갤럭시북4 프로', 1590000, '상품번호3241978', 544, 0, 23, 6, 12, 64, 528);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202403/11eee26b90c4d2ca91a59105961af1fd.jpg?width=600', 'https://gi.esmplus.com/hanloveg/EVENT/giftevent/Purchase/NT750XGR-A58A_gift.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '삼성 갤럭시북4', 690000, '상품번호8701923', 647, 0, 23, 6, 12, 64, 528);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202404/11eef2260b18130388b15b2ab1a26f82.jpg?width=600', 'https://gi.esmplus.com/hanloveg/EVENT/giftevent/Purchase/NT750XGR-A58A_gift.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '맥북에서 13 M3', 1590000, '상품번호5723196', 113, 0, 23, 6, 12, 64, 528);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202404/11eef323ffba5324bb6a5dac0d8f99b0.jpg?width=600', 'https://gi.esmplus.com/hanloveg/EVENT/giftevent/Purchase/NT750XGR-A58A_gift.jpg', seq_pd_id.currval);
+
+
+-- 컴퓨터, 디지털 > PC,노트북 > 프린터 및 주변기기 529
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, 'Apple 매직 마우스 화이트 MK2E3KH/A', 89000, '상품번호6951743', 45, 5, 23, 6, 12, 64, 529);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202404/11eef0b00d4b68db88b15bddd284d77e.jpg?width=600', 'https://gi.esmplus.com/zmfflrskfk/samsung/SL-T1680W.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, 'Apple 매직 트랙패드 화이트', 145000, '상품번호8315072', 64, 5, 23, 6, 12, 64, 529);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202404/11eef0b0f1e39bf2bb6a0b26f7910ecc.jpg?width=600', 'https://gi.esmplus.com/zmfflrskfk/samsung/SL-T1680W.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '라이프썸 회전 태블릿거치대', 110000, '상품번호2974853', 15, 5, 23, 6, 12, 64, 529);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2024/03/29/dbd6694993e34c1b99ced72250b99dbe_20240329150413.jpg?width=600', 'https://gi.esmplus.com/zmfflrskfk/samsung/SL-T1680W.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '삼성전자 SL-T1680W 정품 무한 잉크젯 프린터', 50000, '상품번호4589732', 0, 5, 23, 6, 12, 64, 529);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202309/11ee510e4924bb6b8a7f836d2f0fb414.jpg?width=600', 'https://gi.esmplus.com/zmfflrskfk/samsung/SL-T1680W.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '삼성 마이크로SD카드', 50000, '상품번호7135428', 10, 5, 23, 6, 12, 64, 529);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202310/11ee69963a0374e58a7f53e7647ddd5d.jpg?width=600', 'https://gi.esmplus.com/zmfflrskfk/samsung/SL-T1680W.jpg', seq_pd_id.currval);
+
+
+-- 컴퓨터, 디지털 > PC,노트북 > PC,노트북 액세서리 530
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '퀼팅 해피 버니 랩탑 파우치', 50000, '상품번호7284965', 11400, 0, 23, 6, 12, 64, 530);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2022/10/13/736bf9605d0145fbabed8d4ac3be1977_20221013155015.jpg?width=600', 'https://img.29cm.co.kr/next-product/2022/10/13/a4ce689b109b4a79958321edb6a1fb99_20221013160318.jpg?width=1000', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, 'CITY BOYS SLIM BRIEFCASE 001', 50000, '상품번호6542897', 1995, 0, 23, 6, 12, 64, 530);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2022/04/19/cec1c374d95b4551a44a906c894f0847_20220419161534.jpg?width=600', 'https://img.29cm.co.kr/next-product/2022/10/13/a4ce689b109b4a79958321edb6a1fb99_20221013160318.jpg?width=1000', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '앱코 X 위글위글 무선 키보드 - Color Mix', 50000, '상품번호9357861', 2112, 0, 23, 6, 12, 64, 530);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202309/11ee4bf521885e818a697f0df8a55547.jpg?width=600', 'https://img.29cm.co.kr/next-product/2022/10/13/a4ce689b109b4a79958321edb6a1fb99_20221013160318.jpg?width=1000', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, 'Clam Tablet&Laptop case _ Soft cream (3Size)', 50000, '상품번호8214967', 485, 0, 23, 6, 12, 64, 530);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2022/09/14/fe6c4b17b8fc488e91a62434e2a278ef_20220914050105.jpg?width=600', 'https://img.29cm.co.kr/next-product/2022/10/13/a4ce689b109b4a79958321edb6a1fb99_20221013160318.jpg?width=1000', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '[5/17출고]_BOOX Page 페이지 7인치 이북리더기 블랙', 50000, '상품번호5796842', 291, 0, 23, 6, 12, 64, 530);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202306/11ee1644b19d7e9e982b9de92c3fb83a.jpg?width=600', 'https://img.29cm.co.kr/next-product/2022/10/13/a4ce689b109b4a79958321edb6a1fb99_20221013160318.jpg?width=1000', seq_pd_id.currval);
+
+
+-- 컴퓨터, 디지털 > PC,노트북 > 저장장치 531
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '삼성전자 공식인증 포터블 외장SSD', 165000, '상품번호4138726', 210, 22, 23, 6, 12, 64, 531);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2023/04/14/37ff492803f7429da63333daf40ebc30_20230414114613.jpg?width=600', 'http://gi.esmplus.com/rhrnakrk/image/detailed/pssd/T7_Shield_1TB.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '헬로키티 3D 피규어 USB메모리 16GB', 21800, '상품번호8257143', 210, 22, 23, 6, 12, 64, 531);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2022/07/14/e8bbe6ba30cb4ab0998807eff599fe27_20220714165114.jpg?width=600', 'http://gi.esmplus.com/rhrnakrk/image/detailed/pssd/T7_Shield_1TB.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '삼성전자 공식인증 포터블 외장 SSD', 167000, '상품번호6728315', 210, 22, 23, 6, 12, 64, 531);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2023/04/18/a26183f4151f4ba58523d089fe516b79_20230418160047.jpg?width=600', 'http://gi.esmplus.com/rhrnakrk/image/detailed/pssd/T7_Shield_1TB.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '엔보우 C타입 OTG USB메모리', 49000, '상품번호9348572', 210, 22, 23, 6, 12, 64, 531);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202311/11ee7e11e6084787a5b3dfd08ea87b74.jpg?width=600', 'http://gi.esmplus.com/rhrnakrk/image/detailed/pssd/T7_Shield_1TB.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '삼성전자 공식인증 포터블 외장SSD', 274000, '상품번호2189645', 210, 22, 23, 6, 12, 64, 531);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2023/04/18/4cd71f0ab7a04ed5b8a0d05796334400_20230418160203.jpg?width=600', 'http://gi.esmplus.com/rhrnakrk/image/detailed/pssd/T7_Shield_1TB.jpg', seq_pd_id.currval);
+
+
+-- 컴퓨터, 디지털 > PC,노트북 > 모니터 532
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, 'LG MYView 32SQ750S MyView 스마트모니터+스탠드세트 4K IPS webOs22 스피커내장', 649000, '상품번호4578321', 312, 10, 23, 6, 12, 64, 532);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202312/11eea39b2a0e6a08b2382305adf3637b.jpg?width=600', 'https://ai.esmplus.com/yourid4144/Product/Basic/32SQ750S_STAND_SET/GIF/03_2_450.gif', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '삼성 스마트모니터 M5 S32CM501', 347000, '상품번호6793582', 1458, 0, 23, 6, 12, 64, 532);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202310/11ee681320b6280da5b31b2f25b644ba.jpg?width=600', 'https://ai.esmplus.com/yourid4144/Product/Basic/32SQ750S_STAND_SET/GIF/03_2_450.gif', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '스마트모니터 M5 S27CM501 (화이트)', 289000, '상품번호5963847', 679, 15, 23, 6, 12, 64, 532);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202310/11ee681320b6280da5b31b2f25b644ba.jpg?width=600', 'https://ai.esmplus.com/yourid4144/Product/Basic/32SQ750S_STAND_SET/GIF/03_2_450.gif', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, 'LG 24MR400 24인치 FHD IPS', 50000, '상품번호8741206', 36, 22, 23, 6, 12, 64, 532);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202312/11ee931844a13e93a5b33507f47f31d6.jpg?width=600', 'https://ai.esmplus.com/yourid4144/Product/Basic/32SQ750S_STAND_SET/GIF/03_2_450.gif', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, 'LG전자 2세대 그램+View 16MR70', 430000, '상품번호5912843', 102, 22, 23, 6, 12, 64, 532);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2022/01/19/debf5d124dff46e598910c5234b55b74_20220119145243.jpg?width=600', 'https://ai.esmplus.com/yourid4144/Product/Basic/32SQ750S_STAND_SET/GIF/03_2_450.gif', seq_pd_id.currval);
+
+
+-- 컴퓨터, 디지털 > PC,노트북 > 키보드 533
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '라이프썸 슬림 멀티페어링 블루투스 키보드', 50000, '상품번호3829157', 487, 36, 23, 6, 12, 64, 533);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202402/11eec5ada23ee9c191ebcb721479c08e.jpg?width=600', 'https://tbnws.hgodo.com/gtgear/ver4.0/product/keychron/b6/29cm_b6.png', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '[29CM단독] 키크론 B6 ', 50000, '상품번호7425963', 838, 11, 23, 6, 12, 64, 533);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202404/11eef63599b52898bb6a01c72f52e6ae.jpg?width=600', 'https://tbnws.hgodo.com/gtgear/ver4.0/product/keychron/b6/29cm_b6.png', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '[앱코X위글위글] 무선 키보드 & 키패드', 50000, '상품번호8612594', 1150, 29, 23, 6, 12, 64, 533);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2024/03/11/d05bd10dc1b4428b8d02aa0aea7a7a46_20240311165013.jpg?width=600', 'https://tbnws.hgodo.com/gtgear/ver4.0/product/keychron/b6/29cm_b6.png', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '키크론 K10 레트로 알루미늄 RGB', 50000, '상품번호9274518', 718, 20, 23, 6, 12, 64, 533);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202403/11eee0da705625009a76db2416bc8724.jpg?width=600', 'https://tbnws.hgodo.com/gtgear/ver4.0/product/keychron/b6/29cm_b6.png', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '키크론 K8 RETRO 레트로 텐키리스', 50000, '상품번호3958712', 4194, 29, 23, 6, 12, 64, 533);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2023/02/15/875f5dd8b53947038b7afef9eefe73a9_20230215095211.jpg?width=600', 'https://tbnws.hgodo.com/gtgear/ver4.0/product/keychron/b6/29cm_b6.png', seq_pd_id.currval);
+
+
+-- 컴퓨터, 디지털 > PC,노트북 > 마우스 534
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '위글위글 키보드 & 키패드 & 마우스', 70800, '상품번호5178426', 2107, 0, 23, 6, 12, 64, 534);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202404/11eef63599b52898bb6a01c72f52e6ae.jpg?width=600', 'https://artshare.speedgabia.com//wiggle_new_web/ABKO_S2/SET-01.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '로지텍 마우스', 79000, '상품번호8249567', 1150, 0, 23, 6, 12, 64, 534);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2023/10/20/25f9a4347dd2450b9fe077689dd31fe2_20231020133143.jpg?width=600', 'https://artshare.speedgabia.com//wiggle_new_web/ABKO_S2/SET-01.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '스누피 무선 마우스', 29900, '상품번호6973148', 7051, 0, 23, 6, 12, 64, 534);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202402/11eed6d7cfef19d491a5e74489d8d53e.jpg?width=600', 'https://artshare.speedgabia.com//wiggle_new_web/ABKO_S2/SET-01.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '로지텍코리아 무선 키보드 & 마우스', 64900, '상품번호4358297', 690, 0, 23, 6, 12, 64, 534);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202310/11ee72116b346461a5b3bfdca143cb9d.jpg?width=600', 'https://artshare.speedgabia.com//wiggle_new_web/ABKO_S2/SET-01.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '라이프썸 슬림 무소음 마우스', 19900, '상품번호5821947', 95, 0, 23, 6, 12, 64, 534);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202307/11ee1c73297823cdbdfacb7c7c21f665.jpg?width=600', 'https://artshare.speedgabia.com//wiggle_new_web/ABKO_S2/SET-01.jpg', seq_pd_id.currval);
+
+
+-- 컴퓨터, 디지털 > 게임 > 게임기 535
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '닌텐도 스위치 동물의숲 에디션', 385000, '상품번호4318692', 1807, 9, 23, 6, 12, 65, 535);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2022/11/24/c5782d4850d44b19add386f3735574cf_20221124110313.jpg?width=600', 'https://img.29cm.co.kr/next-product/2022/04/19/ea8b26ffebf048fca5e5fbb0bf224f83_20220419143059.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '닌텐도 스위치 화이트', 480000, '상품번호6941785', 1599, 22, 23, 6, 12, 65, 535);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2022/11/21/25d3e5e00c3e444da93399ff7062655c_20221121112004.jpg?width=600', 'https://img.29cm.co.kr/next-product/2022/04/19/ea8b26ffebf048fca5e5fbb0bf224f83_20220419143059.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '닌텐도 스위치 본체', 336000, '상품번호8571432', 247, 22, 23, 6, 12, 65, 535);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2021/02/23/d23cafa198ed46ec8064f93535ed295f_20210223164715.jpg?width=600', 'https://img.29cm.co.kr/next-product/2022/04/19/ea8b26ffebf048fca5e5fbb0bf224f83_20220419143059.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '닌텐도 스위치 라이트',233800, '상품번호1296847', 21, 22, 23, 6, 12, 65, 535);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202310/11ee689d8a9811818a7f9bd9d2ee85ea.jpg?width=600', 'https://img.29cm.co.kr/next-product/2022/04/19/ea8b26ffebf048fca5e5fbb0bf224f83_20220419143059.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '닌텐도 스위치 블루레드(OLED)', 395000, '상품번호4738196', 7150, 22, 23, 6, 12, 65, 535);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2022/11/21/d850c77a7d774998a119f077c6472617_20221121111624.jpg?width=600', 'https://img.29cm.co.kr/next-product/2022/04/19/ea8b26ffebf048fca5e5fbb0bf224f83_20220419143059.jpg', seq_pd_id.currval);
+
+
+-- 컴퓨터, 디지털 > 게임 > 타이틀 536
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '환상의 나라 게임', 50000, '상품번호8657213', 278, 0, 23, 6, 12, 65, 536);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202403/11eeea3e8d9c80c388b13ba33c6472cf.jpg?width=600', 'https://img.29cm.co.kr/item/202403/11eee19702bebd3e82f23bdfe68ea482.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '닌텐도 탄광마을', 50000, '상품번호6285391', 855, 0, 23, 6, 12, 65, 536);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2021/02/23/e44a7e974ba044dea50f33e296974611_20210223154455.jpg?width=600', 'https://img.29cm.co.kr/item/202403/11eee19702bebd3e82f23bdfe68ea482.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '닌텐도 스위치', 50000, '상품번호3195824', 1680, 0, 23, 6, 12, 65, 536);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2023/02/24/1039c2bf47fd4ec0862ec9a0bf12cc91_20230224114756.jpg?width=600', 'https://img.29cm.co.kr/item/202403/11eee19702bebd3e82f23bdfe68ea482.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '닌텐도 별의 커비', 50000, '상품번호5721984', 2481, 0, 23, 6, 12, 65, 536);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202403/11eee023e6150b3a9a76e38bd0b0fb55.jpg?width=600', 'https://img.29cm.co.kr/item/202403/11eee19702bebd3e82f23bdfe68ea482.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '닌텐도 짱구는 못말려', 50000, '상품번호4957823', 312, 0, 23, 6, 12, 65, 536);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2021/02/23/dd67f5537fec42dcb030ffa7db7666e4_20210223152246.jpg?width=600', 'https://img.29cm.co.kr/item/202403/11eee19702bebd3e82f23bdfe68ea482.jpg', seq_pd_id.currval);
+
+
+-- 컴퓨터, 디지털 > 게임 > 액세서리 537
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '모여라 닌텐도', 50000, '상품번호8629154', 210, 22, 23, 6, 12, 65, 537);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2021/02/23/e44a7e974ba044dea50f33e296974611_20210223154455.jpg?width=600', 'https://img.29cm.co.kr/next-product/2023/01/18/07ef09f1e86d4618b8b963a357679f0c_20230118163421.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '닌텐도 별다방 디스커리', 50000, '상품번호5176938', 210, 22, 23, 6, 12, 65, 537);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2023/02/24/1039c2bf47fd4ec0862ec9a0bf12cc91_20230224114756.jpg?width=600', 'https://img.29cm.co.kr/next-product/2023/01/18/07ef09f1e86d4618b8b963a357679f0c_20230118163421.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '닌텐도 브레스', 50000, '상품번호3917426', 210, 22, 23, 6, 12, 65, 537);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2021/02/23/dd67f5537fec42dcb030ffa7db7666e4_20210223152246.jpg?width=600', 'https://img.29cm.co.kr/next-product/2023/01/18/07ef09f1e86d4618b8b963a357679f0c_20230118163421.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '닌텐도 마리오', 50000, '상품번호7498652', 210, 22, 23, 6, 12, 65, 537);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2021/02/23/82e6f5ed201f4e34baf46a4bda1e52d5_20210223154540.jpg?width=600', 'https://img.29cm.co.kr/next-product/2023/01/18/07ef09f1e86d4618b8b963a357679f0c_20230118163421.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '닌텐도 슈퍼스타즈', 50000, '상품번호9836412', 210, 22, 23, 6, 12, 65, 537);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2021/10/28/41b74e893c604518b32b5c53acb6b0cf_20211028085036.jpg?width=600', 'https://img.29cm.co.kr/next-product/2023/01/18/07ef09f1e86d4618b8b963a357679f0c_20230118163421.jpg', seq_pd_id.currval);
+
+
+-- 컴퓨터, 디지털 > 사진 > 카메라 538
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '라이카 Sofort2 Camera Black', 630000, '상품번호2179654', 210, 0, 23, 6, 12, 66, 538);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202404/11ef02f94086c12f88b1f3870fe37f16.png?width=600', 'https://img.29cm.co.kr/item/202404/11ef02f953ed08a8bb6a01a8529ed964.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, 'Y2K 카메라', 399000, '상품번호6948205', 242, 0, 23, 6, 12, 66, 538);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202402/11eed07d4c30099a83779dd7fa8001bf.jpg?width=600', 'https://img.29cm.co.kr/item/202404/11ef02f953ed08a8bb6a01a8529ed964.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '레트로 필름 카메라', 50000, '상품번호3859264', 7910, 0, 23, 6, 12, 66, 538);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2023/04/06/fab17d889850404eba35478a87f8d663_20230406224314.jpg?width=600', 'https://img.29cm.co.kr/item/202404/11ef02f953ed08a8bb6a01a8529ed964.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '레토 필름카메라', 55000, '상품번호7291384', 2594, 9, 23, 6, 12, 66, 538);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2022/03/23/ce52121621d94af697c738bc382d585f_20220323134313.jpg?width=600', 'https://img.29cm.co.kr/item/202404/11ef02f953ed08a8bb6a01a8529ed964.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '소니 브이로그 카메라', 950000, '상품번호5439826', 1610, 26, 23, 6, 12, 66, 538);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2021/08/11/77cd2d3384804b31aa61413816b2eed8_20210811100853.jpg?width=600', 'https://img.29cm.co.kr/item/202404/11ef02f953ed08a8bb6a01a8529ed964.jpg', seq_pd_id.currval);
+
+
+-- 컴퓨터, 디지털 > 사진 > 렌즈 539
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '라이카 광각 렌즈', 12480000, '상품번호6849237', 00, 1, 23, 6, 12, 66, 539);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202404/11ef02dad602abf293673bad50381caf.png?width=600', 'https://img.29cm.co.kr/item/202404/11ef02d9f01a50fb88b111f7777e4f71.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '라이카 단짠단짠 렌즈', 19210000, '상품번호3165827', 0, 0, 23, 6, 12, 66, 539);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202404/11ef02d6bbc521449367a55b32d78360.png?width=600', 'https://img.29cm.co.kr/item/202404/11ef02d9f01a50fb88b111f7777e4f71.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '라이카 실버 렌즈', 7030000, '상품번호7284965', 0, 0, 23, 6, 12, 66, 539);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202404/11ef02da8857dbc6936749fa0a16b94a.png?width=600', 'https://img.29cm.co.kr/item/202404/11ef02d9f01a50fb88b111f7777e4f71.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '라이카 라이트 렌즈', 6320000, '상품번호6542897', 1, 0, 23, 6, 12, 66, 539);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202404/11ef02d9d220fa12bb6a3fac234cdc6b.png?width=600', 'https://img.29cm.co.kr/item/202404/11ef02d9f01a50fb88b111f7777e4f71.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '라이카 썸머 렌즈', 6710000, '상품번호9357861', 1, 0, 23, 6, 12, 66, 539);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202404/11ef02d9210d40d588b121a2aa953586.png?width=600', 'https://img.29cm.co.kr/item/202404/11ef02d9f01a50fb88b111f7777e4f71.jpg', seq_pd_id.currval);
+
+
+-- 컴퓨터, 디지털 > 사진 > 가방,파우치 540
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '해피 버니 카메라 파우치', 22000, '상품번호8214967', 1942, 0, 23, 6, 12, 66, 540);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2022/12/05/289ac8ed51b04cf9a09e005634b3064b_20221205170725.jpg?width=600', 'https://img.29cm.co.kr/item/202310/11ee6d84568b150ba5b3cffb48aa54f5.jpg?width=1000', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, 'CAMERA POUCH 001 Cream', 33500, '상품번호5796842', 36, 0, 23, 6, 12, 66, 540);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202310/11ee674052e6d033a5b3c9d40e446074.jpg?width=600', 'https://img.29cm.co.kr/item/202310/11ee6d84568b150ba5b3cffb48aa54f5.jpg?width=1000', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, 'CAMERA POUCH 001 Lemon Yellow', 33500, '상품번호4138726', 26, 0, 23, 6, 12, 66, 540);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202310/11ee6740a40b0f358a7faba1bf64cae4.jpg?width=600', 'https://img.29cm.co.kr/item/202310/11ee6d84568b150ba5b3cffb48aa54f5.jpg?width=1000', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '[29CM 단독]_Proper Camera Pouch', 98000, '상품번호8257143', 316, 0, 23, 6, 12, 66, 540);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202308/11ee319ee1194ed5aa4fd1844a6af19b.jpg?width=600', 'https://img.29cm.co.kr/item/202310/11ee6d84568b150ba5b3cffb48aa54f5.jpg?width=1000', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '컴컴히얼 카메라 파우치', 23800, '상품번호6728315', 335, 0, 23, 6, 12, 66, 540);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2023/11/21/962c63ff7ba4402c95aedff4ce820c5c_20231121161811.jpg?width=600', 'https://img.29cm.co.kr/item/202310/11ee6d84568b150ba5b3cffb48aa54f5.jpg?width=1000', seq_pd_id.currval);
+
+
+-- 컴퓨터, 디지털 > 사진 > 삼각대 541
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '슈피겐 삼각대 셀카봉 2세대', 36400, '상품번호9348572', 88, 0, 23, 6, 12, 66, 541);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2020/06/12/c7c1340187e645739f630accb3f718a8_20200612184527.jpg?width=600', 'http://file.spigenstore.co.kr/_data/old_attach/product_contents/acc/s540w_02.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '코만 스마트 삼각대', 24000, '상품번호2189645', 71, 0, 23, 6, 12, 66, 541);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2020/11/25/c4cfacc8575646d2aeb5de748f87fa7d_20201125172809.jpg?width=600', 'http://file.spigenstore.co.kr/_data/old_attach/product_contents/acc/s540w_02.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, 'RS 4 Pro 콤보', 1470000, '상품번호4578321', 21, 0, 23, 6, 12, 66, 541);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202404/11eef610d322d95abb6ae9838339eee6.jpg?width=600', 'http://file.spigenstore.co.kr/_data/old_attach/product_contents/acc/s540w_02.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '주파집 셀카봉', 16300, '상품번호6793582', 59, 0, 23, 6, 12, 66, 541);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2022/02/03/f4e21af86f87415589efd0baeea618dc_20220203135646.jpg?width=600', 'http://file.spigenstore.co.kr/_data/old_attach/product_contents/acc/s540w_02.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '스냅지 미니삼각대', 28000, '상품번호3617948', 14, 0, 23, 6, 12, 66, 541);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2022/02/14/de59eae2750e4204ab5d0ae3bc627691_20220214162235.jpg?width=600', 'http://file.spigenstore.co.kr/_data/old_attach/product_contents/acc/s540w_02.jpg', seq_pd_id.currval);
+
+
+-- 컴퓨터, 디지털 > 사진 > 필름 542 
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '코닥 플래시 카메라', 36900, '상품번호5963847', 668, 14, 23, 6, 12, 66, 542);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2020/10/08/4e0d9a3f6d9f4e2d93b2f7a8b970eb59_20201008182925.jpg?width=600', 'https://img.29cm.co.kr/next-product/2022/12/13/8659839dd63f4d70ba929cf1ff01b78a_20221213151401.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '코닥 컬러필름 36장', 16000, '상품번호8741206', 1069, 0, 23, 6, 12, 66, 542);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2019/10/10/4bfe07dfc8c34d07845cadc8c5c61f76_20191010165622.jpg?width=600', 'https://img.29cm.co.kr/next-product/2022/12/13/8659839dd63f4d70ba929cf1ff01b78a_20221213151401.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '한국후지필름 40매', 39800, '상품번호5912843', 77, 0, 23, 6, 12, 66, 542);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202308/11ee37160878172baa4f1549b07ff274.jpg?width=600', 'https://img.29cm.co.kr/next-product/2022/12/13/8659839dd63f4d70ba929cf1ff01b78a_20221213151401.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '코닥 컬러필름 울트라맥스', 18000, '상품번호3829157', 889, 12, 23, 6, 12, 66, 542);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2019/10/10/3402db9b58a74e78ada19f63a6700f22_20191010165605.jpg?width=600', 'https://img.29cm.co.kr/next-product/2022/12/13/8659839dd63f4d70ba929cf1ff01b78a_20221213151401.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '인스탁스 스퀘어 SQ1', 183000, '상품번호7425963', 647, 0, 23, 6, 12, 66, 542);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202308/11ee371c927495a4a5caf76a705a5841.jpg?width=600', 'https://img.29cm.co.kr/next-product/2022/12/13/8659839dd63f4d70ba929cf1ff01b78a_20221213151401.jpg', seq_pd_id.currval);
+
+
+-- 컴퓨터, 디지털 > 사진 > 메모리카드 543
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '소니 A타입 8GB', 157000, '상품번호8612594', 0, 0, 23, 6, 12, 66, 543);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2022/11/29/20e48b46609e451fa5aa9c2c881ab5db_20221129122308.jpg?width=600', 'https://img.29cm.co.kr/next-product/2022/11/29/b85d62ea6fb24a92bd70333c59604f70_20221129122021.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '소니 A타입 16GB', 866000, '상품번호9274518', 0, 0, 23, 6, 12, 66, 543);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2022/11/29/20e48b46609e451fa5aa9c2c881ab5db_20221129122308.jpg?width=600', 'https://img.29cm.co.kr/next-product/2022/11/29/b85d62ea6fb24a92bd70333c59604f70_20221129122021.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '소니 A타입 32GB', 500000, '상품번호3958712', 10, 0, 23, 6, 12, 66, 543);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2022/11/29/cde2c923e8344caf9e584cf0d9bcb724_20221129121930.jpg?width=600', 'https://img.29cm.co.kr/next-product/2022/11/29/b85d62ea6fb24a92bd70333c59604f70_20221129122021.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '소니 A타입 64GB', 81900, '상품번호5178426', 1, 0, 23, 6, 12, 66, 543);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2022/11/29/08e02be4b26247c1aae948ad06630874_20221129121524.jpg?width=600', 'https://img.29cm.co.kr/next-product/2022/11/29/b85d62ea6fb24a92bd70333c59604f70_20221129122021.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '소니 A타입 128GB',169000, '상품번호8249567', 1, 0, 23, 6, 12, 66, 543);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2022/11/29/a36f11c181c44792aa8c3af26512db68_20221129113703.jpg?width=600', 'https://img.29cm.co.kr/next-product/2022/11/29/b85d62ea6fb24a92bd70333c59604f70_20221129122021.jpg', seq_pd_id.currval);
+
+
+-- 컴퓨터, 디지털 > 사진 > 인화용품 544
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '코닥 레트로 옐로우', 169000, '상품번호	6973148', 700, 23, 23, 6, 12, 66, 544);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202401/11eeaf7ca00aed58b23803ddb8ddb4ce.jpg?width=600', 'https://ai.esmplus.com/td0601/KODAK/%ED%8F%AC%ED%86%A0%ED%94%84%EB%A6%B0%ED%84%B0/%EB%AF%B8%EB%8B%88%EC%83%B72/C210R%20N/C210R_total.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '코닥 레트로 실버', 189000, '상품번호4358297', 600, 24, 23, 6, 12, 66, 544);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202401/11eeaf7cf65eafcb91eb8d4f4734842f.jpg?width=600', 'https://ai.esmplus.com/td0601/KODAK/%ED%8F%AC%ED%86%A0%ED%94%84%EB%A6%B0%ED%84%B0/%EB%AF%B8%EB%8B%88%EC%83%B72/C210R%20N/C210R_total.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '코닥 레트로+카트리지 세트', 139000, '상품번호5821947', 900, 26, 23, 6, 12, 66, 544);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202401/11eeaf7d17a0c93991eb0379f79fd2c3.jpg?width=600', 'https://ai.esmplus.com/td0601/KODAK/%ED%8F%AC%ED%86%A0%ED%94%84%EB%A6%B0%ED%84%B0/%EB%AF%B8%EB%8B%88%EC%83%B72/C210R%20N/C210R_total.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '코닥 미니샷 카트리지', 20500, '상품번호9764381', 800, 16, 23, 6, 12, 66, 544);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2022/12/23/64c6d7fdf6fa48e39b592b6d5b879698_20221223154646.jpg?width=600', 'https://ai.esmplus.com/td0601/KODAK/%ED%8F%AC%ED%86%A0%ED%94%84%EB%A6%B0%ED%84%B0/%EB%AF%B8%EB%8B%88%EC%83%B72/C210R%20N/C210R_total.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '캐논 포토프린터', 25000, '상품번호	3498712', 400, 17, 23, 6, 12, 66, 544);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2022/09/07/9575dd3a3f4a4e90837658e032bb177d_20220907114509.jpg?width=600', 'https://ai.esmplus.com/td0601/KODAK/%ED%8F%AC%ED%86%A0%ED%94%84%EB%A6%B0%ED%84%B0/%EB%AF%B8%EB%8B%88%EC%83%B72/C210R%20N/C210R_total.jpg', seq_pd_id.currval);
+
+
+-- 컴퓨터, 디지털 > 사진 > 스트랩 545
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '엘라고 스트랩', 9500, '상품번호1865927', 0, 0, 23, 6, 12, 66, 545);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2023/02/01/a03d87f2a1f04681a29fa5261a8fa58c_20230201105840.png?width=600', 'https://img.29cm.co.kr/next-product/2021/07/05/13cae2a01da247789602999279c6fd60_20210705155342.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '멋진 스트랩',17900, '상품번호5723861', 0, 0, 23, 6, 12, 66, 545);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2021/07/05/66965582f6c34485860bb38dbcb5d055_20210705155311.jpg?width=600', 'https://img.29cm.co.kr/next-product/2021/07/05/13cae2a01da247789602999279c6fd60_20210705155342.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '한국 스트랩', 59000, '상품번호9316482', 1, 0, 23, 6, 12, 66, 545);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202402/11eecb04711d7ef4b238ad6e735a58ed.jpg?width=600', 'https://img.29cm.co.kr/next-product/2021/07/05/13cae2a01da247789602999279c6fd60_20210705155342.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '미국 스트랩', 180000, '상품번호7158394', 0, 0, 23, 6, 12, 66, 545);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202404/11ef02ce047094acbb6a13d40be766e3.png?width=600', 'https://img.29cm.co.kr/next-product/2021/07/05/13cae2a01da247789602999279c6fd60_20210705155342.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '브라질 스트랩', 230000, '상품번호4873926', 10, 0, 23, 6, 12, 66, 545);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202404/11ef02cd1d3ea33b88b1498e2b6af002.png?width=600', 'https://img.29cm.co.kr/next-product/2021/07/05/13cae2a01da247789602999279c6fd60_20210705155342.jpg', seq_pd_id.currval);
+
+
+-- 컴퓨터, 디지털 > 사진 > 기타 액세서리 546
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, 'Polaroid 포토 앨범', 50000, '상품번호6291745', 210, 0, 23, 6, 12, 66, 546);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202311/11ee7ec405f02d71a5b381342140d70d.jpg?width=600', 'https://gi.esmplus.com/ebank74/acc/ecm_w2bt/w2bt_001.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '인스탁스 컴포지션스튜디오x', 50000, '상품번호5428913', 210, 0, 23, 6, 12, 66, 546);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2023/02/14/0660f9c9da9741a783745a4a3866fdeb_20230214101818.jpg?width=600', 'https://gi.esmplus.com/ebank74/acc/ecm_w2bt/w2bt_001.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '소니 ECM-W2BT 브이로그 무선 마이크', 50000, '상품번호3765942', 210, 0, 23, 6, 12, 66, 546);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202311/11ee804dbb1a157f8a7fbbbbd9d64cfe.jpg?width=600', 'https://gi.esmplus.com/ebank74/acc/ecm_w2bt/w2bt_001.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '소니 ECM-B1M 노이즈 캔슬링 마이크', 50000, '상품번호9816372', 210, 0, 23, 6, 12, 66, 546);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202311/11ee7ec4fe92afef83bc7f8b97f53b2f.jpg?width=600', 'https://gi.esmplus.com/ebank74/acc/ecm_w2bt/w2bt_001.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '소니 HVL-F28RM 무선 외장 플라로이드', 50000, '상품번호4578923', 210, 0, 23, 6, 12, 66, 546);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202311/11ee7ec2a31791cd8a7fdf8308a1cdb5.jpg?width=600', 'https://gi.esmplus.com/ebank74/acc/ecm_w2bt/w2bt_001.jpg', seq_pd_id.currval);
+
+
+-- 컴퓨터, 디지털 > 자동차용품,장난감 > 차량용 공기청정기 547
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '알로코리아 공기청정기', 50000, '상품번호2367849', 210, 22, 23, 6, 12, 67, 547);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2023/05/25/c2908272e5454e91a8fd49694a9fca75_20230525093807.jpg?width=600', 'https://img.29cm.co.kr/next-product/2023/05/25/2ad9ded63aab46228cb467fcb808deb1_20230525093832.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '바스 탈취제', 50000, '상품번호9184753', 210, 22, 23, 6, 12, 67, 547);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2022/03/16/287818af95b246dba6f52ad6a77b1054_20220316161711.jpg?width=600', 'https://img.29cm.co.kr/next-product/2023/05/25/2ad9ded63aab46228cb467fcb808deb1_20230525093832.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, 'YG 공기청정기', 50000, '상품번호7549213', 210, 22, 23, 6, 12, 67, 547);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2022/03/28/b417d5a77394489aba03fc2711de35f7_20220328153825.jpg?width=600', 'https://img.29cm.co.kr/next-product/2023/05/25/2ad9ded63aab46228cb467fcb808deb1_20230525093832.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '필립스 차량 공기청정기', 50000, '상품번호2196837', 210, 22, 23, 6, 12, 67, 547);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202403/11eee0343d8ce9329a76515b5aa69e56.jpg?width=600', 'https://img.29cm.co.kr/next-product/2023/05/25/2ad9ded63aab46228cb467fcb808deb1_20230525093832.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '알로코리아 공기청정기', 50000, '상품번호9874126', 210, 22, 23, 6, 12, 67, 547);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202310/11ee73ddfa108fd38a7fc7340b100c65.jpg?width=600', 'https://img.29cm.co.kr/next-product/2023/05/25/2ad9ded63aab46228cb467fcb808deb1_20230525093832.jpg', seq_pd_id.currval);
+
+
+-- 컴퓨터, 디지털 > 자동차용품,장난감 > 방향제 548
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, 'Quokka & BOBO Air freshner', 17000, '상품번호5861423', 9499, 0, 23, 6, 12, 67, 548);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202311/11ee842fab8e19cb8a7f1d5743a04f00.png?width=600', 'https://img.29cm.co.kr/item/202311/11ee8430115762058a7fcb969b083402.png', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, 'Supul perfume pocket - Arbor', 21000, '상품번호9231748', 9180, 0, 23, 6, 12, 67, 548);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202307/11ee2f6c59d83921aa4fab2df90e4f6d.jpg?width=600', 'https://img.29cm.co.kr/item/202311/11ee8430115762058a7fcb969b083402.png', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '오센트 마블 차량용방향제', 24000, '상품번호8742916', 9463, 0, 23, 6, 12, 67, 548);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2023/03/15/81919ebac7cf4558933f3b643f508784_20230315113932.gif?width=600', 'https://img.29cm.co.kr/item/202311/11ee8430115762058a7fcb969b083402.png', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '오센트 리필캡슐', 45000, '상품번호5189762', 9999, 0, 23, 6, 12, 67, 548);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2020/07/30/27a2d0c8f1e048b4994a630429cf85f1_20200730230056.png?width=600', 'https://img.29cm.co.kr/item/202311/11ee8430115762058a7fcb969b083402.png', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '벨리곰 X 위글위글 차량용방향제', 60900, '상품번호3621984', 8052, 0, 23, 6, 12, 67, 548);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202312/11ee932c826f247ba5b3c178c9839148.jpg?width=600', 'https://img.29cm.co.kr/item/202311/11ee8430115762058a7fcb969b083402.png', seq_pd_id.currval);
+
+
+-- 컴퓨터, 디지털 > 자동차용품,장난감 > 충전,거치대 549
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '맥세이프 차량용 고속 무선충전 거치대', 35000, '상품번호7851426', 210, 0, 23, 6, 12, 67, 549);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2021/10/05/7beaf324b90147aab47dcb3537816cfc_20211005133759.jpg?width=600', 'https://sinjimoru.diskn.com/상세페이지/08_맥세이프/M-도넛/01.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '오그랩 맥스 FOD센서 차량용 무선 충전기 핸드폰 거치대 자동차 스마트폰 고속 휴대폰 아이폰 갤럭시 전기종', 50000, '상품번호4918762', 210, 0, 23, 6, 12, 67, 549);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2022/10/13/4ef95f9d81d341e9b5e3c48aa7bb456a_20221013173122.jpg?width=600', 'https://sinjimoru.diskn.com/상세페이지/08_맥세이프/M-도넛/01.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '맥세이프 차량용 고속 무선충전 거치대', 69000, '상품번호6739158', 210, 0, 23, 6, 12, 67, 549);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2020/01/13/3cfe56ed0c79477dbb1ec05828bfd50d_20200113154939.jpg?width=600', 'https://sinjimoru.diskn.com/상세페이지/08_맥세이프/M-도넛/01.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '맥세이프 차량용 고속 무선충전 거치대', 46000, '상품번호8249576', 210, 2, 23, 6, 12, 67, 549);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2021/05/24/dcc886e30fb14d1db01e42db657ce3f0_20210524164114.jpg?width=600', 'https://sinjimoru.diskn.com/상세페이지/08_맥세이프/M-도넛/01.jpg', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '맥세이프 차량용 고속 무선충전 거치대', 99000, '상품번호5397148', 210, 0, 23, 6, 12, 67, 549);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2020/06/09/094e436cd454470eb689388ddfb2560f_20200609105719.jpg?width=600', 'https://sinjimoru.diskn.com/상세페이지/08_맥세이프/M-도넛/01.jpg', seq_pd_id.currval);
+
+
+-- 컴퓨터, 디지털 > 자동차용품,장난감 > 기타 자동차 액세서리 550
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '알로코리아 A5 Plus 차량용 공기청정기 소형 자동차 차량', 59900, '상품번호8174369', 18, 0, 23, 6, 12, 67, 550);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2023/05/25/c2908272e5454e91a8fd49694a9fca75_20230525093807.jpg?width=600', 'https://img.29cm.co.kr/next-product/2022/10/25/c603c4982af34c9e9df0937b6373eca6_20221025130809.jpg?width=1000', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, 'BAS 차량용 에어컨 히터 탈취제', 50000, '상품번호2964873', 328, 0, 23, 6, 12, 67, 550);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2022/03/16/287818af95b246dba6f52ad6a77b1054_20220316161711.jpg?width=600', 'https://img.29cm.co.kr/next-product/2022/10/25/c603c4982af34c9e9df0937b6373eca6_20221025130809.jpg?width=1000', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '필립스 공식판매점 고퓨어 스타일 3000시리즈 S3602 차량용 살균 공기청정기', 50000, '상품번호6573128', 103, 0, 23, 6, 12, 67, 550);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2022/03/28/b417d5a77394489aba03fc2711de35f7_20220328153825.jpg?width=600', 'https://img.29cm.co.kr/next-product/2022/10/25/c603c4982af34c9e9df0937b6373eca6_20221025130809.jpg?width=1000', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '루메나 차량용 무선 공기청정기 A1', 9900, '상품번호9185732',665, 0, 23, 6, 12, 67, 550);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202403/11eee0343d8ce9329a76515b5aa69e56.jpg?width=600', 'https://img.29cm.co.kr/next-product/2022/10/25/c603c4982af34c9e9df0937b6373eca6_20221025130809.jpg?width=1000', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '필립스 PHILIPS 1+1 고퓨어 자동차 차량용 에어컨 향균 필터 냄새차단 극초미세먼지 PM0.3 차단', 59800, '상품번호4389675', 210, 0, 23, 6, 12, 67, 550);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202310/11ee73ddfa108fd38a7fc7340b100c65.jpg?width=600', 'https://img.29cm.co.kr/next-product/2022/10/25/c603c4982af34c9e9df0937b6373eca6_20221025130809.jpg?width=1000', seq_pd_id.currval);
+
+
+-- 컴퓨터, 디지털 > 자동차용품,장난감 > 아트토이 551
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, 'Lets Drift', 16000, '상품번호9623748', 702, 0, 23, 6, 12, 67, 551);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202311/11ee84342028bafd8a7f2911e7b4b777.png?width=500', 'https://img.29cm.co.kr/item/202311/11ee84344af9940da5b34958b4bc8bf7.png', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, 'Smore Figure', 33000, '상품번호4812639', 820, 0, 23, 6, 12, 67, 551);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202311/11ee84251e74045ba5b3c522db4106c2.png?width=500', 'https://img.29cm.co.kr/item/202311/11ee84344af9940da5b34958b4bc8bf7.png', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, 'Sunshine in Marshville Blindbox Figure', 36000, '상품번호3058412', 241, 0, 23, 6, 12, 67, 551);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202401/11eeb12081e6a48e83774539a3d9ff36.png?width=500', 'https://img.29cm.co.kr/item/202311/11ee84344af9940da5b34958b4bc8bf7.png', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '고고싱 바람개비 피규어_춘식이', 24000, '상품번호8741952', 24, 0, 23, 6, 12, 67, 551);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2024/04/29/0255f7c463b541c486c37292ca5d518f_20240429153758.jpg?width=500', 'https://img.29cm.co.kr/item/202311/11ee84344af9940da5b34958b4bc8bf7.png', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, 'Quokka Snowball Maker', 10000, '상품번호6203479', 908, 0, 23, 6, 12, 67, 551);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202312/11ee932f16334a0983bc65d9e790eb80.png?width=500', 'https://img.29cm.co.kr/item/202311/11ee84344af9940da5b34958b4bc8bf7.png', seq_pd_id.currval);
+
+
+-- 컴퓨터, 디지털 > 자동차용품,장난감 > 보드게임 552
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '사랑내일 29금 커플 주루마블 [신박한 19금 주류마블 연인 질문 성인 2인 4인 술자리 카드 술게임]', 14900, '상품번호6375481', 55, 0, 23, 6, 12, 67, 552);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202309/11ee5c403d08c085a5b3f92b8d1dee6b.jpg?width=500', 'https://img.29cm.co.kr/item/202309/11ee5c40480eb60983bc39d9539464b9.jpg?width=1000', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '마틴 슈와츠 바르셀로나 일러스트 직소 퍼즐(1000p)', 72000, '상품번호2819453', 67, 0, 23, 6, 12, 67, 552);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2023/03/28/93c887730656434b94ea611f4a45915a_20230328145848.jpg?width=500', 'https://img.29cm.co.kr/item/202309/11ee5c40480eb60983bc39d9539464b9.jpg?width=1000', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '우리둘이 우정고사 우정문답 [친구 우정 백문백답 모의 능력 고사 테스트 질문 책 편지 우정템 생일 선물]', 8500, '상품번호7529186', 85, 0, 23, 6, 12, 67, 552);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202309/11ee5c3fa05b319fa5b35934537a7409.jpg?width=500', 'https://img.29cm.co.kr/item/202309/11ee5c40480eb60983bc39d9539464b9.jpg?width=1000', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, '마틴 슈와츠 스톡홀름 일러스트 직소 퍼즐(1000p)', 72000, '상품번호4567819', 40, 0, 23, 6, 12, 67, 552);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2023/03/28/e0adb4ce8c9344989bb0d9dcaf4b9a31_20230328150232.jpg?width=500', 'https://img.29cm.co.kr/item/202309/11ee5c40480eb60983bc39d9539464b9.jpg?width=1000', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, 'ICONIC MONTPELLIER CARD GAME', 24000, '상품번호7392185', 24, 0, 23, 6, 12, 67, 552);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/next-product/2022/12/05/b5ebf712ee83427cb97fbbb6c4123508_20221205174000.png?width=500', 'https://img.29cm.co.kr/item/202309/11ee5c40480eb60983bc39d9539464b9.jpg?width=1000', seq_pd_id.currval);
+
+
+-- 컴퓨터, 디지털 > 스마트모빌리티 > 전기자전거 553
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, 'AKU 500W 48V 15Ah 전기/전동스쿠터', 998000, '상품번호1379528', 522, 0, 23, 6, 12, 68, 553);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202401/11eeade8abd7d2d083770d1f4d0b6682.jpg?width=500', 'https://img.29cm.co.kr/item/202309/11ee5c40480eb60983bc39d9539464b9.jpg?width=1000', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, 'TX7 DUAL 350W 36V 5.2Ah 20인치 전기자전거', 598000, '상품번호8456931', 211, 0, 23, 6, 12, 68, 553);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202401/11eeadf57ad4991591ebbfb1d4b2bb7f.jpg?width=500', 'https://motovelo.diskn.com/2SJuKvP6Oi', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, 'A9 프로 600W 48V 20Ah 전기/전동스쿠터', 1198000, '상품번호5160937', 73, 0, 23, 6, 12, 68, 553);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202401/11eeade4b77e99868377553ad5eb0dde.jpg?width=500', 'https://motovelo.diskn.com/2SJuKvP6Oi', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, 'AKU3 500W 48V 15Ah 삼륜 전기/전동스쿠터', 1098000, '상품번호2041963', 43, 0, 23, 6, 12, 68, 553);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202401/11eeade7eca28b00837755cfcfd1838c.jpg?width=500', 'https://motovelo.diskn.com/2SJuKvP6Oi', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, 'AKU2 PET 500W 20Ah 듀얼 전기/전동스쿠터', 1280000, '상품번호7398251', 146, 0, 23, 6, 12, 68, 553);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202401/11eeade74396f01d91eb8fbc535b41f2.jpg?width=500', 'https://motovelo.diskn.com/2SJuKvP6Oi', seq_pd_id.currval);
+
+
+-- 컴퓨터, 디지털 > 스마트모빌리티 > 전동스쿠터 554 
+NSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, 'AKU 500W 48V 15Ah 전기/전동스쿠터', 998000, '상품번호1379528', 522, 0, 23, 6, 12, 68, 554);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202401/11eeade8abd7d2d083770d1f4d0b6682.jpg?width=500', 'https://motovelo.diskn.com/2SJuKvP6Oi', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, 'TX7 DUAL 350W 36V 5.2Ah 20인치 전기자전거', 598000, '상품번호8456931', 211, 0, 23, 6, 12, 68, 554);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202401/11eeadf57ad4991591ebbfb1d4b2bb7f.jpg?width=500', 'https://motovelo.diskn.com/2SJuKvP6Oi', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, 'A9 프로 600W 48V 20Ah 전기/전동스쿠터', 1198000, '상품번호5160937', 73, 0, 23, 6, 12, 68, 554);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202401/11eeade4b77e99868377553ad5eb0dde.jpg?width=500', 'https://motovelo.diskn.com/2SJuKvP6Oi', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, 'AKU3 500W 48V 15Ah 삼륜 전기/전동스쿠터', 1098000, '상품번호2041963', 43, 0, 23, 6, 12, 68, 554);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202401/11eeade7eca28b00837755cfcfd1838c.jpg?width=500', 'https://motovelo.diskn.com/2SJuKvP6Oi', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES
+(seq_pd_id.nextval, 'AKU2 PET 500W 20Ah 듀얼 전기/전동스쿠터', 1280000, '상품번호7398251', 146, 0, 23, 6, 12, 68, 554);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_img.nextval, 'https://img.29cm.co.kr/item/202401/11eeade74396f01d91eb8fbc535b41f2.jpg?width=500', 'https://motovelo.diskn.com/2SJuKvP6Oi', seq_pd_id.currval);
+
+
+-- 컴퓨터, 디지털 > 스마트모빌리티 > 모빌리티 액세서리 555
+
+-- DB 없음
+
+

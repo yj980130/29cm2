@@ -1,0 +1,552 @@
+/* kitchen 인서트문*/
+--청소,수납		
+INSERT INTO PRODUCT(PD_ID, PD_NAME, PD_PRICE,PD_INFO,PD_SALES_QUANTITY,PD_DISCOUNT_RATE,BRAND_ID, MAIN_CTGR_ID,LARGE_CTGR_ID,MEDIUM_CTGR_ID,SMALL_CTGR_ID) VALUES
+(seq_pd_id.nextval,	'슈즈 홀더',	1,500,	'상품번호 1025359',	500,	25,	1,	4,	10,	41,	364	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'프랑코 자석 탈부착 & 공간활용 우산보관함',	25470,	'상품번호1182851',	400,	23,	1,	4,	10,	41,	364	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'레어로우랙 신발장 랙 (9 Colors)',	280000,	'상품번호1801882',	300,	0,	1,	4,	10,	41,	364	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'PVC 그물 부츠 보관 커버 신발 가방',	5500,	'상품번호1965204',	200,	0,	1,	4,	10,	41,	364)	;
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'플러스라인 무타공 도어스토퍼 말발굽 현관문 닫힘방지',	19900,	'상품번호1158064',	100,	17,	1,	4,	10,	41,	364);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'프랑코 자석 탈부착 & 공간활용 우산보관함',	25470,	'상품번호1182851',	350,	23,	2,	4,	10,	41,	365);	
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'플래지어 올데이 2단 수납 모던 스틸 디자인 우산꽂이(2 color)',	59000,	'상품번호2112264',	250,	24,	2,	4,	10,	41,	365);	
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'자국없는 무타공 벽부착 우산걸이 우산꽂이',	2500,	'상품번호2022319',	150,	0,	2,	4,	10,	41,	365);	
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'레겐스 철제 우산꽂이 5종',	28000,	'상품번호358901',	100,	41,	2,	4,	10,	41,	365	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'리템 우산꽂이 자석형',	6380,	'상품번호1023526',	5,	25,	2,	4,	10,	41,	365);	
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'곰돌이 회전 액세서리 데스크 정리 수납함',	,13900,	'상품번호1023527',	50,	34,	3,	4,	10,	41,	366);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'욕실 화장실 수납 트레이 화장솜 립스틱 정리함 6개 세트',	16900,	'상품번호2354384',	260,	40,	3,	4,	10,	41,	366);	
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'크리스탈 3단 쥬얼리 반지 보관 서랍함',	12900,	'상품번호2159457',	340,	24,	3,	4,	10,	41,	366	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'견고한 다용도 화장품 책상정리 투명 수납함 3type',	8900,	'상품번호2374600',	200,	19,	3,	4,	10,	41,	366);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'칸막이 분리형 쥬얼리 반지 트레이 보석함 2종'	,8900,	'상품번호2129630',	346,	41,	3,	4,	10,	41,	366	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'JBJ 올스텐 이동식 304 빅사이즈 다용도 세탁 빨래 바구니(바퀴별도구매)',	91900,	'상품번호2513281',	454	,5,	4,	4,	10,	41,	367);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'1+1 초간편 씌워서 사용하는 먼지 습기 방지 옷 덮개 4type',	3900,	'상품번호2132256',	44,	29,	4,	4,	10,	41,	367	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'무형광 이불 세탁망',	4900,	'상품번호1603734',	24,	40,	4,	4,	10,	41,	367);	
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'바스클립 이스라엘 라탄디자인 슬림형 빨래바구니/햄퍼 40L',	27800,	'상품번호302240',	67,	27,	4,	4,	10,	41,	367 );	
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'JBJ 올스텐 304 빅사이즈 세탁바구니 전용 바스켓',	44910,	'상품번호2545901',	36,	10,	4,	4,	10,	41,	367	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'디어리얼_편백오일수 탈취제_500ml_1개입(패키지포장)',	17910,	'상품번호2517391',	24,	42,	5,	4,	10,	41,	368 );
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'프래그런스 린넨 사셰',	19000,	'상품번호835486',	90,	0,	5,	4,	10,	41,	368	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'휴대용 드레스퍼퓸 소독 살균 섬유 스프레이 탈취제 3EA 1SET',	13900,	'상품번호2248280',	80,	31,	5,	4,	10,	41,	368 );	
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'패브릭겸용 룸스프레이 120ML',	18000,	'상품번호116906',	70,	0,	5,	4,	10,	41,	368	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'디어리얼_편백오일수 탈취제 500ml_3개입 (패키지포장)'	,41310,	'상품번호2517426',	60,	55,	5,	4,	10,	41,	368 );	
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'비건 세탁세제 1L 2개 향선택',	27600,	'상품번호2518511',	50,	20,	6,	4,	10,	41,	369);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'비건 세탁세제1L 1개+유연제 1L 1개'	,29900,	'상품번호2518503',	40,	35,	6,	4,	10,	41,	369	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'[선물세트] 런드리 세트: 세탁 세제+퍼퓸 섬유유연제',	27000,	'상품번호1205178',	30,	10,	6,	4,	10,	41,	369);	
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'퍼퓸 건조기용 섬유유연제/건조기시트 2종 세트 (80매)',	33000,	'상품번호1201102',	20,	18,	6,	4,	10,	41,	369	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'라비킷 코트너(40매)(향선택) 섬유유연제시트 건조기시트 비누향 머스크향 살구향 린넨향',	18500,	'상품번호2149971',	10,	16,	6,	4,	10,	41,	369 );	
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'SAFE LIFE Z07 차량용 소화기'	,45000,	'상품번호595487',	33,	0,	7,	4,	10,	41,	370 );
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'FIRE EXTINGUISHER (WHITE)',	53000,	'상품번호2486733',	455,	0,	7,	4,	10,	41,	370 );	
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'국내생산 3중 구조 위생마스크 (대형/화이트/50개입)',	9900,	'상품번호873900',	77,	66,	7,	4,	10,	41,	370 );	
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'덴탈형 KF94 숨쉬기 편한 마스크 블랙/화이트 (50매입X2ea)',	22900,	'상품번호1256467',	66,	0,	7,	4,	10,	41,	370 );	
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'레몬에이드 과일&야채 세정제 500ml'	,14900,	'상품번호1164280',	99,	0,	7,	4,	10,	41,	370	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'쿼시 이지 키친타올 [100매X9개]',	16900,	'상품번호2385532',	89,	15,	7,	4,	10,	41,	371);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'레노바 컬러티슈 화장지 6종(3겹X6롤)',	14900,	'상품번호2371156',	90,	12,	7,	4,	10,	41,	371	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'무표백 뽑아쓰는 키친타올 150매 x 6팩 (총 900매)',	16900,	'상품번호2301787',	13,	29,	7,	4,	10,	41,	371 );	
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'[2024 NEW EDITION] 순수한 대나무 휴지 비욘드 페이퍼 300 (24롤)'	,32000,	'상품번호2400419',	26,	0,	7,	4,	10,	41,	371	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'REFILL TISSUE 10PACK 리필티슈 10개입',	9000,	'상품번호948697',	27,	0,	7,	4,	10,	41,	371 );	
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'쿼시 올인원 청소 세정 롤티슈 [200매]',	15900,	'상품번호1993508',	28,	11,	8,	4,	10,	41,	372	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'304 올 스텐 2단 스윙 빨래 세탁 바구니 런드리 네트망 바스켓',	75780,	'상품번호2559689',	29,	0,	8,	4,	10,	41,	372 );	
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'쿼시 올인원 캠핑 롤티슈 [200매]',	15900,	'상품번호2403088',	54,	11,	8	,4,	10,	41,	372	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'라이프썸 무선충전 핸디 청소기 (LFS-HA17)',	49900,	'상품번호362879',	53,	28,	8,	4,	10,	41,	372 );	
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'쿼시 스티키 점착식 청소포 [200매(180+20)]',	29900,	'상품번호1993799',	52,	22,	8,	4,	10,	41,	372 );	
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'가방 모자걸이 우드볼 벽걸이 행거 회전식 도어행거',	19000,	'상품번호2287858',	57,	24,	8,	4,	10,	41,	373	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'유니크 블라인드 행거커버 행거가리개 행거덮개',	6900,	'상품번호915047',	58,	30,	8,	4,	10,	41,	373 );	
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'가방 모자 도어행거 벽걸이 도어 행거 우드볼 후크걸이',	9200,	'상품번호2287867',	163,	25,	8,	4,	10,	41,	373 );	
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'[스페셜오더,단독]_메이네티 사토리얼 스페셜 상의 옷걸이 SAR-J42 (7 color)',	9600,	'상품번호2034677',	34,	20,	8,	4,	10,	41,	373 );	
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'코튼 드레스룸 행거커버_4colors',	9900,	'상품번호1171338',	88,	34,	8,	4,	10,	41,	373	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'올스텐 식기 건조대 4type'	,32900,	'상품번호334762',	10,	67,	9,	4,	10,	41,	374);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'18-8 풀스텐 식기건조대 엠보형',	95000,	'상품번호500813',	20,	30,	9,	4,	10,	41,	374 );	
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'18-8 풀스텐 식기건조대 A형 New',	83000,	'상품번호894920',	30,	25,	9,	4,	10,	41,	374	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'메탈텍스 실로스 화이트 코너 정리 선반',	14000,	'상품번호302251',	44,	30,	9,	4,	10,	41,	374 );	
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'접시 정리대 꽂이 거치대 [2size 접시랙 접시렉 받침대 후라이팬 프라이팬 보관 건조 주방정리대 홀더]',5900,'상품번호1845214',	66,	0,	9,	4,	10,	41,	374 );
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'스텐 멀티랙 깔끔한 주방 싱크대 정리용품 물빠짐',	15010,	'상품번호2067385',	77,	42,	9,	4,	10,	41,	375	);
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'감각적인 빈티지 소품! 쇠테리어를 완성하세요!_SANRO 산로 인더스트리얼 빈티지 박스 _ 다용도 금속 정리함',	36100,	'상품번호2601365',	88,	26,	9,	4,	10,	41,	375 );	
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval,	'GKB-52/SB 나이프 블럭 (실버) / 스테인리스 분리세척 칼꽂이',	199080,	'상품번호2338239',	99,	20,	9,	4,	10,	41,	375	);
+INSERT INTO PRODUCT VALUES 
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'늘였다 줄였다 확장형 수세미 세제 행주 걸이 보관대 2종',	18900,	'상품번호1962096',	134,	24,	9,	4,	10,	41,	375 );	
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'[무료배송]_레고트 x 위글위글 런치박스 렉탱글',	42700,	'상품번호2603306',	21,	5,	9,	4,	10,	41,	375	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'[1+1] 쿼시 이지디시워시 주방세제',	7900,	'상품번호2091811',	32,	50,	10,	4,	10,	41,	376);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'[프로쉬]BEST 캠핑인기템 독일 주방세제 100ml 휴대용 미니 키트 (소다+라즈베리)+개구리수세미',	6900,	'상품번호1735258',	43,	19,	10,	4	,10,	41,	376 );	
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'DAILY DISHWASHING LIQUID 1종주방세제 500ML',	10400,	'상품번호948683',	54,	20,	10,	4,	10,	41,	376	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'DAILY DISHWASHING LIQUID(500ML) & REFILL(500ML) SET 1종주방세제세트',	16000,	'상품번호1468092',	65,	20,	10,	4,	10,	41,	376 );	
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'브리오신 2종(식기) 주방세제 500ml'	,12000,	'상품번호479895',	76,	25,	10,	4,	10,	41,	376	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'물빠짐 구멍 스텐 설거지통 10L 다용도 캠핑',	20045,	'상품번호2037677',	87,	45,	10,	4,	10,	41,	377);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'스텐 멀티랙 깔끔한 주방 싱크대 정리용품 물빠짐',	15010,	'상품번호2067385',	98,	42,	10,	4,	10,	41,	377	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'클라 드레인 앤 커버 [배수구망+뚜껑]',	15010,	'상품번호2043153',	109,	41,	10,	4,	10,	41,	377	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'스텐 304 타공 트레이 넉넉 편리 안정 물빠짐 설거지',	9690,	'상품번호2132265',	102,	44,	10,	4,	10,	41,	377 );	
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'스텐 싱크플레이트(펀칭) 싱크대 정리용품 물빠짐',	17195,	'상품번호2348137',	22,	46,	10,	4,	10,	41,	377	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'[29CM 단독] 욕실청소세트 (독일 욕실 물때제거 스프레이 500ml+변기세정제 750ml)',	16500,	'상품번호2474199',	21,	24,	11,	4,	10,	41,	378 );
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'[29CM 단독] 입주청소세트 (독일 오렌지 가전/가구 멀티클리너+다목적 키친클리너+유리세정제)',	23900,	'상품번호2474065',	23,	33,	11,	4,	10,	41,	378	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'다목적 멀티 폼 세정제 500ml',	12900,	'상품번호2466103',	36,	14,	11,	4,	10,	41,	378	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'독일 물때제거 라즈베리/레몬 욕실클리너 3개',	22400,	'상품번호1637235',	64,	37,	11,	4,	10,	41,	378	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'독일 냉장고/키친클리너 300ml',	9000,	'상품번호530712',	63,	24,	11,	4,	10,	41,	378	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'올드 키친크로스 2color',	9500,	'상품번호430957',	74,	24,	11,	4,	10,	41,	379 );
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'쓰임새 좋은 키친크로스(무지)',	23000,	'상품번호789788',	65,	0,	11,	4,	10,	41,	379	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'[HAY] Canteen Dish Cloth Set of 2, 초콜렛, 에메랄드',	21000,	'상품번호2246275',	45,	0,	11,	4,	10,	41,	379	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'쓰임새 좋은 키친크로스(패턴)',	11000,	'상품번호789848',	367,	0,	11,	4,	10,	41,	379	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'셀룰로오스 행주 3PCS/5PCS',	15000,	'상품번호2505848',	357,	0,	11,	4,	10,	41,	379	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'넬리 내추럴 키친 수세미(2개입)',	2200,	'상품번호364122',	34	,12,	12,	4,	10,	41,	380 );
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'폴란드 다용도 수세미 스크러바 WET IT 친환경 수세미 2PCS',	9800,	'상품번호1431078'	,64,	10,	12,	4,	10,	41,	380	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'펄프 수세미(5SET) - Dessert Time',	11067,	'상품번호2123202',	62,	26,	12,	4,	10,	41,	380	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'펄프 수세미(5SET) - Brunch Day',	11067,	'상품번호2123226',	11,	26,	12,	4,	10,	41,	380	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'펄프 수세미(5SET) - Donut Box',	12462,	'상품번호2380433',	13,	16,	12,	4,	10,	41,	380	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'이불가방 패브릭백 정리함 이불보관함 S/M/L',	7000,	'상품번호2425848',	14,	61,	12,	4,	10,	41,	381 );
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'위글위글X카카오프렌즈 폴딩카트_춘식이',	49000,	'상품번호2572778',	25,	0,	12,	4,	10,	41,	381	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'아이카사 폴딩박스 M 사이즈 (색상 선택)',	11400,	'상품번호298685',	36,	5, 12,	4,	10,	41,	381	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'멀티 오거나이저 DSACBA0201',	12000,	'상품번호2324613',	47,	20,	12,	4,	10,	41,	381	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'투명한 칸막이 USB 케이블 타이 전선 다용도 소품 정리함 2type',	2000,	'상품번호1204024',	59,	33,	12,	4,10,	41,	381	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'스텐 음식물 쓰레기통 3L + 봉투걸이 2종',	32300,	'상품번호2043098'	,60,	42,	13,	4,	10,	41,	382	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'히포2 크롬 오토실링 쓰레기통 휴지통 밀폐 페달 다용도 기저귀 냄새차단 인테리어 원룸',	74900,	'상품번호2521806',	36,	30,	13,	4,	10,	41,	382	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'18-8 풀스텐 음식물쓰레기통 2L',	37900,	'상품번호1692301'	,34,	24,	13,	4,	10,	41,	382	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'데이지 데스크 인테리어 미니 쓰레기통',	4500,	'상품번호1965211',	13,	0,	13,	4,	10,	41,	382	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'애니블리 3단 분리수거함 재활용 쓰레기통 휴지통 냄새차단 인테리어',	64900,	'상품번호2521720'	,11,	33,	13,	4,	10,	41,	382	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'[3만원이상/디스커버리키트 증정]_프래그런스 새니타이저 스프레이 (2종 택1) 300ml',	21375	'상품번호1894934'	32	29	13	4	10	41	383 );
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'더 스프레이 450ml 세트 - 제주 편백수 탈취제',	32000,	'상품번호1141425',	42,	0,	13,	4,	10,	41,	383	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'이사선물_스페이스 스프레이 900ml 기프트 세트 - 제주 편백 살균제',	49000,	'상품번호1403639'	,62,	0,	13,	4,	10,	41,	383	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'패브릭&공간&청소 탈취제 aroma spray 300ml',	18000,	'상품번호2465812',	46,	28,	13,	4,	10,	41,	383	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'더 스프레이 450ml 기프트 세트 - 제주 편백수 탈취제',	39000,	'상품번호1403643'	,24,	0,	13,	4,	10,	41,	383	);
+--쿡웨어
+--스텐프라이팬
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'통5중 올스텐 루체 프라이팬/웍팬 5종 모음',	39900,	'상품번호2569190'	, 24,	11,	14,	4,	10,	42,	384	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'통3중 스텐 사각그리들팬 인덕션 플레이팅 캠핑',	32300,	'상품번호2066009'	,44,	42,	14,	4,	10,	42,	384	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'통3중 브런치팬 인덕션 스텐',	16150,	'상품번호2065996'	,33,	44,	14,	4,	10,	42,	384	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'아롱 쿡웨어 2종세트(16냄비+24팬)',	79000,	'상품번호2264707'	,33,	29,	14,	4,	10,	42,	384	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'통5중 펌킨 컬렉션 프라이팬/냄비 9종 모음',	60000,	'상품번호2577967'	,33,	10,	14,	4,	10,	42,	384	);
+--주물프라이팬
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'헤이즐 IH 프라이팬/궁중팬 24cm/26cm/28cm',	39900,	'상품번호2609659'	,45,	17,	14,	4,	10,	42,	385	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'[29CM단독컬러] 하트 스킬렛 16cm +쇼핑백증정',	81000,	'상품번호2353918'	,67,	55,	14,	4,	10,	42,	385	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'무쇠 3구 에그팬',	89000,	'상품번호2594420'	,36,	0,	14,	4,	10,	42,	385	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'[1+1] 독일 레몬머랭 통주물 IH 인덕션 냄비/프라이팬/웍/그릴팬 13종 내맘대로 골라담기',	49800,	'상품번호2578602'	,45,	37,	14,	4,	10,	42,	385	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'계란말이팬 ST2361723',	191900,	'상품번호2516061'	,68,	38,	14,	4,	10,	42,	385	);
+--그릴
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'KILN 킬른 통3중 스텐 미니화로 [그릴+워머+우드받침대]',	20425,	'상품번호2066220'	,56,	44,	15,	4,	10,	42,	386	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'소담쿡웨어 그릴팬 27cm',	45900,	'상품번호1453506'	,47,	0,	15,	4,	10,	42,	386	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'IH 인덕션 겸용 통주물 NEW 멀티 그리들 블랙 32cm 36cm 38cm 40cm (선택)',	22900,	'상품번호2528084'	,58,	77,	15,	4,	10,	42,	386	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'[건강한팬] 무쇠주물화로+그릴+참숯증정',	84500,	'상품번호649058'	,78,	39,	15,	4,	10,	42,	386	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'1인 고기화로 무쇠주물 세라믹코팅 사각화로 그릴 세트',	151400,	'상품번호2132633'	,58,	24,	15,	4,	10,	42,	386	);
+--스낵메이커
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'일본 정품 100% 스기야마 히로유키 와플팬 크로플팬',	17900,	'상품번호2031375'	,68,	10,	15,	4,	10,	42,	387	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'[바우루] BAW LOO 싱글 핫 샌드위치 메이커',	7200,	'상품번호2350359'	,44,	0,	15,	4,	10,	42,	387	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'붕어빵틀 와플메이커 (+곰표믹스키트 길거리표 그맛)',	32000,	'상품번호1360059'	,22,0	,	15,	4,	10,	42,	387	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'겉바속촉 스텐 토스트 그릴',	76000,	'상품번호1873644'	,11,	3,	15,	4,	10,	42,	387	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'[바우루] BAW LOO 와플 메이커',	93000,	'상품번호2350349'	,77,	0,	15,	4,	10,	42,	387	);
+--칼
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'G-5 채소나이프 18cm / 야채칼 나키리 채소칼 메인식도',	88020,	'상품번호2338279'	,88,	29,	16,	4,	10,	42,	388	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'GS-102 미니쵸퍼 8cm / 캠핑 나이프 중식도',	82080,	'상품번호2338341'	,55,	20,	16,	4,	10,	42,	388	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'마그네틱 슬라이서 채칼 6종 칼날세트 자석 풀세트 만능 채칼 야채 채소 채썰기',	13965,	'상품번호2264716'	,86,	36,	16,	4,	10,	42,	388	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'G-2538 3종  스페셜 나이프 세트 G-2 GS-5 GS-38 / 메인식도, 야채칼, 과',	224010,	'상품번호2338271'	,47,	23,	16,	4,	10,	42,	388	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'포켓 톱니과도 113mm 빵칼 / 핑크',	7990,	'상품번호2625921'	,46,	33,	16,	4,	10,	42,	388	);
+--도마
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'엔드그레인 도마 원형',	49000,	'상품번호2594477'	,57,	0, 16,	4,	10,	42,	389	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'블랙 마블 도마 소/중/대 미끄럼방지 착색없는',	7505,	'상품번호2200066'	,47,	42,	16,	4,	10,	42,	389	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'엔드그레인 도마 대형',	89000,	'상품번호2594473'	,22,	0,	16,	4,	10,	42,	389	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'스텐 316 비앙코 양면도마 칼집안나는 위생도마 김치 고기 해산물',	24795,	'상품번호2200143'	,45,	41,	16,	4,	10,	42,	389	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'스텐 양면도마 위생적인 칼집없는',	23655,	'상품번호2043147'	,26,	41,	16,	4,	10,	42,	389	);
+--가위
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'303 드라이 주방가위 스텐 분리형 캠핑 고기',	23655,	'상품번호2043881'	,24,	41,	17,	4,	10,	42,	390	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'디럭스 주방가위 민트/고기가위',	16900,	'상품번호2610349'	,74,	19,	17,	4,	10,	42,	390	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'GKS-210 주방가위 양손가위',	86040,	'상품번호2338202'	,45,	20,	17,	4,	10,	42,	390	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'슈나이더 올스텐 주방가위 캠핑 고기',	10735,	'상품번호2043763'	,47,	40,	17,	4,	10,	42,	390	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'101 아인스 주방가위 스텐 분리형 캠핑 고기',	21565,	'상품번호2043806'	,85,	41,	17,	4,	10,	42,	390	);
+--채반
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'스텐 펀칭찜기 14cm/18cm/22cm 오븐 에어프라이어 채반 다용도',	9690,	'상품번호2324507'	,96,	44,	17,	4,	10,	42,	391	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'스텐 원형 메쉬 트레이 [채반+트레이] 3종세트 소/대/특대',	11780,	'상품번호2037555'	,75,	47,	17,	4,	10,	42,	391	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'스텐 메쉬앤믹스 2종세트 [채반+믹싱볼] 2종세트 소/대',	12920,	'상품번호2037589'	,57,	47,	17,	4,	10,	42,	391	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'스텐 멀티 워시볼 24cm 쌀 라이스 세척',	18335,	'상품번호2543735'	,45,	48,	17,	4,	10,	42,	391	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'스트레이너 라켓 작은망 스텐 채망 채반 튀김망 거름망',	10735,	'상품번호2059434'	,74,	36,	17,	4,	10,	42,	391	);
+--휴대용버너
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'베터핑거 미니스토브 캠핑버너 가스버너 ',	93000,	'상품번호2182346'	,356,	15,	18,	4,	10,	42,	392	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'프라이어 미니 부탄 가스 버너 스토브 케이스포함',	81200,	'상품번호1639535'	,34,	18,	18,	4,	10,	42,	392	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'에비히슈테른 프라이어 미니 스토브',	84800,	'상품번호1978205'	,25,	3,	18,	4,	10,	42,	392	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'[토미153]  도자기 워머 2type',	54000,	'상품번호2625584'	,457,	0,	18,	4,	10,	42,	392	);
+
+--저장용기
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'드롭드롭드롭 DOSILOCK 3단 도시락 (LCB112S01_DRP)',	29900,	'상품번호2589604'	,34,	30,	18,	4,	10,	42,	393	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'프리미엄 실리콘 이유식 주방용품 조리도구 밀폐용기 위생 지퍼백 소,중,대 3P 세트',	44000,	'상품번호2382483'	,33,	56,	18,	4,	10,	42,	393	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'[무료배송]_레고트 런치박스 스퀘어 (5 colors)',	27720,	'상품번호2234721'	,34,	21,	18,	4,	10,	42,	393	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'모슈 라떼 런치박스',	27588,	'상품번호1862563'	,55,	16,	18,	4,	10,	42,	393	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'BGP 플라워 보틀백',	22000,	'상품번호1616202'	,55,	0,	18,	4,	10,	42,	393	);
+--스텐 키친툴
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'다양한 활용도 스텐 사각 트레이 [뚜껑+그물망+트레이] 3종세트',	9215,	'상품번호2036727'	,33,	42,	19,	4,	10,	42,	394	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'스텐 사각 트레이 세트(PC커버) 재료준비 플레이팅 투명',	9215,	'상품번호2451346'	,44,	63,	19,	4,	10,	42,	394	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'스텐 슈탠더 집게 스탠드 다용도 고기 캠핑 플레이팅',	5985,	'상품번호2044292'	,77,	45,	19,	4,	10,	42,	394	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'멀티 스텐필러 채칼 당근칼 감자칼 양배추칼',	8550,	'상품번호2054830'	,55,	43,	19,	4,	10,	42,	394	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'오븐 사용 가능한 스텐 웨이브 트레이 [뚜껑+트레이] 2종세트',	8455,	'상품번호2056353'	,55,	47,	19,	4,	10,	42,	394	
+--믹싱볼
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'스텐 눈금 스태프볼 300ml/500ml',	5320,	'상품번호2026897'	,66,	23,	19,	4,	10,	42,	395	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'스텐 눈금 계량볼 750ml',	9690,	'상품번호2026899'	,66,	42,	19,	4,	10,	42,	395	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'내열 유리볼',	5000,	'상품번호2026827'	,66,	23,	19,	4,	10,	42,	395	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'믹싱볼 3종세트',	18335,	'상품번호2025897'	,66,	30,	19,	4,	10,	42,	395	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'워시볼 2종세트',	56820,	'상품번호2026817'	,66,	40,	19,	4,	10,	42,	395	);
+--우드 키친툴
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'옻칠 절구공이',	8300,	'상품번호2026811'	,77,	0,	20,	4,	10,	42,	396	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'미니 조리도구',	5500,	'상품번호2026811'	,77,	0,	20,	4,	10,	42,	396	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'스카게락',	207100,	'상품번호8579214'	,55,	5,	20,	4,	10,	42,	396	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'옻칠 수저세트',	1500,	'상품번호3698521'	,33,	17,	20,	4,	10,	42,	396	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'달 뒤집개',	8000,	'상품번호4785126'	,22,	0,	20,	4,	10,	42,	396	
+--1인 인덕션
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'소형 인덕션',	51000,	'상품번호9632147'	,10,	20,	20,	4,	10,	42,	397	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'소형 캔핑용 1구 인덕션',	34900,	'상품번호5412369'	,20,	22,	20,	4,	10,	42,	397	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'쿠쿠 인덕션 1구',	259000,	'상품번호7258963'	,30,	13,	20,	4,	10,	42,	397	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'1구 전자레인지 원형 인덕션',	55900,	'상품번호6321478'	,40,	15,	20,	4,	10,	42,	397	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'1구 인덕션 원형 전기레인지',	95700,	'상품번호1987452'	,59,	7,	20,	4,	10,	42,	397	);
+--실리콘 키친툴
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'실리콘 조리도구 7종세트',	21565,	'상품번호5846231'	,12,	34,	21,	4,	10,	42,	398	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'요리조리 스푼',	4500,	'상품번호3158924'	,55,	36,	21,	4,	10,	42,	398	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'플렉시벨 뒤집개',	6460,	'상품번호6293148'	,55,	50,	21,	4,	10,	42,	398	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'플렉시벨 주걱',	6460,	'상품번호8745621'	,55,	50,	21,	4,	10,	42,	398	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'플렉시벨 볶음스푼',	6460,	'상품번호2974518'	,55,	50,	21,	4,	10,	42,	398	);
+--기타 키친툴
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'고기 다지기',	8550,	'상품번호6358741'	,77,	45,	21,	4,	10,	42,	399	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'소금통 후추통',	9540,	'상품번호4796213'	,77,	42,	21,	4,	10,	42,	399	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'봉지 집게',	8000,	'상품번호5284136'	,77,	0,	21,	4,	10,	42,	399	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'조리도구 3종세트',	32900,	'상품번호4165938'	,77,	5,	21,	4,	10,	42,	399	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'원목 스틱손잡이',	55000,	'상품번호7812643'	,77,	5,	21,	4,	10,	42,	399	);
+--스탠냄비
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'냄비 5종세트',	39000,	'상품번호6398572'	,88,	11,	22,	4,	10,	42,	400	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'스탠 아웃백 스퀘어팟',	25000,	'상품번호2154783'	,88,	24,	22,	4,	10,	42,	400	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'스텐 소스팬',	46880,	'상품번호9836521'	,88,	52,	22,	4,	10,	42,	400	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'펌킨 프라이팬',	70000,	'상품번호7429183'	,88,	10,	22,	4,	10,	42,	400	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'국수 파스타 어묵냄비',	50300,	'상품번호3658742'	,88,	5,	22,	4,	10,	42,	400	);
+--주물냄비
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'베아바웍',	14900,	'상품번호1875362'	,99,	34,	22,	4,	10,	42,	401	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'그릴팬 내맘대로 담기',	48900,	'상품번호5269147'	,99,	34,	22,	4,	10,	42,	401	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'원형 꼬꾀떼',	265000,	'상품번호3725648'	,99,	46,	22,	4,	10,	42,	401	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'시그니처 원형18cm',	21200,	'상품번호6947231'	,99,	47,	22,	4,	10,	42,	401	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'주물냄비 에나멜코팅',	61750,	'상품번호9142578'	,99,	48,	22,	4,	10,	42,	401	);
+--뚝배기
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'가마솥 공기,뚝배기세트',	114000,	'상품번호2389546'	,56,	3,	23,	4,	10,	42,	402	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'계란찜기',	12255	'상품번호6194375'	,56,	5,	23,	4,	10,	42,	402	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'타진 뚝배기',	59000,	'상품번호5284769'	,56,	8,	23,	4,	10,	42,	402	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'무균열 뚝배기',	37800,	'상품번호9472135'	,56,	34,	23,	4,	10,	42,	402	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'클래식 찜뚝배기',	142000,	'상품번호3698241'	,56,	6,	23,	4,	10,	42,	402	);
+--세라믹냄비
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'쿡웨어 2종세트',	40375,	'상품번호7852136'	,52,	29,	23,	4,	10,	42,	403	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'편수냄비',	31900,	'상품번호4521396'	,52,	52,	23,	4,	10,	42,	403	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'신혼자취 세라믹 코팅',	16300,	'상품번호8693472'	,52,	41,	23,	4,	10,	42,	403	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'깊은양수냄비',	95430,	'상품번호3145872'	,52,	52,	23,	4,	10,	42,	403	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'플레이팅쿡 5p',	45000,	'상품번호7952641'	,52,	32,	23,	4,	10,	42,	403	);
+--기타냄비
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'법랑냄비 10종',	41560,	'상품번호6289741'	,100,	31,	24,	4,	10,	42,	404	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'사각법랑냄비', 49080,	'상품번호4178296'	,100,	21,	24,	4,	10,	42,	404	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'14cm 곰돌이원형냄비',	가격,	'상품번호2943867'	,100,	36,	24,	4,	10,	42,	404	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'편수냄비 18cm',	가격,	'상품번호8745123'	,100,	39,	24,	4,	10,	42,	404	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'양수냄비 20cm',	가격,	'상품번호2156379'	,100,	35,	24,	4,	10,	42,	404	);
+--프라이팬
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'레고트쿡 24프라이팬',	35656,	'상품번호6482513'	,1,	53,	24,	4,	10,	42,	405	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'인덕션코팅팬',	13767,	'상품번호9763851'	,12,	45,	24,	4,	10,	42,	405	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'에그롤팬',	15432,	'상품번호4378219'	,35,	23,	24,	4,	10,	42,	405	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'그리들 블랙',	25789,	'상품번호5691432'	,36,	35,	24,	4,	10,	42,	405	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'논스틱 인덕션 팬',	85000,	'상품번호2853164'	,32,	47,	24,	4,	10,	42,	405	);
+--주전자
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'케틀팟 주전자',	21656,	'상품번호7429361'	,39,	23,	25,	4,	10,	42,	406	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'애니멀 법랑주전자',	51456,	'상품번호5147298'	,33,	23,	25,	4,	10,	42,	406	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'티 주전자',	91000,	'상품번호9231564'	,33,	24,	25,	4,	10,	42,	406	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'대용량 보온병',	37900,	'상품번호6872145'	,33,	25,	25,	4,	10,	42,	406	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'케틀 4L 주전자',	45672,	'상품번호5143296'	,45,	36,	25,	4,	10,	42,	406	);
+--테이블웨어
+--커피웨어
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'반자동 에스프레소',	189050,	'상품번호3798521'	,45,	45,	25,	4,	10,	43,	407	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'롱롱플레이트 스몰',	26600,	'상품번호6257819'	,4,	46,	25,	4,	10,	43,	407	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'커피 그라인더',	71155,	'상품번호9372148'	,5,	46,	25,	4,	10,	43,	407	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'웨이브 드리퍼',	57000,	'상품번호1854632'	,50,	32,	25,	4,	10,	43,	407	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'드립세트',	38000,	'상품번호7142586'	,45,	0,	25,	4,	10,	43,	407	);
+--커트러리
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'사브르 비스트로',	45672,	'상품번호3697254'	,45,	33,	25,	4,	10,	43,	408	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'사브르 비스트로',	50672,	'상품번호5279143'	,45,	12,	25,	4,	10,	43,	408	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'사브르 비스트로',	22672,	'상품번호8365941'	,45,	43,	25,	4,	10,	43,	408	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'커트러리 디저트 3종',	38672,	'상품번호1958723'	,45,	66,	25,	4,	10,	43,	408	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'디저트 스푼',	40672,	'상품번호4721983'	,45,	22,	25,	4,	10,	43,	408	);
+
+--와인잔
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'어덜트클럽 와인잔 세트',	22800,	'상품번호6392754'	,45,	12,	25,	4,	10,	43,	409	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'컬러 와인잔 2세트',	35720,	'상품번호8451396'	,45,	21,	25,	4,	10,	43,	409	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'홀리데이 와인잔세트',	47080,	'상품번호2964138'	,45,	12,	25,	4,	10,	43,	409	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'알사스앙시',	19900,	'상품번호7529614'	,45,	5,	25,	4,	10,	43,	409	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'몽블랑 클리어 와인잔',	13200,	'상품번호4312987'	,45,	20,	25,	4,	10,	43,	409	);
+
+--고블렛
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'벌룬고블렛 2p',	34320,	'상품번호9168273'	,45,	12,	25,	4,	10,	43,	410	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'테비네리 미니고블렛',	31680,	'상품번호5748123'	,45,	12,	25,	4,	10,	43,	410	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'벌룬고블렛',	37840,	'상품번호7941836'	,45,	12,	25,	4,	10,	43,	410	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'다트 모멘추얼',	54000,	'상품번호9728631'	,45,	22,	25,	4,	10,	43,	410	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'보스톤 와인고블렛',	49280,	'상품번호6294851'	,45,	30,	25,	4,	10,	43,	410	);
+
+--와인 악세서리
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'와인오프너-고양이',	23000,	'상품번호4519286'	,45,	36,	25,	4,	10,	43,	411	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'와인오프너-코끼리',	25000,	'상품번호5741392'	,45,	36,	25,	4,	10,	43,	411	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'a bottle opener',	11000,	'상품번호3189256'	,45,	36,	25,	4,	10,	43,	411	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'박서보 와인오프너',	240000,	'상품번호4738512'	,45,	36,	25,	4,	10,	43,	411	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'알레시 와인오프너',	90000,	'상품번호5492168'	,45,	36,	25,	4,	10,	43,	411	);
+
+--기타주류잔
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'밀킈글라스 소주잔',	25344,	'상품번호1857362'	,45,	30,	25,	4,	10,	43,	412	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'코몽인 소주잔세트',	18920,	'상품번호4762819'	,45,	20,	25,	4,	10,	43,	412	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'미솜 소리잔',	38790,	'상품번호2378946'	,45,	11,	25,	4,	10,	43,	412	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'하이볼잔',	34567,	'상품번호5184692'	,45,	23,	25,	4,	10,	43,	412	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'umi soju glass',	5280,	'상품번호6318472'	,45,	11,	25,	4,	10,	43,	412	);
+
+--티팟
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'티머그 논카페인 잎차세트',	36046,	'상품번호4859213'	,45,	23,	25,	4,	10,	43,	413	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'티팟& 티컵 세트',	45672,	'상품번호8236479'	,45,	33,	25,	4,	10,	43,	413	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'락앤락 티머그',	29500,	'상품번호4762819'	,45,	17,	25,	4,	10,	43,	413	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'목욕시간 옥색 잔',	15000,	'상품번호6958172'	,45,	0,	25,	4,	10,	43,	413	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'사마도요 티포트세트',	26240,	'상품번호8273641'	,45,	20,	25,	4,	10,	43,	413	);
+
+--물병
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'락앤락 내열유리머그',	10900,	'상품번호5492168'	,45,	31,	25,	4,	10,	43,	414	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'Jug S,엠버',	74000,	'상품번호7321864'	,45,	0,	25,	4,	10,	43,	414	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'락앤락 내열 머그',	9700,	'상품번호1857362'	,45,	30,	25,	4,	10,	43,	414	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'다에토 스텐 내열유리',	11200,	'상품번호8236479'	,45,	0,	25,	4,	10,	43,	414	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'이와키 내열유리',	23000,	'상품번호6914523'	,45,	0,	25,	4,	10,	43,	414	);
+
+--볼
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'다이너 소스볼',	45672,	'상품번호2378946'	,45,	12,	25,	4,	10,	43,	415	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'코요 컨츄리사이드',	45672,	'상품번호5184692'	,45,	0,	25,	4,	10,	43,	415	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'savor bowl',	45672,	'상품번호2478591'	,45,	10,	25,	4,	10,	43,	415	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'line bowl',	45672,	'상품번호6318472'	,45,	10,	25,	4,	10,	43,	415	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'디저트 볼',	45672,	'상품번호4859213'	,45,	10,	25,	4,	10,	43,	415	);
+
+--트레이
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'단독_로플트레이',	7200,	'상품번호6257819'	,45,	0,	25,	4,	10,	43,	416	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'타공 트레이',	9690,	'상품번호8365941'	,45,	44,	25,	4,	10,	43,	416	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'지젤 데켈',	22000,	'상품번호5279143'	,45,	0,	25,	4,	10,	43,	416	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'캠트레이',	11700,	'상품번호7142586'	,45,	10,	25,	4,	10,	43,	416	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'테비네리',	15840,	'상품번호7529614'	,45,	12,	25,	4,	10,	43,	416	);
+
+--수저보관함
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'대용량 물잘빠지는 수저보관케이스',	9500,	'상품번호9168273'	,45,	27,	25,	4,	10,	43,	417	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'가위 수저 꽂이',	20900,	'상품번호7529614'	,45,	25,	25,	4,	10,	43,	417	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'무소음 수저통세트',	6500,	'상품번호8451396'	,45,	34,	25,	4,	10,	43,	417	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'마리벨 수저통세트',	14155,	'상품번호3254968'	,45,	26,	25,	4,	10,	43,	417	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'레고트 수저통',	47500,	'상품번호2689451'	,45,	5,	25,	4,	10,	43,	417	);
+
+--티웨어
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'펠로우 전기 드립포트 600ml',	230000,	'상품번호5741392'	,45,	10,	25,	4,	10,	43,	418	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'펠로우 전기 드립포트 900ml',	260000,	'상품번호6294851'	,45,	17,	25,	4,	10,	43,	418	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'펠로우 전기 드립포트 900ml',	260000,	'상품번호3189256'	,45,	32,	25,	4,	10,	43,	418	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'펠로우 전기 드립포트 600ml',	230000,	'상품번호4738512'	,45,	26,	25,	4,	10,	43,	418	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'티타늄 드리퍼',	25000,	'상품번호8273641'	,45,	0,	25,	4,	10,	43,	418	);
+
+--티코스터
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'해피니스 컵선물세트',	26460,	'상품번호4738512'	,45,	12,	25,	4,	10,	43,	419	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'clam coaster',	6500,	'상품번호4519286'	,45,	0,	25,	4,	10,	43,	419	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'Tea coster_vol.6',	9720,	'상품번호6294851'	,45,	19,	25,	4,	10,	43,	419	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'Tea coster_vol.7',	7280,	'상품번호9168273'	,45,	19,	25,	4,	10,	43,	419	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'Coaster(9 colors)',	9500,	'상품번호4519286'	,45,	0,	25,	4,	10,	43,	419	);
+
+--테이블매트
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'오브 실리콘 매트',	7075,	'상품번호4738512'	,45,	41,	25,	4,	10,	43,	420	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'린넨 키친 크로스 69종',	24900,	'상품번호5492168'	,45,	15,	25,	4,	10,	43,	420	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'Fabric Mat',	9000,	'상품번호4762819'	,45,	0,	25,	4,	10,	43,	420	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'크레용 손수건키친크론스',	5500,	'상품번호6914523'	,45,	0,	25,	4,	10,	43,	420	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'Fabric kitchen cloth',	13000,	'상품번호2378946'	,45,	0,	25,	4,	10,	43,	420	);
+
+--테이블커버
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'한스갤러리 린넨 레이스',	14800,	'상품번호5184692'	,45,	35,	25,	4,	10,	43,	421	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'블루체크 테이블커버',	22410,	'상품번호8963471'	,45,	10,	25,	4,	10,	43,	421	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'아웃라인 라이트 블루',	148000,	'상품번호8236479'	,45,	0,	25,	4,	10,	43,	421	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'무지 화이트 프릴 테이블보',	14310,	'상품번호6914523'	,45,	75,	25,	4,	10,	43,	421	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'아멜리아 린넨테이블보',	29800,	'상품번호4762819'	,45,	0,	25,	4,	10,	43,	421	);
+
+--테이블 소품
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'텀블러 파우치백',	12800,	'상품번호8963471'	,45,	41,	25,	4,	10,	43,	422	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'윙크 타코 젓가락받침',	11534,	'상품번호6318472'	,45,	12,	25,	4,	10,	43,	422	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'강아지 가위 수저 꽂이',	20900,	'상품번호8963471'	,45,	25,	25,	4,	10,	43,	422	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'스푼 홀더',	17100,	'상품번호2378946'	,45,	10,	25,	4,	10,	43,	422	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'멍이 수저받침',	10900,	'상품번호8236479'	,45,	0,	25,	4,	10,	43,	422	);
+
+--찬기
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'플라워 기프트 세트',	63000,	'상품번호9472635'	,45,	0,	25,	4,	10,	43,	423	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'소르베 찬기',	23220,	'상품번호3189256'	,45,	36,	25,	4,	10,	43,	423	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'유광 플라워 그로스',	12000,	'상품번호5492168'	,45,	0,	25,	4,	10,	43,	423	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'오발 찬기',	12000,	'상품번호6142987'	,45,	0,	25,	4,	10,	43,	423	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'일본 가정식 반찬기',	5700,	'상품번호2378946'	,45,	2,	25,	4,	10,	43,	423	);
+
+--종지
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'다이너 소스볼',	28600,	'상품번호8963471'	,45,	12,	25,	4,	10,	43,	424	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'미니플레이트 4종',	28464,	'상품번호8963471'	,45,	18,	25,	4,	10,	43,	424	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'데이지 보울 3종',	16544,	'상품번호4762819'	,45,	35,	25,	4,	10,	43,	424	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'모리스 오가닉 종지',	10000,	'상품번호2378946'	,45,	17,	25,	4,	10,	43,	424	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'데이지 보울 단품',	5808,	'상품번호3189256'	,45,	30,	25,	4,	10,	43,	424	);
+
+--공기,국기
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'라인 라이스 보울',	20700,	'상품번호1958723'	,45,	10,	25,	4,	10,	43,	425	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'라인 플레이트',	20700,	'상품번호6392754'	,45,	10,	25,	4,	10,	43,	425	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'알라바스터 보울',	38570,	'상품번호4721983'	,45,	34,	25,	4,	10,	43,	425	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'카모메키친 공기',	7000,	'상품번호5279143'	,45,	50,	25,	4,	10,	43,	425	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'힌 로우 볼 스톤',	40000,	'상품번호4721983'	,45,	0,	25,	4,	10,	43,	425	);
+
+--면기
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'딥 오발 볼 타원형',	28800,	'상품번호9728631'	,45,	0,	25,	4,	10,	43,	426	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'산도 샐러드볼',	42000,	'상품번호2689451'	,45,	0,	25,	4,	10,	43,	426	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'면기',	34000,	'상품번호7941836'	,45,	0,	25,	4,	10,	43,	426	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'레고트 면기 2p',	85500,	'상품번호5748123'	,45,	5,	25,	4,	10,	43,	426	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'고운달 면기',	45000,	'상품번호2689451'	,45,	0,	25,	4,	10,	43,	426	);
+
+--숟가락
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'커트러리 한식기 1인용',	19000,	'상품번호3189256'	,45,	24,	25,	4,	10,	43,	427	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'마카롱 한식수저세튼ㅇ',	12000,	'상품번호9168273'	,45,	0,	25,	4,	10,	43,	427	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'컬러무드 숟가락젓가락 세트',	24900,	'상품번호2689451'	,45,	48,	25,	4,	10,	43,	427	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'사브르 2인 믹스 한식수저세트',	55000,	'상품번호9728631'	,45,	44,	25,	4,	10,	43,	427	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'카모메카진 스텐 숟가락젓가락세트',	19800,	'상품번호6294851'	,45,	51,	25,	4,	10,	43,	427	);
+
+--식기세트
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'다이너 소스볼 기프트',	28600,	'상품번호7529614'	,45,	12,	25,	4,	10,	43,	428	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'마블 시리얼세트',	27280,	'상품번호3254968'	,45,	12,	25,	4,	10,	43,	428	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'에딩 고블렛 세트',	33440,	'상품번호7941836'	,45,	20,	25,	4,	10,	43,	428	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'엘로우라인 점박이 플레이트 3종',	7000,	'상품번호8362745'	,45,	0,	25,	4,	10,	43,	428	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'보울+서클 플레이트',	47700,	'상품번호5741392'	,45,	10,	25,	4,	10,	43,	428	);
+
+--플레이트
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'당신의 음식을 노리는 고양이들',	28400,	'상품번호3189256'	,45,	0,	25,	4,	10,	43,	429	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'트윙클 하트 디쉬',	33000,	'상품번호5741392'	,45,	0,	25,	4,	10,	43,	429	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'블랑 접시 4p세트',	39600,	'상품번호8273641'	,45,	32,	25,	4,	10,	43,	429	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'고양이 체크인',	32000,	'상품번호3189256'	,45,	0,	25,	4,	10,	43,	429	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'미니플레이트 set',	39600,	'상품번호5821346'	,45,	17,	25,	4,	10,	43,	429	);
+
+--머그컵
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'토마토 머그',	14970,	'상품번호5821346'	,45,	12,	25,	4,	10,	43,	430	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'클래식 진공 머그',	39600,	'상품번호5821346'	,45,	12,	25,	4,	10,	43,	430	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'윌레스와 그로밋 머그컵',	24552,	'상품번호9728631'	,45,	45,	25,	4,	10,	43,	430	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'해피니스 컵 선물세트',	24640,	'상품번호5813976'	,45,	12,	25,	4,	10,	43,	430	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'애니멀 팜 내열유리잔',	24200,	'상품번호2689451'	,45,	33,	25,	4,	10,	43,	430	);
+
+--유리컵
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'시손느 글라스 선물세트',	42672,	'상품번호6392754'	,45,	16,	25,	4,	10,	43,	431	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'디즈니정품 빈티지 유리컵',	33890,	'상품번호8451396'	,45,	36,	25,	4,	10,	43,	431	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'해피니스 컵 선물세트',	24640,	'상품번호4519286'	,45,	12,	25,	4,	10,	43,	431	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'테비네리 유리 텀블러',	13630,	'상품번호5821346'	,45,	12,	25,	4,	10,	43,	431	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'하이볼잔 스탠다드',	34320,	'상품번호6958172'	,45,	16,	25,	4,	10,	43,	431	);
+
+--텀블러
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'플로우스테이트',	43120,	'상품번호8963471'	,45,	12,	25,	4,	10,	43,	432	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'플로우스 스테이트 텀블러',43120,	'상품번호1857362'	,45,	12,	25,	4,	10,	43,	432	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'H2) 스테이트 텀블러',	45672,	'상품번호4762819'	,45,	12,	25,	4,	10,	43,	432	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'아이스플로우 텀블러',	34200,	'상품번호6914523'	,45,	12,	25,	4,	10,	43,	432	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'레고트 투웨이 루프',	20800,	'상품번호2478591'	,45,	28,	25,	4,	10,	43,	432	);
+
+--커피잔
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'맥파이앤타이거',	24200,	'상품번호6914523'	,45,	12,	25,	4,	10,	43,	433	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'오엠지세라믹 미니컵세트',	37050,	'상품번호5741392'	,45,	5,	25,	4,	10,	43,	433	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'라인머그&스프 플레이트 세트',	60300,	'상품번호1857362'	,45,	10,	25,	4,	10,	43,	433	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'킨토 컵 앤 소서',	38000,	'상품번호8963471'	,45,	0,	25,	4,	10,	43,	433	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'2인 홈카페세트',	57684,	'상품번호4762819'	,45,	17,	25,	4,	10,	43,	433	);
+---욕실
+--가글
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'리브러쉬 가글 농축액',	19900,	'상품번호8963471'	,10,	23,	30,	4,	10,	44,	434	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'시카 스틱 가글',	6980,	'상품번호6318472'	,34,	34,	30,	4,	10,	44,	434	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'고체가글 노모어',	10600,	'상품번호4859213'	,34,	0,	30,	4,	10,	44,	434	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'테라브레스 가글',	35400,	'상품번호7196482'	,67,	32,	30,	4,	10,	44,	434	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'리스테린 그린티 마일드',	24100,	'상품번호5837162'	,23,	0,	30,	4,	10,	44,	434	);
+
+--치약
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'루스노트 선물세트',	21050,	'상품번호5279143'	,66,	77,	31,	4,	10,	44,	435	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'수분치약 바질레몬향',	20064,	'상품번호8365941'	,66,	67,	31,	4,	10,	44,	435	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'휴대용 치약칫솔세트',	10200,	'상품번호4721983'	,66,	0,	31,	4,	10,	44,	435	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'지비에이치 20g',	2927,	'상품번호6392754'	,66,	15,	31,	4,	10,	44,	435	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'마비스 칫솔',	10900,	'상품번호8451396'	,66,	0,	31,	4,	10,	44,	435	);
+
+--페이스타월
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'스트라이프 호텔수건',	20152,	'상품번호7529614'	,49,	49,	31,	4,	10,	44,	436	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'레몬 밴딩타올',	45760,	'상품번호4312987'	,32,	21,	31,	4,	10,	44,	436	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'숲숲 수건',	52712,	'상품번호5748123'	,23,	30,	31,	4,	10,	44,	436	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'익스클루시브 에디션',	52488,	'상품번호7529614'	,65,	38,	31,	4,	10,	44,	436	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'클라우망 익스클루시브',	41990,	'상품번호1958723'	,33,	38,	31,	4,	10,	44,	436	);
+
+--핸드타월
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'핸드타월 기프트세트',	16720,	'상품번호7529614'	,23,	12,	32,	4,	10,	44,	437	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'버니 핸드 타월_크림',	7040,	'상품번호4312987'	,43,	12,	32,	4,	10,	44,	437	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'버니 핸드타월_민트',	7040,	'상품번호9168273'	,545,	12,	32,	4,	10,	44,	437	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'레어오룽 핸드타월',	7000,	'상품번호3254968'	,56,	0,	32,	4,	10,	44,	437	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'애니멀 핸드타월',	30400,	'상품번호7941836'	,33,	5,	32,	4,	10,	44,	437	);
+
+--비치타월
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'파시 아뜰리에 비치타월',	49000,	'상품번호2689451'	,54,	0,	33,	4,	10,	44,	438	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'한스갤러리 비치타월 대형',	17900,	'상품번호5813976'	,45,	10,	33,	4,	10,	44,	438	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'양면 샌드프리 비치타월',	38800,	'상품번호9728631'	,23,	10,	33,	4,	10,	44,	438	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'건식 스포츠 타월',	28000,	'상품번호5741392'	,21,	0,	33,	4,	10,	44,	438	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'레어로우 배스 타월',	45000,	'상품번호6294851'	,54,	0,	33,	4,	10,	44,	438	);
+
+--칫솔
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'위글위글 칫솔홀더',	16387,	'상품번호5821346'	,44,	21,	34,	4,	10,	44,	439	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'위그위글 칫솔꽂이',	22878,	'상품번호5821344'	,66,	21,	34,	4,	10,	44,	439	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'리브러쉬 모프 휴대용',	7900,	'상품번호6958172'	,77,	39,	34,	4,	10,	44,	439	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'위글위글 로브스터 칫솔홀더',	16383,	'상품번호2964138'	,55,	21,	34,	4,	10,	44,	439	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'로우클래식 덴탈키트',	9800,	'상품번호5748123'	,22,	0,	34,	4,	10,	44,	439	);
+
+--욕실용품
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'위글위글 위글 베어 칫솔홀더',	16387,	'상품번호7941836'	,11,	21,	30,	4,	10,	44,	440	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'컬러 샤워기세트',	84800,	'상품번호9728631'	,33,	0,	30,	4,	10,	44,	440	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'루파 샤워타올+스텐집게',	14900,	'상품번호8362745'	,66,	32,	30,	4,	10,	44,	440	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'무선 칫솔살균기',	31800,	'상품번호6294851'	,34,	20,	30,	4,	10,	44,	440	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'블루 스트라이프 매트',	73800,	'상품번호2689451'	,65,	10,	30,	4,	10,	44,	440	);
+
+--샤워
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'홈구뜨 샤워타올',	14900,	'상품번호5741392'	,22,	32,	20,	4,	10,	44,	441	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'스프링 샤워호스',	58034,	'상품번호1857362'	,33,	45,	20,	4,	10,	44,	441	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'샤워가운 송월세트',	45500,	'상품번호4762819'	,22,	65,	20,	4,	10,	44,	441	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'퓨어썸 여행용 미니',	31900,	'상품번호6914523'	,33,	44,	20,	4,	10,	44,	441	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'세면대용 퓨어썸',	25900,	'상품번호5184692'	,44,	66,	20,	4,	10,	44,	441	);
+
+--발매트
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'빈티지 발매트',	19500,	'상품번호2478591'	,55,	15,	10,	4,	10,	44,	442	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'시티팝시리즈_발매트',	14200,	'상품번호4859213'	,33,	12,	10,	4,	10,	44,	442	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'자가드 프리미엄 발매트',	21939,	'상품번호8236479'	,33,	47,	10,	4,	10,	44,	442	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'보웰 자카드 발매트',	20000,	'상품번호2478591'	,44,	20,	10,	4,	10,	44,	442	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'테리 타올 누빔 발매트',	25600,	'상품번호7196482'	,66,	20,	10,	4,	10,	44,	442	);
+---반려동물
+--쿠션
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'알로소 펫 베드',	195000,	'상품번호8273641'	,66,	20,	11,	4,	10,	45,	443	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'허그쿠션 4종',	35900,	'상품번호7614298'	,66,	20,	11,	4,	10,	45,	443	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'알러지케어 방수 방석',	38800,	'상품번호2378946'	,66,	20,	11,	4,	10,	45,	443	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'디어펫 알러지케어 m2워셔',	29900,	'상품번호6914523'	,66,	20,	11,	4,	10,	45,	443	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'엔젤도그 개어리즘',	26910,	'상품번호2478591'	,66,	20,	11,	4,	10,	45,	443	);
+
+--의류
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'릴리 오버롤 블루',	35900,	'상품번호6318472'	,66,	20,	12,	4,	10,	45,	444	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'훌라 조이베어 쿨링탑',	29900,	'상품번호4859213'	,66,	20,	12,	4,	10,	45,	444	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'클래식 더블코트',	25600,	'상품번호7196482'	,66,	20,	12,	4,	10,	45,	444	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'버터샐즈_스웨트',	26910,	'상품번호5837162'	,66,	20,	12,	4,	10,	45,	444	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'코튼 크로셋 티셔츠',	38800,	'상품번호4762819'	,66,	20,	12,	4,	10,	45,	444	);
+
+--하우스
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'댕굴하우스 3종',	25600,	'상품번호8273641'	,66,	20,	12,	4,	10,	45,	445	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'마룽',	23400,	'상품번호4762819'	,66,	20,	12,	4,	10,	45,	445	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'포르보_쿠션',	22300,	'상품번호6294851'	,66,	20,	12,	4,	10,	45,	445	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'아일랜드 하우스',	34500,	'상품번호5741392'	,66,	20,	12,	4,	10,	45,	445	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'에이라운드하우스',	57690,	'상품번호4519286'	,66,	20,	12,	4,	10,	45,	445	);
+--강아지음식
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'동물병원영양제',	25600,	'상품번호374892'	,66,	20,	12,	4,	10,	45,	446	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'육류와 친환경농산물',	23400,	'상품번호4762819'	,66,	20,	12,	4,	10,	45,	446	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'강아지 고양이 항산화제',	22300,	'상품번호6294851'	,66,	20,	12,	4,	10,	45,	446	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'체더치즈 프레즐',	34500,	'상품번호5741392'	,66,	20,	12,	4,	10,	45,	446	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'캥거루 베지볼',	57690,	'상품번호4519286'	,66,	20,	12,	4,	10,	45,	446	);
+--고양이음식
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'바이트 치킨',	25600,	'상품번호374892'	,66,	20,	12,	4,	10,	45,	447	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'육류와 화이트 피쉬',	23400,	'상품번호4762819'	,66,	20,	12,	4,	10,	45,	447	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'예스무스 피부건강 4개입',	22300,	'상품번호6294851'	,66,	20,	12,	4,	10,	45,	447	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'슈처프레쉬밀 케어 덕',	34500,	'상품번호5741392'	,66,	20,	12,	4,	10,	45,	447	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'연어 슈처프레쉬밀 살몬',	57690,	'상품번호4519286'	,66,	20,	12,	4,	10,	45,	447	);
+--강아지용품
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'넥 크롭 탑',	25600,	'상품번호374892'	,66,	20,	12,	4,	10,	45,	448	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'미니 타운 백-베이지',	23400,	'상품번호4762819'	,66,	20,	12,	4,	10,	45,	448	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'미니 타운 백-차콜',	22300,	'상품번호6294851'	,66,	20,	12,	4,	10,	45,	448	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'led 조명 풉백홀',	34500,	'상품번호5741392'	,66,	20,	12,	4,	10,	45,	448	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'트로피칼 넥 드레스',	57690,	'상품번호4519286'	,66,	20,	12,	4,	10,	45,	448	);
+--고양이용품
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'펫 푸드 컨테이너',	25600,	'상품번호374892'	,66,	20,	12,	4,	10,	45,	449	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'고양이 밥그릇',	23400,	'상품번호4762819'	,66,	20,	12,	4,	10,	45,	449	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'캐스티 보울',	22300,	'상품번호6294851'	,66,	20,	12,	4,	10,	45,	449	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'르크루제 식기',	34500,	'상품번호5741392'	,66,	20,	12,	4,	10,	45,	449	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'뽀글 반려동물 목걸이',	57690,	'상품번호4519286'	,66,	20,	12,	4,	10,	45,	449	);
+--강아지장난감
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'리키리카',	25600,	'상품번호374892'	,66,	20,	12,	4,	10,	45,	450	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'후맨 노즈워크',	23400,	'상품번호4762819'	,66,	20,	12,	4,	10,	45,	450	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'삼각김밥 장난감',	22300,	'상품번호6294851'	,66,	20,	12,	4,	10,	45,	450	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'위아위아 토이',	34500,	'상품번호5741392'	,66,	20,	12,	4,	10,	45,	450	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'노즈워크 장난감',	57690,	'상품번호4519286'	,66,	20,	12,	4,	10,	45,	450	);
+--고양이장난감
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'피단 고양이 3단',	25600,	'상품번호374892'	,66,	20,	12,	4,	10,	45,	450	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'피단 리틀몬스터 캣닢인형',	23400,	'상품번호4762819'	,66,	20,	12,	4,	10,	45,	450	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'퍼얼 토이 세트',	22300,	'상품번호6294851'	,66,	20,	12,	4,	10,	45,	450	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'피쉬 본 토이',	34500,	'상품번호5741392'	,66,	20,	12,	4,	10,	45,	450	);
+INSERT INTO PRODUCT VALUES(seq_pd_id.nextval,	'로얄그론서리 밤톨',	57690,	'상품번호4519286'	,66,	20,	12,	4,	10,	45,	450	);
+

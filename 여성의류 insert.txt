@@ -1,0 +1,731 @@
+-- WOMEN -> 상의 -> 반소매 티셔츠 + URL
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '[5/30일 예약배송]_[29CM 단독 / 유투버 쁨 착용] PW 90s SHORT SLEEVE TEE_6COLORS', 39000, '상품번호 1942789', 1623, 30, 46, 1, 1, 11, 1);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202404/11ef008fb56dcdbf88b199fb5f90965d.jpg?width=600', 'https://img.29cm.co.kr/item/202404/11ef008fb56dcdbf88b199fb5f90965d.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, 'Palace Tee-Light Pink', 39000, '상품번호 2589973', 1521, 10, 47, 1, 1, 11, 1);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202405/11ef0ea39675b8adb9bb25deece694fb.jpg?width=600', 'https://img.29cm.co.kr/item/202405/11ef0ea39675b8adb9bb25deece694fb.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, 'OVERDUE BOXY T_CHARCOAL', 59000, '상품번호 2429141', 438, 30, 48, 1, 1, 11, 1);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202405/11ef0c0c75042008892b4d4ef7fb98cd.jpg?width=600', 'https://img.29cm.co.kr/item/202405/11ef0c0c75042008892b4d4ef7fb98cd.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, 'Palace Tee-White', 39000, '상품번호 1981917', 1586, 21, 47, 1, 1, 11, 1);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/next-product/2023/04/10/98d943804ce6449abd496f6cd9971cf0_20230410152810.jpg?width=600', 'https://img.29cm.co.kr/next-product/2023/04/10/98d943804ce6449abd496f6cd9971cf0_20230410152810.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '[예약배송]_1+1 SPORTING T SET (신상컬러 입고)', 78000, '상품번호 1077919', 2507, 43, 47, 1, 1, 11, 1);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/next-product/2021/04/29/2588bddcec634b80ad614ed7a2c144d1_20210429162241.jpg?width=600', 'https://img.29cm.co.kr/next-product/2021/04/29/2588bddcec634b80ad614ed7a2c144d1_20210429162241.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '[5/16 예약 발송]_W CLASSIC LOGO RINGER TEE white', 49000, '상품번호 1947442', 735, 16, 49, 1, 1, 11, 1);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202404/11eef89cdb5e496893677782ad462efa.jpg?width=600', 'https://img.29cm.co.kr/item/202404/11eef89cdb5e496893677782ad462efa.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '[스페셜 오더] ONE POCKET T-SHIRT new ver. (10 COLORS)', 48000, '상품번호 993892', 1410, 10, 50, 1, 1, 11, 1);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202404/11ef06d5039dd25bbb14655f204a6682.jpg?width=600', 'https://img.29cm.co.kr/item/202404/11ef06d5039dd25bbb14655f204a6682.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, 'Checker Board Graphic T-shirt in White VW3SE904-01', 33900, '상품번호 1934664', 258, 21, 47, 1, 1, 11, 1);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202404/11ef010e38ca8128bb6af3954c3216df.jpg?width=600', 'https://img.29cm.co.kr/item/202404/11ef010e38ca8128bb6af3954c3216df.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '[ 예약배송 ]_90S CLUB T(BICYCLE/BEIGE)', 68000, '상품번호 2034906', 42, 37, 48, 1, 1, 11, 1);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/next-product/2023/04/26/47f72da9ff3c49dfa0e848856fa5ca2a_20230426195311.jpg?width=600', 'https://img.29cm.co.kr/next-product/2023/04/26/47f72da9ff3c49dfa0e848856fa5ca2a_20230426195311.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, 'TE2-TS02 치코 스트라이프 티-그린', 42000, '상품번호 2526047', 28, 10, 49, 1, 1, 11, 1);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202403/11eee74a7ac0684388b1e7fc2f643318.jpg?width=600', 'https://img.29cm.co.kr/item/202403/11eee74a7ac0684388b1e7fc2f643318.jpg?width=600', seq_pd_id.currval);
+
+
+-- WOMEN -> 상의 -> 긴소매 티셔츠 + URL
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '[3way] [반팔 or 긴팔] [반팔 5/17 예약발송]_(우먼) WAVE 로고 레이어드 티셔츠_10COLOR', 54000, '상품번호 2416647', 164, 35, 52, 1, 1, 11, 2);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202405/11ef0e87f2f634ec892b07193428ad5b.jpg?width=600', 'https://img.29cm.co.kr/item/202405/11ef0e87f2f634ec892b07193428ad5b.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, 'NU NOSTALGIA LONG SLEEVE (4 COLORS)', 72000, '상품번호 2469332', 107, 0, 54, 1, 1, 11, 2);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202403/11eedba99778179291a5efbae40926c1.jpg?width=600', 'https://img.29cm.co.kr/item/202403/11eedba99778179291a5efbae40926c1.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '발리안트 타이거 롱슬리브 화이트', 52000, '상품번호 1193843', 260, 35, 53, 1, 1, 11, 2);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/next-product/2021/08/19/a26e411c168b493aa9ff53e780821721_20210819183153.jpg?width=600', 'https://img.29cm.co.kr/next-product/2021/08/19/a26e411c168b493aa9ff53e780821721_20210819183153.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '3 IN 1 LAYERED TOP_WHITE', 69000, '상품번호 2505212', 114, 34, 55, 1, 1, 11, 2);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202403/11eed7f120a7ebb882f2a9150420fcc9.jpg?width=600', 'https://img.29cm.co.kr/item/202403/11eed7f120a7ebb882f2a9150420fcc9.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '[선오픈]_WAVE SWEATER_PALE BLUE_LC242_KN03PB', 178000, '상품번호 2599339', 7, 0, 47, 1, 1, 11, 2);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202404/11ef01e2ed55bb949367b38610a9fe08.jpg?width=600', 'https://img.29cm.co.kr/item/202404/11ef01e2ed55bb949367b38610a9fe08.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, 'Minquiers 18 (088) ASJM2314326-088', 118000, '상품번호 1959063', 919, 12, 52, 1, 1, 11, 2);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202404/11ef039e8c18b403b9bb5be5f6260774.jpg?width=600', 'https://img.29cm.co.kr/item/202404/11ef039e8c18b403b9bb5be5f6260774.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '[선오픈] _WAVE SWEATER_BLACK_LC242_KN03BK', 178000, '상품번호 2599340', 14, 0, 49, 1, 1, 11, 2);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202404/11ef01e2dc85617e93679b89f7c0348e.jpg?width=600', 'https://img.29cm.co.kr/item/202404/11ef01e2dc85617e93679b89f7c0348e.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, 'Boat-neck Color Patch Tee (Cream/Blue)', 52000, '상품번호 2469578', 253, 21, 51, 1, 1, 11, 2);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202403/11eedd35305d4d3c91a5092c447ff010.jpg?width=600', 'https://img.29cm.co.kr/item/202403/11eedd35305d4d3c91a5092c447ff010.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '시그니처 로고 클래식 긴팔티-라이트그레이', 36000, '상품번호 1191502', 573, 25, 55, 1, 1, 11, 2);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/next-product/2023/03/15/2aafc053bf784682a9f1f19618ed02ed_20230315173423.jpg?width=600', 'https://img.29cm.co.kr/next-product/2023/03/15/2aafc053bf784682a9f1f19618ed02ed_20230315173423.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '[5/29 예약배송]_RAGLAN LAEP T-SHIRT_BLUE_LC241_TS11BL', 75000, '상품번호 2469142', 88, 0, 53, 1, 1, 11, 2);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/next-product/2024/02/23/671b2cf3e8f5441b95a896e326fc7186_20240223012623.jpg?width=600', 'https://img.29cm.co.kr/next-product/2024/02/23/671b2cf3e8f5441b95a896e326fc7186_20240223012623.jpg?width=600', seq_pd_id.currval);
+
+
+-- WOMEN -> 상의 -> 슬리브리스 + URL
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '[29CM 단독]_Stripe Square Sleeveless - Ivory', 26800, '상품번호 1635389', 744, 25, 55, 1, 1, 11, 3);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/next-product/2022/07/22/ce1ec8b2d8844f3681c31a298d329cdc_20220722121512.jpg?width=600', 'https://img.29cm.co.kr/next-product/2022/07/22/ce1ec8b2d8844f3681c31a298d329cdc_20220722121512.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '[10차 리오더]Ballet Sleeveless-Black', 33000, '상품번호 2045218', 560, 10, 53, 1, 1, 11, 3);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/next-product/2023/05/05/13cdf29362a748beb8fc6b4b71dbcc84_20230505211513.jpg?width=600', 'https://img.29cm.co.kr/next-product/2023/05/05/13cdf29362a748beb8fc6b4b71dbcc84_20230505211513.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '베이직 R 슬리브리스 (10컬러)', 19000, '상품번호 1946684', 616, 0, 51, 1, 1, 11, 3);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202403/11eee2a9782e621a9a76fd12b2d60efa.jpg?width=600', 'https://img.29cm.co.kr/item/202403/11eee2a9782e621a9a76fd12b2d60efa.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, 'Sylvia knit (Black)', 95000, '상품번호 2522173', 10, 0, 47, 1, 1, 11, 3);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202403/11eede11c3342a1491a5b55fc1479933.jpg?width=600', 'https://img.29cm.co.kr/item/202403/11eede11c3342a1491a5b55fc1479933.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '[스테이씨 수민 착용]_SIKN2031 cotton flower Jacquard bustier_Cobalt blue', 64000, '상품번호 1569822', 126, 30, 46, 1, 1, 11, 3);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/next-product/2022/05/23/0a699e4d995e458184192ec3b102588f_20220523172438.jpg?width=600', 'https://img.29cm.co.kr/next-product/2022/05/23/0a699e4d995e458184192ec3b102588f_20220523172438.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, 'Calm Tank Top- 9Colors', 52000, '상품번호 1971232', 342, 0, 49, 1, 1, 11, 3);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202405/11ef0b41626ec1d1b9bb19ba4f9ff387.jpg?width=600', 'https://img.29cm.co.kr/item/202405/11ef0b41626ec1d1b9bb19ba4f9ff387.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '모달 브라탑 U넥', 39900, '상품번호 2592255', 42, 26, 54, 1, 1, 11, 3);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202404/11eefff15853282e93676d75bfbfbed6.jpg?width=600', 'https://img.29cm.co.kr/item/202404/11eefff15853282e93676d75bfbfbed6.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '[36차 리오더][예약발송5/20이후] Leah Sleeveless top', 57000, '상품번호 1635993', 367, 0, 48, 1, 1, 11, 3);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/next-product/2022/07/20/672a6cecf21949ca84304be4ddf151ad_20220720160136.jpg?width=600', 'https://img.29cm.co.kr/next-product/2022/07/20/672a6cecf21949ca84304be4ddf151ad_20220720160136.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, 'Via Sleeveless_Natural Beige 2차', 63000, '상품번호 2627791', 5, 5, 52, 1, 1, 11, 3);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202405/11ef0ccfa7b5fcd5b9bb01b42c64cc09.jpg?width=600', 'https://img.29cm.co.kr/item/202405/11ef0ccfa7b5fcd5b9bb01b42c64cc09.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '[SET 상품]레이어 가디건 & 슬리브리스 세트_Black', 52500, '상품번호 2521691', 51, 29, 54, 1, 1, 11, 3);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202403/11eedd20a1f8c0e89a7659317dfc6aa8.jpg?width=600', 'https://img.29cm.co.kr/item/202403/11eedd20a1f8c0e89a7659317dfc6aa8.jpg?width=600', seq_pd_id.currval);
+
+
+-- WOMEN -> 상의 -> 스웨트셔츠 + URL
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, 'STRIPE COLLAR HALF T-SHIRT NAVY', 61000, '상품번호 1515580', 592, 20, 52, 1, 1, 11, 4);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/next-product/2022/04/18/b6be45cf72094d93a0304bd64e5ab410_20220418175202.jpg?width=600', 'https://img.29cm.co.kr/next-product/2022/04/18/b6be45cf72094d93a0304bd64e5ab410_20220418175202.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '[2차 5/27이내 예약배송] Sheer sweatshirt (White)', 72000, '상품번호 2623741', 6, 10, 47, 1, 1, 11, 4);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202405/11ef0f2f65d2ae0dbb14a7e7ce35520d.jpg?width=600', 'https://img.29cm.co.kr/item/202405/11ef0f2f65d2ae0dbb14a7e7ce35520d.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, 'Lc NYLON SWEATSHIRT_BLACK NAVY_LC241_TS08NB', 109000, '상품번호 2469993', 196, 0, 46, 1, 1, 11, 4);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/next-product/2024/02/23/bbcde942a5bf4d74922d31b17e240764_20240223012521.jpg?width=600', 'https://img.29cm.co.kr/next-product/2024/02/23/bbcde942a5bf4d74922d31b17e240764_20240223012521.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '[SET] 아치 로고 반팔 크루넥 셋업_멜란지그레이', 82900, '상품번호 2540888', 18, 46, 55, 1, 1, 11, 4);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202405/11ef0c4ce543d449b9bbab42b8264368.jpg?width=600', 'https://img.29cm.co.kr/item/202405/11ef0c4ce543d449b9bbab42b8264368.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, 'Lc NYLON SWEATSHIRT_WHITE_LC241_TS08WH', 109000, '상품번호 2469994', 153, 0, 48, 1, 1, 11, 4);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202402/11eed6e8cc126baa91a51dd4642a2add.jpg?width=600', 'https://img.29cm.co.kr/item/202402/11eed6e8cc126baa91a51dd4642a2add.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '[2차 5/27이내 예약배송] Sheer sweatshirt (Black)', 72000, '상품번호 2623742', 3, 10, 53, 1, 1, 11, 4);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202405/11ef0f3de1a47d57bb14e9217ef44d04.jpg?width=600', 'https://img.29cm.co.kr/item/202405/11ef0f3de1a47d57bb14e9217ef44d04.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '[Woman]워싱 코튼 와이드 럭비 맨투맨_Midnight blue', 62800, '상품번호 2456124', 298, 39, 54, 1, 1, 11, 4);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202402/11eeca12c865f07191eb4fd6b2e173f0.jpg?width=600', 'https://img.29cm.co.kr/item/202402/11eeca12c865f07191eb4fd6b2e173f0.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, 'JUVENTUD COMBINATION RAGLAN SWEATSHIRT HEATHER GRAY', 69000, '상품번호 1680270', 371, 50, 45, 1, 1, 11, 4);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/next-product/2022/08/22/310a5491e28e47109573f118f0ef6793_20220822174613.jpg?width=600', 'https://img.29cm.co.kr/next-product/2022/08/22/310a5491e28e47109573f118f0ef6793_20220822174613.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '[4Colors]_테니스 하프 집업 조거 세트', 108000, '상품번호 1211307', 2114, 43, 51, 1, 1, 11, 4);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/next-product/2023/03/03/b8d21fbe1ea34712b3576d680976f9ca_20230303100950.jpg?width=600', 'https://img.29cm.co.kr/next-product/2023/03/03/b8d21fbe1ea34712b3576d680976f9ca_20230303100950.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, 'CROP RAGLAN CREWNECK SHORT-SWEAT HEATHER GRAY', 49000, '상품번호 1421653', 449, 43, 50, 1, 1, 11, 4);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/next-product/2022/02/25/dc97911643174a43badd3c6259969f69_20220225140844.jpg?width=600', 'https://img.29cm.co.kr/next-product/2022/02/25/dc97911643174a43badd3c6259969f69_20220225140844.jpg?width=600', seq_pd_id.currval);
+
+
+-- WOMEN -> 상의 -> 후디 + URL
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, 'LACE HOODIE DOVE', 79000, '상품번호 2052579', 103, 0, 55, 1, 1, 11, 5);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/next-product/2023/05/03/a1f249782bd14fb18b728bb311c900ca_20230503114848.jpg?width=700', 'https://img.29cm.co.kr/next-product/2023/05/03/a1f249782bd14fb18b728bb311c900ca_20230503114848.jpg?width=700', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '[29CM 단독] STRIPE HOODED TOP BLACK', 69000, '상품번호 2431861', 28, 30, 55, 1, 1, 11, 5);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202402/11eed5f46e87bda8b23899e4e0e87993.jpg?width=600', 'https://img.29cm.co.kr/item/202402/11eed5f46e87bda8b23899e4e0e87993.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '[29CM 단독] DOT HOODED TOP MOON', 65000, '상품번호 2431849', 7, 30, 55, 1, 1, 11, 5);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202402/11eed5f5159df0c083777375d05df229.jpg?width=600', 'https://img.29cm.co.kr/item/202402/11eed5f5159df0c083777375d05df229.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, 'LACE HOODED SHORT SLEEVE TEE_WHITE', 52000, '상품번호 2548519', 5, 29, 51, 1, 1, 11, 5);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202403/11eeec4a5945b6a89367c562d6d0a6b4.jpg?width=600', 'https://img.29cm.co.kr/item/202403/11eeec4a5945b6a89367c562d6d0a6b4.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '프렌치 집업 후디_grey', 148000, '상품번호 1702728', 504, 0, 47, 1, 1, 11, 5);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202309/11ee4cac153f26e783bcc1d33dc57f32.jpg?width=600', 'https://img.29cm.co.kr/item/202309/11ee4cac153f26e783bcc1d33dc57f32.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '(우먼) 프루츠 세미 크롭 맨투맨_3COLOR', 59000, '상품번호 2404569', 54, 49, 45, 1, 1, 11, 5);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/next-product/2024/01/11/d6e9b16571a9498dad94429d18436bc2_20240111095010.jpg?width=600', 'https://img.29cm.co.kr/next-product/2024/01/11/d6e9b16571a9498dad94429d18436bc2_20240111095010.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '[29CM 단독] DOT HOODED TOP DOVE', 65000, '상품번호 2431850', 11, 30, 49, 1, 1, 11, 5);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202402/11eed5f4c6517e24b238910dbc7de44e.jpg?width=600', 'https://img.29cm.co.kr/item/202402/11eed5f4c6517e24b238910dbc7de44e.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '빅 트위치 루즈핏 후드 티셔츠 아이보리', 79000, '상품번호 1267080', 92, 50, 51, 1, 1, 11, 5);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/next-product/2022/08/04/f5fafd05695c4868ab8b7e87f3173dd2_20220804105037.jpg?width=600', 'https://img.29cm.co.kr/next-product/2022/08/04/f5fafd05695c4868ab8b7e87f3173dd2_20220804105037.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '유스풀 벌룬 후드집업 네이비 SJHD1327', 57000, '상품번호 1227769', 245, 30, 52, 1, 1, 11, 5);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/next-product/2021/09/14/3368a970f900456192753c9d3f5b08db_20210914112933.jpg?width=600', 'https://img.29cm.co.kr/next-product/2021/09/14/3368a970f900456192753c9d3f5b08db_20210914112933.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, 'BLURRY BUTTON HOODIE KNIT_2COLORS_GRAY', 74000, '상품번호 2459541', 79, 20, 54, 1, 1, 11, 5);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/next-product/2024/02/08/67cb5b961c6b47d6b3cade7e6d0ddb45_20240208094849.jpg?width=600', 'https://img.29cm.co.kr/next-product/2024/02/08/67cb5b961c6b47d6b3cade7e6d0ddb45_20240208094849.jpg?width=600', seq_pd_id.currval);
+
+
+-- WOMEN -> 상의 -> 셔츠 + URL
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, 'TE5-SH07 페이퍼셔츠 (10 Color)', 59700, '상품번호 1911054', 15311, 16, 47, 1, 1, 11, 6);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202404/11ef02ddc815e25cbb6acd7db6ab5317.jpg?width=600', 'https://img.29cm.co.kr/item/202404/11ef02ddc815e25cbb6acd7db6ab5317.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '[6차 리오더]Wind Stripe Shirt-Blue', 54000, '상품번호 2147208', 777, 16, 45, 1, 1, 11, 6);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202308/11ee3a831bbd1fcf8a6969d67e2ce6f3.jpg?width=600', 'https://img.29cm.co.kr/item/202308/11ee3a831bbd1fcf8a6969d67e2ce6f3.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, 'Natural Overfit Shirt-6 Colors', 54000, '상품번호 1895749', 1177, 16, 49, 1, 1, 11, 6);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/next-product/2023/04/13/dc2f54538cbd4947baa7140d10e77dc1_20230413140433.jpg?width=600', 'https://img.29cm.co.kr/next-product/2023/04/13/dc2f54538cbd4947baa7140d10e77dc1_20230413140433.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '[29CM 단독] wrinkled lapel shirts (6 colors)', 103000, '상품번호 2602224', 293, 0, 48, 1, 1, 11, 6);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202405/11ef082b4a654033bb140d06637c9ab3.jpg?width=600', 'https://img.29cm.co.kr/item/202405/11ef082b4a654033bb140d06637c9ab3.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '[Woman]클래식 세미 오버 옥스포드 셔츠_Blue ST', 61500, '상품번호 2478615', 273, 43, 52, 1, 1, 11, 6);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202402/11eecf0f3d7ee740b238d9614843a952.jpg?width=600', 'https://img.29cm.co.kr/item/202402/11eecf0f3d7ee740b238d9614843a952.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, 'TE2-SH04 고방 체크 반팔 셔츠-블루', 65700, '상품번호 2588904', 12, 10, 47, 1, 1, 11, 6);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202404/11eefbbc727e7e86bb6a455e733ef03f.jpg?width=600', 'https://img.29cm.co.kr/item/202404/11eefbbc727e7e86bb6a455e733ef03f.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, 'TE2-SH01 트윈포켓 반팔셔츠-크림옐로우', 63700, '상품번호 2588772', 9, 10, 47, 1, 1, 11, 6);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202404/11eefbbaf311e8f988b1ff6ab2e5cfcc.jpg?width=600', 'https://img.29cm.co.kr/item/202404/11eefbbaf311e8f988b1ff6ab2e5cfcc.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, 'TE2-SH01 트윈포켓 반팔셔츠-크림화이트', 63700, '상품번호 2588766', 9, 10, 47, 1, 1, 11, 6);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202404/11eefbba96047f8b88b1314f3b448491.jpg?width=600', 'https://img.29cm.co.kr/item/202404/11eefbba96047f8b88b1314f3b448491.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, 'TE2-SH01 트윈포켓 반팔셔츠-네이비', 63700, '상품번호 2588784', 4, 10, 47, 1, 1, 11, 6);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202404/11eefbbb80a5ce82bb6acd340fe11de3.jpg?width=600', 'https://img.29cm.co.kr/item/202404/11eefbbb80a5ce82bb6acd340fe11de3.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, 'TE2-SH02 스탠다드 반팔셔츠-포그그린', 59700, '상품번호 2588815', 9, 10, 46, 1, 1, 11, 6);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202404/11eefbbc326f91bb88b13faa10f9f8be.jpg?width=600', 'https://img.29cm.co.kr/item/202404/11eefbbc326f91bb88b13faa10f9f8be.jpg?width=600', seq_pd_id.currval);
+
+
+-- WOMEN -> 상의 -> 블라우스 + URL
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '[29CM 단독] 퍼프 플라워 펀칭 블라우스_Pure White', 62000, '상품번호 2595413', 37, 38, 55, 1, 1, 11, 7);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202404/11eefc6638effebabb6af36a982792a4.jpg?width=600', 'https://img.29cm.co.kr/item/202404/11eefc6638effebabb6af36a982792a4.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '[29CM단독][7차리오더]_타이 턱 반팔 블라우스 라이트베이지 (AEBL4B401I1)', 119000, '상품번호 2526237', 17, 21, 51, 1, 1, 11, 7);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202403/11eee67f7407148e9a76cf85462560f4.jpg?width=600', 'https://img.29cm.co.kr/item/202403/11eee67f7407148e9a76cf85462560f4.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '퍼프 플라워 펀칭 블라우스_Black', 62000, '상품번호 2595414', 13, 33, 52, 1, 1, 11, 7);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202404/11eefc66210985fc93677b5106ac3f66.jpg?width=600', 'https://img.29cm.co.kr/item/202404/11eefc66210985fc93677b5106ac3f66.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, 'Ribbon Shirring Blouse in Beige VW4MB100-91', 118000, '상품번호 2568791', 54, 10, 48, 1, 1, 11, 7);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202404/11ef0074e730b534bb6a13b2c73bc106.jpg?width=600', 'https://img.29cm.co.kr/item/202404/11ef0074e730b534bb6a13b2c73bc106.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, 'comos 836 neck twisted puff blouse (2color)', 79000, '상품번호 2513511', 123, 10, 49, 1, 1, 11, 7);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202403/11eedac42e5e48ec91a5a9ce3cb68213.jpg?width=600', 'https://img.29cm.co.kr/item/202403/11eedac42e5e48ec91a5a9ce3cb68213.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '[24H 신상포커스 쿠폰]_퓨어 스트랩 블라우스_Pure White', 62000, '상품번호 2622113', 0, 28, 47, 1, 1, 11, 7);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202405/11ef09123cb9692e892b59d4c1ef8de6.jpg?width=600', 'https://img.29cm.co.kr/item/202405/11ef09123cb9692e892b59d4c1ef8de6.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '[29CM 단독]Daisy String Blouse_3Color', 108000, '상품번호 2442238', 144, 16, 47, 1, 1, 11, 7);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202402/11eec81d4e11a5008377798f4204a5b9.jpg?width=600', 'https://img.29cm.co.kr/item/202402/11eec81d4e11a5008377798f4204a5b9.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '[예약배송]Front ribbon point blouse_Ivory', 84000, '상품번호 2609352', 7, 5, 50, 1, 1, 11, 7);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/next-product/2024/04/24/5a2183246e864e5ab23e8d5e97595df1_20240424145135.jpg?width=600', 'https://img.29cm.co.kr/next-product/2024/04/24/5a2183246e864e5ab23e8d5e97595df1_20240424145135.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '[21차_예약발송] THREE RIBBON BLOUSE(IV)', 88000, '상품번호 2195239', 705, 21, 46, 1, 1, 11, 7);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202403/11eedc649d62eb9a82f2373280f1466a.jpg?width=600', 'https://img.29cm.co.kr/item/202403/11eedc649d62eb9a82f2373280f1466a.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, 'OPEN BACK RIBBON PUFF BLOUSE_BLACK', 62000, '상품번호 2037018', 531, 19, 46, 1, 1, 11, 7);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/next-product/2023/05/09/154d6e38a62449c2beaf60a8d68b49fc_20230509170002.jpg?width=600', 'https://img.29cm.co.kr/next-product/2023/05/09/154d6e38a62449c2beaf60a8d68b49fc_20230509170002.jpg?width=600', seq_pd_id.currval);
+
+
+-- WOMEN -> 바지 -> 부츠컷
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '[김소현 착용] 50 Jane Denim (2colors)', 118000, '상품번호 2169397', 3429, 0, 55, 1, 1, 11, 8);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202401/11eeb9a8bb461282b238df50a54fa1e8.jpg?width=600', 'https://img.29cm.co.kr/item/202401/11eeb9a8bb461282b238df50a54fa1e8.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '세미 부츠컷 슬랙스 블랙 MDPT021BLACK', 89000, '상품번호 1690239', 566, 32, 54, 1, 1, 11, 8);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/next-product/2022/08/29/10cfe658f7f340d18260bdda5d0c28f4_20220829154012.jpg?width=600', 'https://img.29cm.co.kr/next-product/2022/08/29/10cfe658f7f340d18260bdda5d0c28f4_20220829154012.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '[3차 5/20, 2차 5/16 예약배송]_comos 1048 layered tuck wide slacks (beige)', 92000, '상품번호 2478215', 42, 10, 49, 1, 1, 11, 8);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202402/11eed0810278225c8377f91dbbdb6c42.jpg?width=600', 'https://img.29cm.co.kr/item/202402/11eed0810278225c8377f91dbbdb6c42.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, 'boot-cut ribbed leggings pants (3colors)', 59000, '상품번호 2508459', 40, 5, 50, 1, 1, 11, 8);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202403/11eed960112921dc9a76f7fc3573d849.jpg?width=600', 'https://img.29cm.co.kr/item/202403/11eed960112921dc9a76f7fc3573d849.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, 'JACQUARD BOOTCUT PANTS_BEIGE', 149000, '상품번호 2604817', 1, 0, 52, 1, 1, 11, 8);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202404/11ef00749fe780929367f34c6ec88d1e.jpg?width=600', 'https://img.29cm.co.kr/item/202404/11ef00749fe780929367f34c6ec88d1e.jpg?width=600', seq_pd_id.currval);
+
+
+-- WOMEN -> 바지 -> 쇼트
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '버나드 7907 카펜터 버뮤다 미디움인디고 쇼츠팬츠', 76000, '상품번호 2059507', 116, 20, 51, 1, 1, 11, 9);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/next-product/2023/05/08/eb41c1fbeff7460e88845684b8650caa_20230508160718.jpg?width=600', 'https://img.29cm.co.kr/next-product/2023/05/08/eb41c1fbeff7460e88845684b8650caa_20230508160718.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '[기본핏 OR 레귤러핏 선택] 크리스피 나일론 쇼츠_12COLOR', 34000, '상품번호 2131065', 715, 23, 52, 1, 1, 11, 9);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202403/11eeecb0873aa2149367011dbc2244b4.jpg?width=600', 'https://img.29cm.co.kr/item/202403/11eeecb0873aa2149367011dbc2244b4.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '프릴 펀칭 쇼츠_Pure White', 62000, '상품번호 2600893', 9, 28, 50, 1, 1, 11, 9);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202404/11eefe0d9c818d8788b1411c0a727bd1.jpg?width=600', 'https://img.29cm.co.kr/item/202404/11eefe0d9c818d8788b1411c0a727bd1.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '[패키지][기본핏 OR 레귤러핏 선택] 크리스피 나일론 쇼츠_12COLOR', 68000, '상품번호 2561615', 57, 52, 53, 1, 1, 11, 9);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202404/11ef004b89c745d788b13bcd9d328c3c.jpg?width=600', 'https://img.29cm.co.kr/item/202404/11ef004b89c745d788b13bcd9d328c3c.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '[Set-Up]시어 프릴 후디드 윈드브레이커+펀칭 쇼츠_Pure White', 149000, '상품번호 2600907', 4, 43, 51, 1, 1, 11, 9);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202404/11eefe0c520ed34588b1fb753eda27d8.jpg?width=600', 'https://img.29cm.co.kr/item/202404/11eefe0c520ed34588b1fb753eda27d8.jpg?width=600', seq_pd_id.currval);
+
+-- WOMEN -> 바지 -> 슬림
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '[1차]_[김나영 착용] CIGARETTE MID PANTS BLACK', 99000, '상품번호 2442739', 81, 15, 47, 1, 1, 11, 10);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202404/11eef09a68f35066bb6a0fe81feeeaa3.jpg?width=600', 'https://img.29cm.co.kr/item/202404/11eef09a68f35066bb6a0fe81feeeaa3.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '루즈 쇼츠 Chino', 99000, '상품번호 1882476', 34, 10, 45, 1, 1, 11, 10);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/next-product/2023/09/04/63563bd4e4a9469f97bc75e78fdaca51_20230904084144.jpg?width=600', 'https://img.29cm.co.kr/next-product/2023/09/04/63563bd4e4a9469f97bc75e78fdaca51_20230904084144.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, 'W SLIM BOOT-CUT DENIM PANTS light blue', 149000, '상품번호 1796811', 375, 5, 48, 1, 1, 11, 10);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202310/11ee73a0488b14f5a5b3e37be8efe67a.jpg?width=600', 'https://img.29cm.co.kr/item/202310/11ee73a0488b14f5a5b3e37be8efe67a.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '[ITZY 예지, (여자)아이들 민니, 엔믹스 릴리 착용]_Thin Bootscut Pants LIGHT BLUE', 66000, '상품번호 2274347', 98, 30, 49, 1, 1, 11, 10);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202310/11ee68a121c3621f8a7fa78b2bfdd50b.jpg?width=600', 'https://img.29cm.co.kr/item/202310/11ee68a121c3621f8a7fa78b2bfdd50b.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, 'P3194 피그먼트 플레어 팬츠_Ivory', 87000, '상품번호 2610199', 1, 19, 45, 1, 1, 11, 10);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202405/11ef0ce4960f8116892b4b076825c1e8.jpg?width=600', 'https://img.29cm.co.kr/item/202405/11ef0ce4960f8116892b4b076825c1e8.jpg?width=600', seq_pd_id.currval);
+
+
+-- WOMEN -> 바지 -> 스트레이트
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '클래식 데님_vintage indigo', 148000, '상품번호 997513', 2374, 0, 50, 1, 1, 11, 11);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/next-product/2021/02/25/3c1af1e3f79344f6b93fbeaf1e277710_20210225174242.jpg?width=600', 'https://img.29cm.co.kr/next-product/2021/02/25/3c1af1e3f79344f6b93fbeaf1e277710_20210225174242.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '썸머울 와이드 팬츠_black', 198000, '상품번호 996438', 723, 0, 50, 1, 1, 11, 11);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/next-product/2021/02/25/9623b1c2ef5c417cb09ad4176c3465dc_20210225111202.jpg?width=600', 'https://img.29cm.co.kr/next-product/2021/02/25/9623b1c2ef5c417cb09ad4176c3465dc_20210225111202.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, 'TD5-DN02 스트레이트 데님 팬츠-연청', 79500, '상품번호 1678725', 630, 0, 47, 1, 1, 11, 11);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/next-product/2022/01/19/461b02ce9e0e4ff7b6edc3a9385d420a_20220119105743.jpg?width=600', 'https://img.29cm.co.kr/next-product/2022/01/19/461b02ce9e0e4ff7b6edc3a9385d420a_20220119105743.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, 'skirt layered pants (light gray)', 246000, '상품번호 2598392', 3, 30, 52, 1, 1, 11, 11);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202404/11eefe12e4b9c3e49367ff90f5f1bc9a.jpg?width=600', 'https://img.29cm.co.kr/item/202404/11eefe12e4b9c3e49367ff90f5f1bc9a.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '썸머울 와이드 팬츠_charcoal', 198000, '상품번호 996985', 647, 0, 51, 1, 1, 11, 11);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/next-product/2021/02/25/7831d2d74ba8460da59040e999ff9d3d_20210225145248.jpg?width=600', 'https://img.29cm.co.kr/next-product/2021/02/25/7831d2d74ba8460da59040e999ff9d3d_20210225145248.jpg?width=600', seq_pd_id.currval);
+
+
+-- WOMEN -> 바지 -> 와이드
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '[스페셜오더][6차 리오더] Comfort string pants_2colors', 99000, '상품번호 1991048', 350, 20, 55, 1, 1, 11, 12);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202405/11ef0e6157491a87b9bbc1c57af2d997.jpg?width=600', 'https://img.29cm.co.kr/item/202405/11ef0e6157491a87b9bbc1c57af2d997.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, 'Signature Semi Wide Denim Pants_3colors', 116000, '상품번호 2472990', 770, 0, 51, 1, 1, 11, 12);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202403/11eeecb2ead5ad8b88b1f918b36519b5.jpg?width=600', 'https://img.29cm.co.kr/item/202403/11eeecb2ead5ad8b88b1f918b36519b5.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '클래식 데님_vintage indigo', 148000, '상품번호 997513', 2374, 0, 55, 1, 1, 11, 12);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/next-product/2021/02/25/3c1af1e3f79344f6b93fbeaf1e277710_20210225174242.jpg?width=600', 'https://img.29cm.co.kr/next-product/2021/02/25/3c1af1e3f79344f6b93fbeaf1e277710_20210225174242.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '[유튜버PICK] 원턱 와이드 슬랙스 차콜 MDPT025CHARCOAL', 88000, '상품번호 2176124', 206, 28, 49, 1, 1, 11, 12);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202404/11ef05ede17cdfcdbb14c97d191a201f.jpg?width=600', 'https://img.29cm.co.kr/item/202404/11ef05ede17cdfcdbb14c97d191a201f.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '[Package]클래식 테이퍼드 와이드 원턱 린넨 팬츠_9Color', 72000, '상품번호 1514380', 182, 31, 53, 1, 1, 11, 12);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/next-product/2023/03/28/14ccd8119a6e491b99b2db55f7d8c17b_20230328141600.jpg?width=600', 'https://img.29cm.co.kr/next-product/2023/03/28/14ccd8119a6e491b99b2db55f7d8c17b_20230328141600.jpg?width=600', seq_pd_id.currval);
+
+
+-- WOMEN -> 바지 -> 데님
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, 'RELAXED FIT JEANS_BLUE_LC241_PT13BL', 149000, '상품번호 2468568', 123, 5, 51, 1, 1, 11, 13);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/next-product/2024/04/26/a0bc1b522928411cb8058d6db997d69b_20240426110058.jpg?width=600', 'https://img.29cm.co.kr/next-product/2024/04/26/a0bc1b522928411cb8058d6db997d69b_20240426110058.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '[라이트블루,미들블루 M,L 6/3 예약배송]_에센셜 스트레이트 데님 팬츠_3colors', 89000, '상품번호 2477761', 38, 10, 46, 1, 1, 11, 13);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202404/11eefbb22afb32e8bb6a5b893d754af6.jpg?width=600', 'https://img.29cm.co.kr/item/202404/11eefbb22afb32e8bb6a5b893d754af6.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, 'LW147 하이웨이스트 4부 데님 팬츠 - 진청', 70000, '상품번호 1519621', 253, 25, 45, 1, 1, 11, 13);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/next-product/2022/04/20/680c820b4bd84538973f58b58d331b36_20220420182542.jpg?width=600', 'https://img.29cm.co.kr/next-product/2022/04/20/680c820b4bd84538973f58b58d331b36_20220420182542.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '파번 7505 카펜터 와이드핏 라이트인디고 데님팬츠', 86000, '상품번호 2448922', 11, 20, 51, 1, 1, 11, 13);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202402/11eec194fb36b0b6b2387764f8ad161a.jpg?width=600', 'https://img.29cm.co.kr/item/202402/11eec194fb36b0b6b2387764f8ad161a.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '페이트로 7601 세미와이드핏 크림 데님팬츠', 69500, '상품번호 609973', 1411, 10, 53, 1, 1, 11, 13);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/next-product/2023/03/29/fcb16f04a4794d419e3da93d9e059592_20230329151401.jpg?width=600', 'https://img.29cm.co.kr/next-product/2023/03/29/fcb16f04a4794d419e3da93d9e059592_20230329151401.jpg?width=600', seq_pd_id.currval);
+
+
+-- WOMEN -> 바지 -> 트레이닝
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '나일론 원턱 팬츠_블랙', 62000, '상품번호 1573242', 1060, 31, 55, 1, 1, 11, 15);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/next-product/2022/10/05/c1972fd0752f4aedb40fd2b89f581e7a_20221005170744.jpg?width=600', 'https://img.29cm.co.kr/next-product/2022/10/05/c1972fd0752f4aedb40fd2b89f581e7a_20221005170744.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '나일론 원턱 팬츠_청록', 62000, '상품번호 1641564', 1758, 31, 55, 1, 1, 11, 15);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/next-product/2022/07/22/e2e98015564548df94e1ccba17e15d7c_20220722150358.jpg?width=600', 'https://img.29cm.co.kr/next-product/2022/07/22/e2e98015564548df94e1ccba17e15d7c_20220722150358.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '[BEST] Fortune Pants (9colors)', 79000, '상품번호 2138961', 808, 12, 47, 1, 1, 11, 15);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202405/11ef0e6aca801adc892b9f8693af0dbc.jpg?width=600', 'https://img.29cm.co.kr/item/202405/11ef0e6aca801adc892b9f8693af0dbc.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '[RENEWAL] Anorak 3-Piece Full Setup_Mint Grey', 69000, '상품번호 1051179', 734, 36, 49, 1, 1, 11, 15);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/next-product/2023/05/26/26c7c6b5bf3946f2afb8ee3c9219893b_20230526132039.jpg?width=600', 'https://img.29cm.co.kr/next-product/2023/05/26/26c7c6b5bf3946f2afb8ee3c9219893b_20230526132039.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '[BEST] Membagi pants (8colors)', 75000, '상품번호 2117551', 670, 5, 52, 1, 1, 11, 15);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202405/11ef0846a31f390bbb14e926d8fdec00.jpg?width=600', 'https://img.29cm.co.kr/item/202405/11ef0846a31f390bbb14e926d8fdec00.jpg?width=600', seq_pd_id.currval);
+
+
+-- WOMEN -> 바지 -> 레깅스
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, 'boot-cut ribbed leggings pants (3colors)', 59000, '상품번호 2508459', 40, 5, 52, 1, 1, 11, 16);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202403/11eed960112921dc9a76f7fc3573d849.jpg?width=600', 'https://img.29cm.co.kr/item/202403/11eed960112921dc9a76f7fc3573d849.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '여성 요가복 DEVI-B0013-블랙 필라테스 군살제로 바이커 5부', 23000, '상품번호 347673', 821, 10, 54, 1, 1, 11, 16);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/next-product/2021/04/28/859e40de92f142d8a830691f3a46e476_20210428113536.jpg?width=600', 'https://img.29cm.co.kr/next-product/2021/04/28/859e40de92f142d8a830691f3a46e476_20210428113536.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '모어아웃 여성요가복 필라테스복 피트니스 조거 베이직 데일리 코튼 팬츠 5PP501', 40,000, '상품번호 1286810', 259, 15, 50, 1, 1, 11, 16);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202311/11ee7d2feb17bb4983bce51cd363ebd1.jpg?width=600', 'https://img.29cm.co.kr/item/202311/11ee7d2feb17bb4983bce51cd363ebd1.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '에어쿨링 4.5부 레깅스_블랙', 43000, '상품번호 2014162', 159, 23, 52, 1, 1, 11, 16);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/next-product/2023/04/06/12b959602a464780b128c79942461ee6_20230406173346.jpg?width=600', 'https://img.29cm.co.kr/next-product/2023/04/06/12b959602a464780b128c79942461ee6_20230406173346.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '여성 요가복 DEVI-B0073-블랙 필라테스 군살제로 와이드 부츠컷 레깅스', 32000, '상품번호 2365021', 76, 15, 53, 1, 1, 11, 16);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202312/11ee9ab30c3aaf88837729f585a8848a.jpg?width=600', 'https://img.29cm.co.kr/item/202312/11ee9ab30c3aaf88837729f585a8848a.jpg?width=600', seq_pd_id.currval);
+
+
+-- WOMEN -> 바지 -> 슬랙스
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, 'SIPT7123 T/N 세미 부츠컷 슬랙스_Black', 109000, '상품번호 2623192', 1, 10, 45, 1, 1, 11, 17);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202405/11ef08603d3d39c5b9bb8d43f78fbc60.jpg?width=600', 'https://img.29cm.co.kr/item/202405/11ef08603d3d39c5b9bb8d43f78fbc60.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, 'MINIMAL SLACKS (BLACK)', 145000, '상품번호 2594739', 0, 0, 47, 1, 1, 11, 17);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202404/11eefbca32571fe188b15fd3659d131a.jpg?width=600', 'https://img.29cm.co.kr/item/202404/11eefbca32571fe188b15fd3659d131a.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, 'BELTED WAVE SLACKS (IVORY)', 110000, '상품번호 2198248', 8, 0, 46, 1, 1, 11, 17);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202402/11eec568ee1de0b0b238d523eb5bdf54.jpg?width=600', 'https://img.29cm.co.kr/item/202402/11eec568ee1de0b0b238d523eb5bdf54.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '90s Pinstripe Loose Slacks (BLACK)', 198000, '상품번호 2144072', 6, 0, 50, 1, 1, 11, 17);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202307/11ee252d6eef0c08a5ca45f4913d1612.jpg?width=600', 'https://img.29cm.co.kr/item/202307/11ee252d6eef0c08a5ca45f4913d1612.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, 'Summer loose slacks (charcoal)', 118000, '상품번호 1528500', 369, 0, 49, 1, 1, 11, 17);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/next-product/2023/04/12/61cf44ed387c4b969364607f906eef86_20230412175844.jpg?width=600', 'https://img.29cm.co.kr/next-product/2023/04/12/61cf44ed387c4b969364607f906eef86_20230412175844.jpg?width=600', seq_pd_id.currval);
+
+
+-- WOMEN -> 원피스 -> 미니 원피스
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '[예약배송]_VOLUME MINI DRESS (BLACK)', 189000, '상품번호 2552690', 24, 0, 55, 1, 1, 11, 17);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202404/11eef174aa944c9c936791ef7faa03af.jpg?width=600', 'https://img.29cm.co.kr/item/202404/11eef174aa944c9c936791ef7faa03af.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '[2차 리오더] LACE CHIFFON ONE PIECE (WHITE)', 129000, '상품번호 2538242', 15, 23, 54, 1, 1, 11, 17);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202404/11eefc8485aa315588b151d35232c830.jpg?width=600', 'https://img.29cm.co.kr/item/202404/11eefc8485aa315588b151d35232c830.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, 'Terry Stripe Collar Dress (Brown/Green)', 98000, '상품번호 2492065', 15, 10, 53, 1, 1, 11, 17);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202402/11eed54f905c88a083770920cb1ed687.jpg?width=600', 'https://img.29cm.co.kr/item/202402/11eed54f905c88a083770920cb1ed687.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '[단독]_24 Summer_ D/Navy Cotton Mini Dress', 249000, '상품번호 2598684', 7, 25, 52, 1, 1, 11, 17);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202404/11ef06bdfa22451e892bdd4ec6b40026.jpg?width=600', 'https://img.29cm.co.kr/item/202404/11ef06bdfa22451e892bdd4ec6b40026.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '코튼 V 셔링 슬리브리스 원피스_Check', 87000, '상품번호 2595418', 4, 40, 51, 1, 1, 11, 17);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202404/11eefc71a9ee620388b1b338a22c1423.jpg?width=600', 'https://img.29cm.co.kr/item/202404/11eefc71a9ee620388b1b338a22c1423.jpg?width=600', seq_pd_id.currval);
+
+
+-- WOMEN -> 원피스 -> 미디 원피스
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '[29CM 단독][가희,묵화 착용][8차 예약발송] Jen Smoke dress (Ivory)', 144000, '상품번호 2519365', 44, 0, 45, 1, 1, 11, 18);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202405/11ef0829b2b5b971b9bb1b2e5d80db5b.jpg?width=600', 'https://img.29cm.co.kr/item/202405/11ef0829b2b5b971b9bb1b2e5d80db5b.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '[29CM 단독] 예약발송 11TH) moui PP denim mini ops (DENIM)', 99000, '상품번호 2463805', 23, 0, 46, 1, 1, 11, 18);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202402/11eec8fe20124282b238859d5f277466.jpg?width=600', 'https://img.29cm.co.kr/item/202402/11eec8fe20124282b238859d5f277466.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '[11차 리오더] LACE CHIFFON ONE PIECE (LIGHT YELLOW)', 129000, '상품번호 2044153', 188, 0, 46, 1, 1, 11, 18);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/next-product/2023/04/25/cc148b20fe58469d801087e667190108_20230425155352.jpg?width=600', 'https://img.29cm.co.kr/next-product/2023/04/25/cc148b20fe58469d801087e667190108_20230425155352.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '[6/4 예약배송] PINTUCK LACE DRESS [BLACK]', 189000, '상품번호 2615661', 4, 5, 48, 1, 1, 11, 18);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202404/11ef06963874bb53b9bb4f6caa52fd63.jpg?width=600', 'https://img.29cm.co.kr/item/202404/11ef06963874bb53b9bb4f6caa52fd63.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, 'PUFF SLEEVE SHIRT OPS_SKY BLUE', 126000, '상품번호 1661404', 80, 30, 50, 1, 1, 11, 18);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/next-product/2022/08/09/84c93ca2f9f34fb8a4f6f34a469de782_20220809141815.jpg?width=600', 'https://img.29cm.co.kr/next-product/2022/08/09/84c93ca2f9f34fb8a4f6f34a469de782_20220809141815.jpg?width=600', seq_pd_id.currval);
+
+
+-- WOMEN -> 원피스 -> 롱 원피스
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '맥시 스트링 슬리브리스 윈피스_Black', 75000, '상품번호 2521654', 82, 37, 55, 1, 1, 11, 19);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202403/11eedd1eebccf88a82f22f946c947f94.jpg?width=600', 'https://img.29cm.co.kr/item/202403/11eedd1eebccf88a82f22f946c947f94.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '[29CM 단독] SQUAR-NECK SLEEVELESS DRESS OFF WHITE_UDDR4B230OW', 179000, '상품번호 2571250', 17, 5, 54, 1, 1, 11, 19);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/next-product/2024/04/23/da5a5b2a191b4da89caf9950a219df9f_20240423181735.jpg?width=600', 'https://img.29cm.co.kr/next-product/2024/04/23/da5a5b2a191b4da89caf9950a219df9f_20240423181735.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '[29CM단독][사나 착용]MINOU puff sleeve embroidery dress_cream', 183000, '상품번호 2617566', 6, 15, 53, 1, 1, 11, 19);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202405/11ef0937c6f3276e892b0dece7e8a1f9.jpg?width=600', 'https://img.29cm.co.kr/item/202405/11ef0937c6f3276e892b0dece7e8a1f9.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, 'Roll up shirt ops_Navy', 185000, '상품번호 2035303', 156, 15, 52, 1, 1, 11, 19);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/next-product/2023/04/20/0efee8ca1a6d466d92f8b43576fc0db5_20230420142811.jpg?width=600', 'https://img.29cm.co.kr/next-product/2023/04/20/0efee8ca1a6d466d92f8b43576fc0db5_20230420142811.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, 'See-through Boat Neck Dress[LMBDSPDR802]-Black', 219000, '상품번호 2530860', 33, 21, 51, 1, 1, 11, 19);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202403/11eee19f39d2ccd491a5632ff5ced7ee.jpg?width=600', 'https://img.29cm.co.kr/item/202403/11eee19f39d2ccd491a5632ff5ced7ee.jpg?width=600', seq_pd_id.currval);
+
+
+-- WOMEN -> 원피스 -> 데님 원피스
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, 'Lafete (IDG) ASJF241KR67-IDG', 348000, '상품번호 2483616', 7, 5, 45, 1, 1, 11, 20);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202404/11ef06046e8a06e8892bcbfde4861eca.jpg?width=600', 'https://img.29cm.co.kr/item/202404/11ef06046e8a06e8892bcbfde4861eca.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, 'W STITCH POINT POCKET DENIM DRESS ecru', 149000, '상품번호 2530467', 4, 5, 45, 1, 1, 11, 20);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/next-product/2024/03/13/52f623a05187491983f8f15dcc49a103_20240313163736.jpg?width=600', 'https://img.29cm.co.kr/next-product/2024/03/13/52f623a05187491983f8f15dcc49a103_20240313163736.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '[M 사이즈 5/23 예약 발송]_W STITCH POINT POCKET DENIM DRESS dark navy', 149000, '상품번호 2530506', 4, 5, 46, 1, 1, 11, 20);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/next-product/2024/03/13/44f40c64173649569105aa42df2ab4d8_20240313163748.jpg?width=600', 'https://img.29cm.co.kr/next-product/2024/03/13/44f40c64173649569105aa42df2ab4d8_20240313163748.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '[29CM 단독 | 5/20 순차배송]_BACK HEART POCKET DENIM DRESS LIGHT BLUE', 88000, '상품번호 2576570', 6, 30, 47, 1, 1, 11, 20);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202404/11eef547737b569388b1e5fb82221165.jpg?width=600', 'https://img.29cm.co.kr/item/202404/11eef547737b569388b1e5fb82221165.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, 'HALTER DENIM MINI OPS', 179000, '상품번호 2429159', 38, 0, 48, 1, 1, 11, 20);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202401/11eeb9c18dbec3eb91ebc3499c239f21.jpg?width=600', 'https://img.29cm.co.kr/item/202401/11eeb9c18dbec3eb91ebc3499c239f21.jpg?width=600', seq_pd_id.currval);
+
+
+-- WOMEN -> 스커트 -> 미니
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, 'skirt layered pants (light gray)', 246000, '상품번호 2598392', 3, 30, 55, 1, 1, 11, 21);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202404/11eefe12e4b9c3e49367ff90f5f1bc9a.jpg?width=600', 'https://img.29cm.co.kr/item/202404/11eefe12e4b9c3e49367ff90f5f1bc9a.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '레이스 프릴 미디 스커트_Off White', 75000, '상품번호 2546372', 29, 37, 55, 1, 1, 11, 21);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202403/11eee7fe241ffeaf88b1674c824bb3d9.jpg?width=600', 'https://img.29cm.co.kr/item/202403/11eee7fe241ffeaf88b1674c824bb3d9.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '페이크 랩 스커트 팬츠 - 블랙', 70000, '상품번호 1928412', 277, 25, 52, 1, 1, 11, 21);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/next-product/2023/02/21/20a528570e654725830f81bc3a18e6b5_20230221104300.jpg?width=600', 'https://img.29cm.co.kr/next-product/2023/02/21/20a528570e654725830f81bc3a18e6b5_20230221104300.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, 'skirt layered pants (black)', 246000, '상품번호 2598395', 9, 30, 52, 1, 1, 11, 21);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202404/11eefe12da5f77d4bb6afb166e53a9fa.jpg?width=600', 'https://img.29cm.co.kr/item/202404/11eefe12da5f77d4bb6afb166e53a9fa.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, 'MINI FULL SKIRT IVORY_UDSK4B224IV', 119000, '상품번호 2571859', 20, 5, 51, 1, 1, 11, 21);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/next-product/2024/04/23/b88a66a7626344a8b2a3f9ef149f8b27_20240423181041.jpg?width=600', 'https://img.29cm.co.kr/next-product/2024/04/23/b88a66a7626344a8b2a3f9ef149f8b27_20240423181041.jpg?width=600', seq_pd_id.currval);
+
+
+-- WOMEN -> 스커트 -> 미디
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '데님 퍼티그 스커트_vintage indigo', 168000, '상품번호 2058072', 128, 0, 45, 1, 1, 11, 22);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/next-product/2023/05/06/e2ec9d103b0b4b98889cb53e6ac97b51_20230506190404.jpg?width=600', 'https://img.29cm.co.kr/next-product/2023/05/06/e2ec9d103b0b4b98889cb53e6ac97b51_20230506190404.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '[2차] Kline Pintuck Skirt (White)', 167000, '상품번호 2514026', 25, 0, 55, 1, 1, 11, 22);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202403/11eee04218b321ba9a76c7e2949b2094.jpg?width=600', 'https://img.29cm.co.kr/item/202403/11eee04218b321ba9a76c7e2949b2094.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '코튼 플레어 스커트_off white', 188000, '상품번호 1574092', 179, 0, 46, 1, 1, 11, 22);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/next-product/2022/06/03/4d5260a9312a46969f7f92f370f75b74_20220603190553.jpg?width=600', 'https://img.29cm.co.kr/next-product/2022/06/03/4d5260a9312a46969f7f92f370f75b74_20220603190553.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, 'STRIPE WRAP SKIRT_YELLOW', 139000, '상품번호 2604823', 1, 0, 54, 1, 1, 11, 22);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202404/11ef00749fe8b9279367a589174ed0cd.jpg?width=600', 'https://img.29cm.co.kr/item/202404/11ef00749fe8b9279367a589174ed0cd.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '[3차] Rena Jacquard Mini Skirt (White)', 118000, '상품번호 2540305', 37, 0, 47, 1, 1, 11, 22);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202403/11eee7f18dc97a56bb6a9551bf075aaf.jpg?width=600', 'https://img.29cm.co.kr/item/202403/11eee7f18dc97a56bb6a9551bf075aaf.jpg?width=600', seq_pd_id.currval);
+
+
+-- WOMEN -> 스커트 -> 롱
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, 'TE1-SK01 포켓 스커트 - 블랙', 57500, '상품번호 2594313', 0, 10, 50, 1, 1, 11, 23);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202404/11eefbbfc7fa786d88b1b30c01e7da95.jpg?width=600', 'https://img.29cm.co.kr/item/202404/11eefbbfc7fa786d88b1b30c01e7da95.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '[29CM 단독]_[5차 재입고] Maxi Shirring Flare Skirt (WHITE)[6월-17일 이내 출고]', 87500, '상품번호 2528256', 85, 12, 51, 1, 1, 11, 23);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202403/11eee2bc847875ba9a76017280b8e2ad.jpg?width=600', 'https://img.29cm.co.kr/item/202403/11eee2bc847875ba9a76017280b8e2ad.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '[스페셜오더]_KIKO FLARE SKIRT (2colors)', 98000, '상품번호 2036622', 490, 21, 45, 1, 1, 11, 23);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202404/11ef05f4f1935bd8892b8bc130ef0e68.jpg?width=600', 'https://img.29cm.co.kr/item/202404/11ef05f4f1935bd8892b8bc130ef0e68.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '클래식 맥시 스커트_black', 187000, '상품번호 2490120', 86, 0, 46, 1, 1, 11, 23);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/next-product/2024/02/22/8059baf80783420db4408cf50adccea5_20240222152406.jpg?width=600', 'https://img.29cm.co.kr/next-product/2024/02/22/8059baf80783420db4408cf50adccea5_20240222152406.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '[19차][29CM 단독] 베이직 슬릿 스커트 3컬러', 83000, '상품번호 657600', 595, 20, 50, 1, 1, 11, 23);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/next-product/2023/05/11/2e7a0a129e1e40c38dc51fa5920ca672_20230511001407.jpg?width=600', 'https://img.29cm.co.kr/next-product/2023/05/11/2e7a0a129e1e40c38dc51fa5920ca672_20230511001407.jpg?width=600', seq_pd_id.currval);
+
+
+-- WOMEN -> 스커트 -> 데님
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '[M size 5/22 순차배송]_BACK HEART POCKET DENIM SKIRT LIGHT BLUE', 88000, '상품번호 2588561', 4, 30, 51, 1, 1, 11, 24);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202404/11eefac482457d489367e9fce9fa006c.jpg?width=600', 'https://img.29cm.co.kr/item/202404/11eefac482457d489367e9fce9fa006c.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '[8156] 논이염 에이라인 생지 데님 스커트 (진청)', 45000, '상품번호 1378563', 752, 36, 45, 1, 1, 11, 24);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/next-product/2022/01/20/3716be2548184b5e8032469a62e6172e_20220120135228.jpg?width=600', 'https://img.29cm.co.kr/next-product/2022/01/20/3716be2548184b5e8032469a62e6172e_20220120135228.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, 'QUILL flare denim skirt_2colors', 138000, '상품번호 2296805', 15, 40, 55, 1, 1, 11, 24);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202310/11ee6e5208a294278a7f9d9650facef0.jpg?width=600', 'https://img.29cm.co.kr/item/202310/11ee6e5208a294278a7f9d9650facef0.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, 'SI JN 6031 classy slit denim skirt', 93000, '상품번호 1450077', 85, 30, 45, 1, 1, 11, 24);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/next-product/2022/03/11/97f3232d7313486e9f032c05eca7d9a0_20220311154531.jpg?width=600', 'https://img.29cm.co.kr/next-product/2022/03/11/97f3232d7313486e9f032c05eca7d9a0_20220311154531.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '버티컬 라인 데님 롱 스커트 [BLUE]', 62000, '상품번호 2602107', 3, 10, 49, 1, 1, 11, 24);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202404/11eefe17f42740eebb6a4fdcc3491ca4.jpg?width=600', 'https://img.29cm.co.kr/item/202404/11eefe17f42740eebb6a4fdcc3491ca4.jpg?width=600', seq_pd_id.currval);
+
+
+-- WOMEN -> 셋업 -> 수트
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '[2종세트] 24SS 실크혼방 셋업', 79900, '상품번호 2595646', 1, 25, 57, 1, 1, 11, 25);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202404/11eefc4fc2dec82c93671faa42cee343.jpg?width=600', 'https://img.29cm.co.kr/item/202404/11eefc4fc2dec82c93671faa42cee343.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, 'MOAA_소소 린넨 팬츠 셋업 (CHARCOAL)', 242000, '상품번호 1423664', 8, 45, 56, 1, 1, 11, 25);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/next-product/2022/02/25/5a86b78a88234d9fa6ddf88638884afd_20220225150303.jpg?width=600', 'https://img.29cm.co.kr/next-product/2022/02/25/5a86b78a88234d9fa6ddf88638884afd_20220225150303.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, 'Puff sleeve cropped jacket_two-tuck wide pants set_Navy', 179000, '상품번호 2612102', 3, 0, 58, 1, 1, 11, 25);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202404/11ef02c6c9dd7af493676961ddbdb9ae.jpg?width=600', 'https://img.29cm.co.kr/item/202404/11ef02c6c9dd7af493676961ddbdb9ae.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '[SET] 테일러드 오버 자켓 셔츠 + 투 턱 마이크로 쇼츠 챠콜', 196000, '상품번호 2566865', 4, 20, 59, 1, 1, 11, 25);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/next-product/2024/04/02/6e64e3785faa4710b1fb2db8d548a4ed_20240402150249.jpg?width=600', 'https://img.29cm.co.kr/next-product/2024/04/02/6e64e3785faa4710b1fb2db8d548a4ed_20240402150249.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, 'Puff sleeve cropped jacket_two-tuck wide pants set_Beige', 179000, '상품번호 2042801', 2, 5, 56, 1, 1, 11, 25);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/next-product/2023/04/25/f87578e34eff41a6af94842b7f115e6b_20230425012755.jpg?width=600', 'https://img.29cm.co.kr/next-product/2023/04/25/f87578e34eff41a6af94842b7f115e6b_20230425012755.jpg?width=600', seq_pd_id.currval);
+
+
+-- WOMEN -> 셋업 -> 스웻
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '[SET] 앨빈클로 WARMDAY 오버핏 맨투맨 밴딩 스웻 반바지 셋업', 69800, '상품번호 2221729', 70, 29, 50, 1, 1, 11, 26);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/next-product/2023/09/06/0cd375fb09494c308659962a402a4ea4_20230906160550.jpg?width=600', 'https://img.29cm.co.kr/next-product/2023/09/06/0cd375fb09494c308659962a402a4ea4_20230906160550.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '[SET] 비기닝83 스웨트 셋업 [OATMEAL]', 96000, '상품번호 1903575', 19, 40, 59, 1, 1, 11, 26);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/next-product/2023/02/06/f75e302e6e614c7e96354985c7087d38_20230206111440.jpg?width=600', 'https://img.29cm.co.kr/next-product/2023/02/06/f75e302e6e614c7e96354985c7087d38_20230206111440.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '[SET] (긴바지 OR 반바지 선택) CGP 헤리티지 럭비 맨투맨 셋업_네이비', 97900, '상품번호 2182329', 50, 45, 60, 1, 1, 11, 26);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202310/11ee6e2156f35db183bc11af794a5d93.jpg?width=600', 'https://img.29cm.co.kr/item/202310/11ee6e2156f35db183bc11af794a5d93.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '[SET] MET Present Ribbon Printing T-Shirt&Pants Set', 97000, '상품번호 2128729', 4, 34, 57, 1, 1, 11, 26);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202306/11ee15d5b78ccf86859149bc2dfb545b.jpg?width=600', 'https://img.29cm.co.kr/item/202306/11ee15d5b78ccf86859149bc2dfb545b.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '[SET] 로럴골든 하프 맨투맨 셋업_오트밀', 98000, '상품번호 1566661', 5, 49, 58, 1, 1, 11, 26);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202307/11ee2086df635710a5caf7a4022dad19.jpg?width=600', 'https://img.29cm.co.kr/item/202307/11ee2086df635710a5caf7a4022dad19.jpg?width=600', seq_pd_id.currval);
+
+
+-- WOMEN -> 셋업 -> 트레이닝
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '[SET]라인 테이프 트레이닝 셋업 그린', 168000, '상품번호 2184880', 50, 41, 52, 1, 1, 11, 27);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202308/11ee40be061a130f8a69832e23159719.jpg?width=600', 'https://img.29cm.co.kr/item/202308/11ee40be061a130f8a69832e23159719.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '[SET] 앨빈클로 절개 포인트 바람막이 무지 우븐 조거 팬츠 셋업', 79800, '상품번호 1980207', 2, 25, 54, 1, 1, 11, 27);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/next-product/2023/03/21/faf65d8e257c476599ab7ad0bac4f7e7_20230321132538.jpg?width=600', 'https://img.29cm.co.kr/next-product/2023/03/21/faf65d8e257c476599ab7ad0bac4f7e7_20230321132538.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '베이직 아노락 롱팬츠 셋업 [소라]', 127000, '상품번호 1207859', 30, 58, 57, 1, 1, 11, 27);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/next-product/2022/03/01/883c181a9d9c443989dbe825411c0fbd_20220301193214.jpg?width=600', 'https://img.29cm.co.kr/next-product/2022/03/01/883c181a9d9c443989dbe825411c0fbd_20220301193214.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '[SET] Kiff Logo Set Up _K24QB703XK24QC729', 74000, '상품번호 2592338', 22, 33, 59, 1, 1, 11, 27);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202404/11eefb8fcfc149dc9367cbafc6ef1204.jpg?width=600', 'https://img.29cm.co.kr/item/202404/11eefb8fcfc149dc9367cbafc6ef1204.jpg?width=600', seq_pd_id.currval);
+
+INSERT INTO PRODUCT VALUES (seq_pd_id.nextval, '[노스페이스] 여성 테크 런 트레이닝 자켓 팬츠 SET 블랙(BLK)', 138000, '상품번호 2567695', 158, 34, 45, 1, 1, 11, 27);
+INSERT INTO PRODUCT_IMAGE VALUES 
+(seq_pd_image_id.nextval, 'https://img.29cm.co.kr/item/202404/11eef0c992a9fa949367ad8a88d12544.jpg?width=600', 'https://img.29cm.co.kr/item/202404/11eef0c992a9fa949367ad8a88d12544.jpg?width=600', seq_pd_id.currval);

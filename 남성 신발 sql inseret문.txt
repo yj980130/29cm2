@@ -1,0 +1,318 @@
+
+--남성 신발
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '가르송티미드 하이탑 230 블랙', 120000, '상품번호2141001', 500, 15, 24, 2, 7, 222, 199);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '스위치 하이탑 240 화이트', 130000, '상품번호2141056', 450, 10, 25, 2, 7, 222, 199);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '프라이탁 하이탑 250 그레이', 110000, '상품번호2141102', 300, 20, 26, 2, 7, 222, 199);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '엘라고 하이탑 260 네이비', 140000, '상품번호2141154', 600, 25, 27, 2, 7, 222, 199);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '무아스 하이탑 270 레드', 125000, '상품번호2141209', 700, 30, 28, 2, 7, 222, 199);
+
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '어나더오피스 로우탑 230 블루', 150000, '상품번호2141251', 400, 12, 29, 2, 7, 222, 200);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '피부피부 로우탑 240 블랙', 145000, '상품번호2141306', 550, 18, 30, 2, 7, 222, 200);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '비비앙 로우탑 250 화이트', 135000, '상품번호2141354', 650, 22, 31, 2, 7, 222, 200);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '베르크로스터스 로우탑 260 그레이', 160000, '상품번호2141408', 350, 17, 32, 2, 7, 222, 200);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '맥파이앤타이거 로우탑 270 네이비', 155000, '상품번호2141453', 720, 14, 33, 2, 7, 222, 200);
+
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '그라미치 슬립온 230 블랙', 110000, '상품번호2141502', 450, 10, 35, 2, 7, 222, 201);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '노스페이스 슬립온 240 화이트', 120000, '상품번호2141556', 350, 20, 36, 2, 7, 222, 201);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '킨 슬립온 250 그레이', 130000, '상품번호2141604', 500, 15, 37, 2, 7, 222, 201);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '만월회 슬립온 260 네이비', 140000, '상품번호2141654', 600, 25, 38, 2, 7, 222, 201);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '테켓 슬립온 270 레드', 150000, '상품번호2141708', 700, 30, 39, 2, 7, 222, 201);
+
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '프랑브아즈 러닝화 230 블루', 160000, '상품번호2141752', 400, 12, 40, 2, 7, 222, 202);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '일룸 러닝화 240 블랙', 150000, '상품번호2141805', 550, 18, 41, 2, 7, 222, 202);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '미도리 러닝화 250 화이트', 140000, '상품번호2141854', 650, 22, 42, 2, 7, 222, 202);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '가르송티미드 러닝화 260 그레이', 130000, '상품번호2141907', 350, 17, 24, 2, 7, 222, 202);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '스위치 러닝화 270 네이비', 120000, '상품번호2141951', 720, 14, 25, 2, 7, 222, 202);
+
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '프라이탁 기능성 운동화 230 레드', 125000, '상품번호2142003', 500, 15, 26, 2, 7, 222, 203);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '엘라고 기능성 운동화 240 블루', 135000, '상품번호2142055', 450, 10, 27, 2, 7, 222, 203);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '무아스 기능성 운동화 250 블랙', 145000, '상품번호2142104', 300, 20, 28, 2, 7, 222, 203);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '어나더오피스 기능성 운동화 260 화이트', 155000, '상품번호2142158', 600, 25, 29, 2, 7, 222, 203);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '피부피부 기능성 운동화 270 그레이', 165000, '상품번호2142209', 700, 30, 30, 2, 7, 222, 203);
+
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '비비앙 페니로퍼 230 네이비', 150000, '상품번호2142251', 400, 12, 31, 2, 7, 223, 204);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '베르크로스터스 페니로퍼 240 레드', 145000, '상품번호2142306', 550, 18, 32, 2, 7, 223, 204);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '맥파이앤타이거 페니로퍼 250 블루', 135000, '상품번호2142354', 650, 22, 33, 2, 7, 223, 204);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '모모스커피 페니로퍼 260 블랙', 130000, '상품번호2142408', 350, 17, 34, 2, 7, 223, 204);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '그라미치 페니로퍼 270 화이트', 125000, '상품번호2142453', 720, 14, 35, 2, 7, 223, 204);
+
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '노스페이스 플레인로퍼 230 그레이', 120000, '상품번호2142502', 500, 15, 36, 2, 7, 223, 205);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '킨 플레인로퍼 240 네이비', 130000, '상품번호2142556', 450, 10, 37, 2, 7, 223, 205);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '만월회 플레인로퍼 250 레드', 110000, '상품번호2142602', 300, 20, 38, 2, 7, 223, 205);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '테켓 플레인로퍼 260 블루', 140000, '상품번호2142654', 600, 25, 39, 2, 7, 223, 205);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '프랑브아즈 플레인로퍼 270 블랙', 125000, '상품번호2142709', 700, 30, 40, 2, 7, 223, 205);
+
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '일룸 태슬 로퍼 230 화이트', 160000, '상품번호2142751', 400, 12, 41, 2, 7, 223, 206);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '미도리 태슬 로퍼 240 그레이', 150000, '상품번호2142806', 550, 18, 42, 2, 7, 223, 206);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '가르송티미드 태슬 로퍼 250 네이비', 140000, '상품번호2142854', 650, 22, 24, 2, 7, 223, 206);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '스위치 태슬 로퍼 260 레드', 130000, '상품번호2142908', 350, 17, 25, 2, 7, 223, 206);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '프라이탁 태슬 로퍼 270 블루', 120000, '상품번호2142953', 720, 14, 26, 2, 7, 223, 206);
+
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '엘라고 더비 230 블랙', 125000, '상품번호2143001', 500, 15, 27, 2, 7, 224, 207);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '무아스 더비 240 화이트', 135000, '상품번호2143056', 450, 10, 28, 2, 7, 224, 207);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '어나더오피스 더비 250 그레이', 145000, '상품번호2143102', 300, 20, 29, 2, 7, 224, 207);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '피부피부 더비 260 네이비', 155000, '상품번호2143154', 600, 25, 30, 2, 7, 224, 207);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '비비앙 더비 270 레드', 165000, '상품번호2143209', 700, 30, 31, 2, 7, 224, 207);
+
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '베르크로스터스 레이스업 230 블루', 150000, '상품번호2143251', 400, 12, 32, 2, 7, 224, 208);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '맥파이앤타이거 레이스업 240 블랙', 145000, '상품번호2143306', 550, 18, 33, 2, 7, 224, 208);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '모모스커피 레이스업 250 화이트', 135000, '상품번호2143354', 650, 22, 34, 2, 7, 224, 208);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '그라미치 레이스업 260 그레이', 160000, '상품번호2143408', 350, 17, 35, 2, 7, 224, 208);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '노스페이스 레이스업 270 네이비', 155000, '상품번호2143453', 720, 14, 36, 2, 7, 224, 208);
+
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '킨 첼시 부츠 230 레드', 140000, '상품번호2143502', 500, 15, 37, 2, 7, 225, 209);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '만월회 첼시 부츠 240 블루', 130000, '상품번호2143556', 450, 10, 38, 2, 7, 225, 209);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '테켓 첼시 부츠 250 블랙', 120000, '상품번호2143604', 300, 20, 39, 2, 7, 225, 209);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '프랑브아즈 첼시 부츠 260 화이트', 125000, '상품번호2143658', 600, 25, 40, 2, 7, 225, 209);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '일룸 첼시 부츠 270 그레이', 135000, '상품번호2143709', 700, 30, 41, 2, 7, 225, 209);
+
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '미도리 데저트 부츠 230 네이비', 145000, '상품번호2143751', 400, 12, 42, 2, 7, 225, 210);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '가르송티미드 데저트 부츠 240 레드', 135000, '상품번호2143806', 550, 18, 24, 2, 7, 225, 210);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '스위치 데저트 부츠 250 블루', 125000, '상품번호2143854', 650, 22, 25, 2, 7, 225, 210);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '프라이탁 데저트 부츠 260 블랙', 120000, '상품번호2143908', 350, 17, 26, 2, 7, 225, 210);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '엘라고 데저트 부츠 270 화이트', 110000, '상품번호2143953', 720, 14, 27, 2, 7, 225, 210);
+
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '무아스 미들 부츠 230 그레이', 140000, '상품번호2144001', 500, 15, 28, 2, 7, 225, 211);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '어나더오피스 미들 부츠 240 네이비', 130000, '상품번호2144056', 450, 10, 29, 2, 7, 225, 211);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '피부피부 미들 부츠 250 레드', 120000, '상품번호2144104', 300, 20, 30, 2, 7, 225, 211);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '비비앙 미들 부츠 260 블루', 125000, '상품번호2144158', 600, 25, 31, 2, 7, 225, 211);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '베르크로스터스 미들 부츠 270 블랙', 135000, '상품번호2144209', 700, 30, 32, 2, 7, 225, 211);
+
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '맥파이앤타이거 레인 부츠 230 화이트', 150000, '상품번호2144251', 400, 12, 33, 2, 7, 225, 212);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '모모스커피 레인 부츠 240 그레이', 145000, '상품번호2144306', 550, 18, 34, 2, 7, 225, 212);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '그라미치 레인 부츠 250 네이비', 135000, '상품번호2144354', 650, 22, 35, 2, 7, 225, 212);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '노스페이스 레인 부츠 260 레드', 125000, '상품번호2144408', 350, 17, 36, 2, 7, 225, 212);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '킨 레인 부츠 270 블루', 120000, '상품번호2144453', 720, 14, 37, 2, 7, 225, 212);
+
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '만월회 슬리퍼 230 블랙', 110000, '상품번호2144502', 500, 15, 38, 2, 7, 226, 213);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '테켓 슬리퍼 240 화이트', 120000, '상품번호2144556', 450, 10, 39, 2, 7, 226, 213);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '프랑브아즈 슬리퍼 250 그레이', 130000, '상품번호2144604', 300, 20, 40, 2, 7, 226, 213);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '일룸 슬리퍼 260 네이비', 140000, '상품번호2144654', 600, 25, 41, 2, 7, 226, 213);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '미도리 슬리퍼 270 레드', 150000, '상품번호2144708', 700, 30, 42, 2, 7, 226, 213);
+
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '가르송티미드 플립플랍 230 블루', 160000, '상품번호2144752', 400, 12, 24, 2, 7, 226, 214);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '스위치 플립플랍 240 블랙', 150000, '상품번호2144805', 550, 18, 25, 2, 7, 226, 214);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '프라이탁 플립플랍 250 화이트', 140000, '상품번호2144854', 650, 22, 26, 2, 7, 226, 214);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '엘라고 플립플랍 260 그레이', 130000, '상품번호2144907', 350, 17, 27, 2, 7, 226, 214);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '무아스 플립플랍 270 네이비', 120000, '상품번호2144951', 720, 14, 28, 2, 7, 226, 214);
+
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '어나더오피스 뮬 230 레드', 125000, '상품번호2145003', 500, 15, 29, 2, 7, 226, 215);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '피부피부 뮬 240 블루', 135000, '상품번호2145055', 450, 10, 30, 2, 7, 226, 215);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '비비앙 뮬 250 블랙', 145000, '상품번호2145104', 300, 20, 31, 2, 7, 226, 215);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '베르크로스터스 뮬 260 화이트', 155000, '상품번호2145158', 600, 25, 32, 2, 7, 226, 215);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '맥파이앤타이거 뮬 270 그레이', 165000, '상품번호2145209', 700, 30, 33, 2, 7, 226, 215);
+
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '모모스커피 샌들 230 네이비', 150000, '상품번호2145251', 400, 12, 34, 2, 7, 226, 216);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '그라미치 샌들 240 레드', 145000, '상품번호2145306', 550, 18, 35, 2, 7, 226, 216);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '노스페이스 샌들 250 블루', 135000, '상품번호2145354', 650, 22, 36, 2, 7, 226, 216);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '킨 샌들 260 블랙', 125000, '상품번호2145408', 350, 17, 37, 2, 7, 226, 216);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '만월회 샌들 270 화이트', 120000, '상품번호2145453', 720, 14, 38, 2, 7, 226, 216);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '테켓 운동화 250 블랙', 145000, '상품번호2145501', 400, 15, 39, 2, 7, 221 );
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '프랑브아즈 부츠 260 화이트', 160000, '상품번호2145556', 450, 10, 40, 2, 7, 221 );
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '일룸 샌들 270 블루', 135000, '상품번호2145604', 300, 20, 41, 2, 7, 221);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '미도리 로퍼 230 그레이', 120000, '상품번호2145653', 500, 25, 42, 2, 7, 221 );
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '가르송티미드 슬립온 240 네이비', 125000, '상품번호2145707', 600, 30, 24, 2, 7, 221);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '스위치 운동화 250 블랙', 145000, '상품번호2145751', 400, 15, 25, 2, 7, 227 );
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '프라이탁 부츠 260 화이트', 160000, '상품번호2145806', 450, 10, 26, 2, 7, 227);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '엘라고 샌들 270 블루', 135000, '상품번호2145854', 300, 20, 27, 2, 7, 227);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '무아스 로퍼 230 그레이', 120000, '상품번호2145903', 500, 25, 28, 2, 7, 227);
+
+INSERT INTO PRODUCT VALUES 
+(seq_pd_id.nextval, '어나더오피스 슬립온 240 네이비', 125000, '상품번호2145957', 600, 30, 29, 2, 7, 227);
