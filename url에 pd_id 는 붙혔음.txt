@@ -1,0 +1,14 @@
+url에 pd_id 는 붙혔음
+
+핸들러 만들어서 상세 페이지로 보내는 처리 하면된다.
+
+
+
+상세보기 페이지로 가져가야하는 데이터들이 뭔지 알아보자.
+
+
+상품제목, 상품사진, 상품가격, 할인율, 배송비, 옵션, 내 , 상품설명 이미지, 리뷰, qna, 
+
+
+PRODUCT, PRODUCT_IMAGE,DELIVERY_PAY
+,PRODUCT_QNA_CTGR,PRODUCT_REVIEW,PRODUCT_QNA
